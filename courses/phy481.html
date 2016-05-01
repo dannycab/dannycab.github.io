@@ -4,11 +4,25 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>dannycaballero</title>
+    <title>PHY 481 - Fall 2016</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
     <link href="../css/theme.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+    $(document).on('click', '.navbar-collapse.in', function(e) {
+        if ($(e.target).is('a')) {
+            $(this).collapse('hide');
+        }
+    });
+    </script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]} });
+    </script>
     <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
     </script>
 </head>
@@ -23,7 +37,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="./phy481.html">Physics 481</a>
+                <a class="navbar-brand" href="./phy481.html">PHY 481</a>
             </div>
             <div id="navbar" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
@@ -38,7 +52,8 @@
     </nav>
     <div class="container" id="syllabus">
         <!-- Syllabus -->
-        <h1>Physics 481 Fall 2016</h1>
+        <div class="alert alert-danger">All aspects of this syllabus and any accompanying pages or references are preliminary until this message has been removed.</div>
+        <h1>PHY 481 <small>Electricity and Magnetism I Fall 2016</small></h1>
         <div class="page-header">
             <h2>Syllabus</h2>
         </div>
@@ -63,7 +78,7 @@
         <p>There will be a copy of Griffiths on reserve in the library, along with several other good texts including the &quot;Feynman Lectures in Physics&quot; (Vol II is all about E&amp;M, and is wonderful reading), and Pollack and Stump, &quot;Electromagnetism&quot;. This is at Griffith's level, but a little more mathematical/formal.</p>
         <h3 id="course-activities">Course Activities</h3>
         <h4 id="readings">Readings</h4>
-        <p>Reading is an essential part of 481! Reading the text before class is very important. Lecture is to clarify your understanding, to help you make sense of the material. I will assume you have done the required readings in advance! Griffiths is one of the best (and most readable) texts I know of - it will make a huge difference if you spend the time and effort to carefully read and follow the text. The <a href="calendar.html">calendar</a> has the details on reading assignments.</p>
+        <p>Reading is an essential part of 481! Reading the text before class is very important. Lecture is to clarify your understanding, to help you make sense of the material. I will assume you have done the required readings in advance! Griffiths is one of the best (and most readable) texts I know of - it will make a huge difference if you spend the time and effort to carefully read and follow the text. The <a href="#calendar">calendar</a> has the details on reading assignments.</p>
         <h4 id="class-meetings">Class Meetings</h4>
         <p>Classroom Etiquette: Please turn off all cell phones and pagers when entering any classroom. Please do not throw vegetables at the instructor. Private chatter during lecture is very distracting, but it is perfectly OK to interrupt the lecture by yelling &quot;Question!&quot; Questions in lecture are always good, and are strongly encouraged!</p>
         <h4 id="homework">Homework</h4>
@@ -92,170 +107,326 @@
             <h2>Calendar</h2>
         </div>
         <div class="alert alert-warning col-md-8">
-        This calendar is tentative and might change based on the your input. Exam dates will not change, but topics might be adjusted if the calendar changes.
+            This calendar is tentative and might change based on the your input. Exam dates will not change, but topics might be adjusted if the calendar changes.
         </div>
-        <div class="col-md-10">
-        <h3>Week 1: Aug. 31 - Sept. 2</h3>
-        <ul>
-            <li><b>Topics:</b>
-                <ul>
-                    <li>Aug. 31: Introdcution</li>
-                    <li>Sept. 2: E field, curly R, and superposition. Intro to continuous charge. (rho, sigma, and lambda)</li>
-                </ul>
-                <li><b>Readings for the week:</b>
+        <div class="col-md-8" id="week1">
+            <h3>Week 1: Aug. 31 - Sept. 2</h3>
+            <div class="alert alert-info">
+                I think you'll find it is very readable, and well worth your time, even if in the past you've avoided reading your textbooks. Give Griffiths' a serious try!
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Aug. 31: Introduction</li>
+                        <li>Sept. 2: E field, curly R, and superposition. Intro to continuous charge. (rho, sigma, and lambda)</li>
+                    </ul>
+                    <b>Readings for the week:</b>
                     <ul>
                         <li> Ch 1.1 - 1.3 Read carefully</li>
-                        <li>Ch 2.1 - 2.2 Read these thoroughly.</li>
+                        <li>Ch 2.1 - 2.2 Read these sections thoroughly</li>
                     </ul>
-                    <li><b>Homework:</b>
-                        <ul>
-                            <li>Aug. 31: HW 1 Assigned</li>
-                        </ul>
-        </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Aug. 31: HW 1 Assigned</li>
+                    </ul>
+                </div>
+            </div>
         </div>
-        <div class="alert alert-info col-md-8">
-            I think you'll find it is very readable, and well worth your time, even if in the past you've avoided reading your textbooks. Give Griffiths' a serious try!
+        <div class="col-md-8" id="week2">
+            <h3>Week 2: Sept. 5 - Sept. 9</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 5: Holiday (No Class)</li>
+                        <li>Sept. 7: Examples with continuous charge, and intro to Gauss' law</li>
+                        <li>Sept. 9: More on Gauss' law and delta functions</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 1.5 (delta functions), 2.3</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 9: Homework 1 collected; Homework 2 Assigned</li>
+                    </ul>
+                </div>
+            </div>
         </div>
-        <!--<table class="table">
-                <colgroup>
-                    <col width="5%" />
-                    <col width="15%" />
-                    <col width="30%" />
-                    <col width="30%" />
-                    <col width="30%" />
-                </colgroup>
-                <thead>
-                    <tr>
-                        <th>Week</th>
-                        <th>Dates</th>
-                        <th>Topics</th>
-                        <th>Reading for the week</th>
-                        <th>Assignments</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>1</td>
-                        <td>Aug. 31 - Sept. 2</td>
-                        <td>Aug. 31 - Introduction
-                            <br>
-                            <br>Sept. 2 - E field, curly R, and superposition. Intro to continuous charge. (rho, sigma, and lambda)</td>
-                        <td>Ch 1.1 - 1.3 Read carefully
-                            <br><em>These sections should be review.</em>
-                            <br>Ch 2.1 - 2.2 Read these thoroughly.
-                            <br>
-                            <div class="alert alert-info">I think you'll find it is very readable, and well worth your time, even if in the past you've avoided reading your textbooks. Give Griffiths' a serious try!</div>
-                        </td>
-                        <td>Aug. 31 - Homework 1 Assigned</td>
-                    </tr>
-                    <tr>
-                        <td>2</td>
-                        <td>Sept. 5 - Sept. 9</td>
-                        <td>Sept. 5 - No Class (Holiday)
-                            <br>
-                            <br>Sept. 7 - Examples with continuous charge, and intro to Gauss' law
-                            <br>
-                            <br>Sept. 9 - More on Gauss' law and delta functions</td>
-                        <td>Ch 1.5 (delta functions), 2.3</td>
-                        <td>Sept. 9 - Homework 1 collected; Homework 2 Assigned</td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>Sept. 12 - Sept. 16</td>
-                        <td>Sept. 12 - Gauss' law examples
-                            <br>
-                            <br>Sept. 14 - More Gauss, \[\nabla \times \vec{E} = 0\]
-                            <br>
-                            <br>Sept. 16 - Voltage</td>
-                        <td>Ch 2.3-2.4</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>4</td>
-                        <td>Sept. 19 - Sept. 23</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>5</td>
-                        <td>Sept. 26 - Sept. 30</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>6</td>
-                        <td>Oct. 3 - Oct. 7</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>7</td>
-                        <td>Oct. 10 - Oct. 14</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>8</td>
-                        <td>Oct. 17 - Oct. 21</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>9</td>
-                        <td>Oct. 24 - Oct. 28</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>10</td>
-                        <td>Oct. 31 - Nov. 4</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>11</td>
-                        <td>Nov. 7 - Nov 11</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>12</td>
-                        <td>Nov. 14 - Nov. 18</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>13</td>
-                        <td>Nov. 21 - Nov. 25</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>14</td>
-                        <td>Nov. 28 - Dec. 2</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>15</td>
-                        <td>Dec. 5 -Dec. 9</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                </tbody>
-            </table>-->
+        <div class="col-md-8" id="week3">
+            <h3>Week 3: Sept. 12 - Sept. 16</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 12: Gauss' law examples</li>
+                        <li>Sept. 14: More Gauss, \(\nabla \times \vec{E} = 0\)</li>
+                        <li>Sept. 16: Voltage</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 2.3-2.4</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 16: Homework 2 collected; Homework 3 Assigned</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8" id="week4">
+            <h3>Week 4: Sept. 19 - Sept. 23</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 12: Gauss' law examples</li>
+                        <li>Sept. 14: More Gauss, \(\nabla \times \vec{E} = 0\)</li>
+                        <li>Sept. 16: Voltage</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 2.3-2.4</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 16: Homework 2 collected; Homework 3 Assigned</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8" id="week5">
+            <h3>Week 5: Sept. 26 - Sept. 30</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 12: Gauss' law examples</li>
+                        <li>Sept. 14: More Gauss, \(\nabla \times \vec{E} = 0\)</li>
+                        <li>Sept. 16: Voltage</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 2.3-2.4</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 16: Homework 2 collected; Homework 3 Assigned</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8" id="week6">
+            <h3>Week 6: Oct. 3 - Oct. 7</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 12: Gauss' law examples</li>
+                        <li>Sept. 14: More Gauss, \(\nabla \times \vec{E} = 0\)</li>
+                        <li>Sept. 16: Voltage</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 2.3-2.4</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 16: Homework 2 collected; Homework 3 Assigned</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8" id="week7">
+            <h3>Week 7: Oct. 10 - Oct. 14</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 12: Gauss' law examples</li>
+                        <li>Sept. 14: More Gauss, \(\nabla \times \vec{E} = 0\)</li>
+                        <li>Sept. 16: Voltage</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 2.3-2.4</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 16: Homework 2 collected; Homework 3 Assigned</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8" id="week8">
+            <h3>Week 8: Oct. 17 - Oct. 21</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 12: Gauss' law examples</li>
+                        <li>Sept. 14: More Gauss, \(\nabla \times \vec{E} = 0\)</li>
+                        <li>Sept. 16: Voltage</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 2.3-2.4</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 16: Homework 2 collected; Homework 3 Assigned</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8" id="week9">
+            <h3>Week 9: Oct. 24 - Oct. 28</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 12: Gauss' law examples</li>
+                        <li>Sept. 14: More Gauss, \(\nabla \times \vec{E} = 0\)</li>
+                        <li>Sept. 16: Voltage</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 2.3-2.4</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 16: Homework 2 collected; Homework 3 Assigned</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8" id="week10">
+            <h3>Week 10: Oct. 31 - Nov. 4</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 12: Gauss' law examples</li>
+                        <li>Sept. 14: More Gauss, \(\nabla \times \vec{E} = 0\)</li>
+                        <li>Sept. 16: Voltage</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 2.3-2.4</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 16: Homework 2 collected; Homework 3 Assigned</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8" id="week11">
+            <h3>Week 11: Nov. 7 - Nov 11</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 12: Gauss' law examples</li>
+                        <li>Sept. 14: More Gauss, \(\nabla \times \vec{E} = 0\)</li>
+                        <li>Sept. 16: Voltage</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 2.3-2.4</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 16: Homework 2 collected; Homework 3 Assigned</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8" id="week12">
+            <h3>Week 12: Nov. 14 - Nov. 18</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 12: Gauss' law examples</li>
+                        <li>Sept. 14: More Gauss, \(\nabla \times \vec{E} = 0\)</li>
+                        <li>Sept. 16: Voltage</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 2.3-2.4</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 16: Homework 2 collected; Homework 3 Assigned</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8" id="week13">
+            <h3>Week 13: Nov. 21 - Nov. 25</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 12: Gauss' law examples</li>
+                        <li>Sept. 14: More Gauss, \(\nabla \times \vec{E} = 0\)</li>
+                        <li>Sept. 16: Voltage</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 2.3-2.4</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 16: Homework 2 collected; Homework 3 Assigned</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8" id="week14">
+            <h3>Week 14: Nov. 28 - Dec. 2</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 12: Gauss' law examples</li>
+                        <li>Sept. 14: More Gauss, \(\nabla \times \vec{E} = 0\)</li>
+                        <li>Sept. 16: Voltage</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 2.3-2.4</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 16: Homework 2 collected; Homework 3 Assigned</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8" id="week15">
+            <h3>Week 15: Dec. 5 -Dec. 9</h3>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <b>Topics:</b>
+                    <ul>
+                        <li>Sept. 12: Gauss' law examples</li>
+                        <li>Sept. 14: More Gauss, \(\nabla \times \vec{E} = 0\)</li>
+                        <li>Sept. 16: Voltage</li>
+                    </ul>
+                    <b>Readings for the week:</b>
+                    <ul>
+                        <li>Ch 2.3-2.4</li>
+                    </ul>
+                    <b>Homework:</b>
+                    <ul>
+                        <li>Sept. 16: Homework 2 collected; Homework 3 Assigned</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </div>
     <!-- Getting help-->
     <div id="gettinghelp" class="container">
@@ -269,17 +440,6 @@
             <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" class="fa fa-creative-commons"></a> Posted work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License</a> unless noted otherwise.
         </p>
     </div>
-    <!-- /.container -->
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script>
-    window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')
-    </script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 </body>
 
 </html>
