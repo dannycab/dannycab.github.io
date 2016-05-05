@@ -16,3 +16,10 @@ body {
 .theme-showcase .navbar .container {
   width: auto;
 }
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
+}
