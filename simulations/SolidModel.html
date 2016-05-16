@@ -1,0 +1,145 @@
+<html>
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<div id="glowscript" class="glowscript">
+<link type="text/css" href="http://www.glowscript.org/css/redmond/jquery-ui.custom.css" rel="stylesheet" /><link href="http://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css"><link type="text/css" href="http://www.glowscript.org/css/ide.css" rel="stylesheet" /><script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+<script type="text/javascript" src="http://www.glowscript.org/lib/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.glowscript.org/lib/jquery/jquery-ui.custom.min.js"></script>
+<script type="text/javascript" src="http://www.glowscript.org/package/glow.1.0.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+<script> CFInstall.check({ mode: "overlay" })</script>
+<script type="text/javascript">
+;(function() {
+var __g=typeof global!=='undefined'?global:window;__g=(__g.__streamline||(__g.__streamline={}));__g.setEF=__g.setEF||function(e,f){e.__frame = e.__frame||f};var __srcName='undefined_.js';
+function __func(a, b, c, d, e, f, g) {if(!a)return __future.call(b,d,c,e);f.file=__srcName,f.prev=__g.frame,__g.frame=f;try{g()}catch(h){__g.setEF(h,f.prev),__propagate(a,h)}finally{__g.frame=f.prev}}
+function __cb(a, b, c, d, e) {b.offset=c,b.col=d;var f=__g.context;return function g(c,d){var g=__g.frame;__g.frame=b,__g.context=f;try{return c?(__g.setEF(c,b),a(c)):e(null,d)}catch(h){return __g.setEF(h,b),__propagate(a,h)}finally{__g.frame=g}}}
+function __future(a, b, c) {var d,e,f,g=function(a,b){d=!0,e=a,f=b};return b=Array.prototype.slice.call(b),b[c]=function(a,b){g(a,b)},a.apply(this,b),function(a){d?a.call(this,e,f):g=a.bind(this)}.bind(this);}
+function __propagate(a, b) {try{a(b)}catch(c){__trap(c)}}
+function __trap(a) {a&&(__g.context&&__g.context.errorHandler?__g.context.errorHandler(a):console.error("UNCAUGHT EXCEPTION: "+a.message+"\n"+a.stack));}
+/*     1 */ function main(wait) {
+              var scene, k, m, spacing, atom_radius, L0, V0, N, crystal, dt, a, atom, s, spring, L, Ls, Fdt;
+/*    20 */   function display_instructions() {
+/*    21 */     var s1 = "In GlowScript programs:\n\n";
+/*    22 */     var s2 = "    Rotate the camera by dragging with the right mouse button,\n        or hold down the Ctrl key and drag.\n\n";
+/*    23 */     var s3 = "    To zoom, drag with the left+right mouse buttons,\n         or hold down the Alt key and drag,\n         or use the mouse wheel.";
+/*    24 */     scene.caption.text(s1["+"](s2)["+"](s3));
+              };
+/*    31 */   function makeCrystal(N, atom_radius, spacing, momentumRange) {
+/*    32 */     var crystal = {
+/*    32 */       atoms: [],
+/*    32 */       springs: []
+                };
+/*    33 */     var atom;
+/*    34 */     var x, y, z;
+/*    36 */     function atomAt(np) {
+/*    37 */       if (((((((np.x >= 0) && (np.y >= 0)) && (np.z >= 0)) && (np.x < N)) && (np.y < N)) && (np.z < N))) {
+/*    38 */         return crystal.atoms[np.x["+"](np.y["*"](N))["+"](np.z["*"](N)["*"](N))]
+                  };
+/*    40 */       var w = box();
+/*    41 */       w.visible = false;
+/*    42 */       w.size = atom_radius["*"](vec(1, 1, 1));
+/*    43 */       w.pos = np["*"](spacing);
+/*    44 */       w.momentum = vec(0, 0, 0);
+/*    45 */       return w;
+                };
+/*    49 */     for (z = 0; (z < N); z++) {
+/*    52 */       for (y = 0; (y < N); y++) {
+/*    53 */         for (x = 0; (x < N); x++) {
+/*    54 */           atom = sphere();
+/*    55 */           atom.pos = vec(x, y, z)["*"](spacing);
+/*    56 */           atom.size = 2["*"](atom_radius)["*"](vec(1, 1, 1));
+/*    57 */           atom.color = vec(0, 0.58, 0.69);
+                      atom.momentum = momentumRange["*"](vec.random());
+                      crystal.atoms.push(atom);
+                    };
+                  };
+                };
+/*    62 */     for (var d = 0; (d < 3); d++) {
+/*    66 */       for (z = 1["-u"](); (z < N); z++) {
+/*    67 */         for (y = 1["-u"](); (y < N); y++) {
+/*    69 */           for (x = 1["-u"](); (x < N); x++) {
+/*    70 */             atom = atomAt(vec(x, y, z));
+/*    71 */             var neighbor = atomAt(vec(x, y, z)["+"](vec.axes[d]));
+/*    72 */             if ((atom.visible || neighbor.visible)) {
+/*    73 */               var spring = helix();
+/*    74 */               spring.visible = (atom.visible && neighbor.visible);
+/*    75 */               spring.thickness = 0.05;
+/*    76 */               spring.size = vec(spacing, atom_radius, atom_radius);
+/*    77 */               spring.up = vec(1, 1, 1);
+                          spring.atoms = [atom,neighbor,];
+                          spring.color = vec(1, 0.5, 0);
+                          crystal.springs.push(spring);
+                        }
+                      ;
+                      };
+                    };
+                  };
+                };
+/*    80 */     return crystal;
+              };
+              var __frame = {
+                name: "main",
+                line: 1
+              };
+              return __func(wait, this, arguments, main, 0, __frame, function __$main() {
+/*     1 */     scene = canvas();
+/*     6 */     vec.axes = [vec(1, 0, 0),vec(0, 1, 0),vec(0, 0, 1),];
+/*     8 */     k = 1;
+/*     9 */     m = 1;
+/*    10 */     spacing = 1;
+/*     1 */     atom_radius = 0.3["*"](spacing);
+/*     1 */     L0 = spacing["-"](1.8["*"](atom_radius));
+/*     1 */     V0 = pi["*"](pow(0.5["*"](atom_radius), 2))["*"](L0);
+/*    14 */     N = 3;
+/*    15 */     crystal = makeCrystal(N, atom_radius, spacing, 0.1["*"](spacing)["*"](sqrt(k["/"](m))));
+/*    16 */     scene.center = 0.5["*"](N["-"](1))["*"](vec(1, 1, 1));
+/*    17 */     scene.autoscale = false;
+/*     1 */     dt = 0.04["*"](2["*"](pi)["*"](sqrt(m["/"](k))));
+                return (function ___(__break) {
+                  var __more;
+                  var __loop = __cb(wait, __frame, 0, 0, function __$main() {
+                    __more = false;
+/*    83 */         var __1 = true;
+                    if (__1) {
+/*    84 */           return rate(30, __cb(wait, __frame, 83, -1, function __$main() {
+/*    85 */             for (a = 0; (a < crystal.atoms.length); a++) {
+/*    86 */               atom = crystal.atoms[a];
+/*    87 */               atom.pos = atom.pos["+"](atom.momentum["/"](m)["*"](dt));
+                        };
+/*    89 */             for (s = 0; (s < crystal.springs.length); s++) {
+/*    90 */               spring = crystal.springs[s];
+/*    91 */               spring.axis = spring.atoms[1].pos["-"](spring.atoms[0].pos);
+/*    92 */               L = mag(spring.axis);
+/*    93 */               spring.axis = spring.axis.norm();
+/*    94 */               spring.pos = spring.atoms[0].pos["+"](0.5["*"](atom_radius)["*"](spring.axis));
+/*     1 */               Ls = L["-"](1["*"](atom_radius));
+/*    96 */               spring.size.x = Ls;
+/*     1 */               Fdt = spring.axis["*"](k["*"](dt)["*"](1["-"](spacing["/"](L))));
+/*    98 */               spring.atoms[0].momentum = spring.atoms[0].momentum["+"](Fdt);
+/*    99 */               spring.atoms[1].momentum = spring.atoms[1].momentum["-"](Fdt);
+                        };
+                        while (__more) {
+                          __loop();
+                        };
+                        __more = true;
+                      }));
+                    }
+                     else {
+                      __break();
+                    }
+                  ;
+                  });
+                  do {
+                    __loop();
+                  } while (__more);
+                  __more = true;
+                })(function __$main() {
+                  wait();
+                });
+              });
+            };
+/*   104 */ main;
+
+;$(function(){ window.__context = { glowscript_container: $("#glowscript").removeAttr("id") }; main() })})()
+</script>
+</div>
+</html>

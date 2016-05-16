@@ -1,0 +1,92 @@
+<html>
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<div id="glowscript" class="glowscript">
+<link type="text/css" href="http://www.glowscript.org/css/redmond/jquery-ui.custom.css" rel="stylesheet" /><link href="http://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css"><link type="text/css" href="http://www.glowscript.org/css/ide.css" rel="stylesheet" /><script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+<script type="text/javascript" src="http://www.glowscript.org/lib/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.glowscript.org/lib/jquery/jquery-ui.custom.min.js"></script>
+<script type="text/javascript" src="http://www.glowscript.org/package/glow.1.0.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+<script> CFInstall.check({ mode: "overlay" })</script>
+<script type="text/javascript">
+;(function() {
+var __g=typeof global!=='undefined'?global:window;__g=(__g.__streamline||(__g.__streamline={}));__g.setEF=__g.setEF||function(e,f){e.__frame = e.__frame||f};var __srcName='undefined_.js';
+function __func(a, b, c, d, e, f, g) {if(!a)return __future.call(b,d,c,e);f.file=__srcName,f.prev=__g.frame,__g.frame=f;try{g()}catch(h){__g.setEF(h,f.prev),__propagate(a,h)}finally{__g.frame=f.prev}}
+function __cb(a, b, c, d, e) {b.offset=c,b.col=d;var f=__g.context;return function g(c,d){var g=__g.frame;__g.frame=b,__g.context=f;try{return c?(__g.setEF(c,b),a(c)):e(null,d)}catch(h){return __g.setEF(h,b),__propagate(a,h)}finally{__g.frame=g}}}
+function __future(a, b, c) {var d,e,f,g=function(a,b){d=!0,e=a,f=b};return b=Array.prototype.slice.call(b),b[c]=function(a,b){g(a,b)},a.apply(this,b),function(a){d?a.call(this,e,f):g=a.bind(this)}.bind(this);}
+function __propagate(a, b) {try{a(b)}catch(c){__trap(c)}}
+function __trap(a) {a&&(__g.context&&__g.context.errorHandler?__g.context.errorHandler(a):console.error("UNCAUGHT EXCEPTION: "+a.message+"\n"+a.stack));}
+/*     1 */ function main(wait) {
+              var scene, G, giant, dwarf, dt, dist, force, stars, _star, star;
+              var __frame = {
+                name: "main",
+                line: 1
+              };
+              return __func(wait, this, arguments, main, 0, __frame, function __$main() {
+/*     1 */     scene = canvas();
+/*     4 */     scene.forward = vec(0, 0.3["-u"](), 1["-u"]());
+/*     6 */     G = 6.7e-11;
+/*     8 */     giant = sphere({
+/*     8 */       pos: vec(100000000000["-u"](), 0, 0),
+/*     8 */       size: 40000000000["*"](vec(1, 1, 1)),
+/*     8 */       color: color.red
+                });
+/*     9 */     giant.mass = 2e+30;
+/*    10 */     giant.p = vec(0, 0, 10000["-u"]())["*"](giant.mass);
+/*    11 */     attach_trail(giant, {
+/*    11 */       retain: 150
+                });
+/*    13 */     dwarf = sphere({
+/*    13 */       pos: vec(150000000000, 0, 0),
+/*    13 */       size: 20000000000["*"](vec(1, 1, 1)),
+/*    13 */       color: color.yellow
+                });
+/*    14 */     dwarf.mass = 1e+30;
+/*    15 */     dwarf.p = giant.p["-u"]();
+/*    16 */     attach_trail(dwarf, {
+/*    16 */       type: "spheres",
+/*    16 */       pps: 20,
+/*    16 */       retain: 40
+                });
+/*    18 */     dt = 100000;
+                return (function ___(__break) {
+                  var __more;
+                  var __loop = __cb(wait, __frame, 0, 0, function __$main() {
+                    __more = false;
+/*    19 */         var __1 = true;
+                    if (__1) {
+/*    20 */           return rate(200, __cb(wait, __frame, 19, -1, function __$main() {
+/*     1 */             dist = dwarf.pos["-"](giant.pos);
+/*     1 */             force = G["*"](giant.mass)["*"](dwarf.mass)["*"](dist)["/"](pow(mag(dist), 3));
+/*    24 */             giant.p = giant.p["+"](force["*"](dt));
+/*    25 */             dwarf.p = dwarf.p["-"](force["*"](dt));
+/*    27 */             stars = [giant,dwarf,];
+/*    28 */             for (_star in stars) {
+/*    29 */               star = stars[_star];
+/*    30 */               star.pos = star.pos["+"](star.p["/"](star.mass)["*"](dt));
+                        };
+                        while (__more) {
+                          __loop();
+                        };
+                        __more = true;
+                      }));
+                    }
+                     else {
+                      __break();
+                    }
+                  ;
+                  });
+                  do {
+                    __loop();
+                  } while (__more);
+                  __more = true;
+                })(function __$main() {
+                  wait();
+                });
+              });
+            };
+/*    35 */ main;
+
+;$(function(){ window.__context = { glowscript_container: $("#glowscript").removeAttr("id") }; main() })})()
+</script>
+</div>
+</html>

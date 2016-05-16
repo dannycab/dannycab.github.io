@@ -1,0 +1,92 @@
+<div id="glowscript" class="glowscript">
+<link type="text/css" href="http://www.glowscript.org/css/redmond/2.0/jquery-ui.custom.css" rel="stylesheet" />
+<link href="http://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
+<link type="text/css" href="http://www.glowscript.org/css/ide.css" rel="stylesheet" />
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+<script type="text/javascript" src="http://www.glowscript.org/lib/jquery/2.0/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.glowscript.org/lib/jquery/2.0/jquery-ui.custom.min.js"></script>
+<script type="text/javascript" src="http://www.glowscript.org/package/glow.2.0.min.js"></script>
+<script type="text/javascript" src="http://www.glowscript.org/package/RSrun.2.0.min.js"></script>
+<script type="text/javascript">
+;(function() {function enumerate(item) {var arr = []; for (var i = 0; i < item.length; i++) {arr[arr.length] = [i, item[i]];}return arr;}
+
+var __g=typeof global!=='undefined'?global:window; __g=(__g.__streamline||(__g.__streamline={}));__g.setEF=__g.setEF||function(e,f){e.__frame = e.__frame||f};var __srcName='undefined_.js'; function __func(_,__this,__arguments,fn,index,frame,body){if(!_){return __future.call(__this,fn,__arguments,index)}frame.file=__srcName;frame.prev=__g.frame;__g.frame=frame;try{body()}catch(e){__g.setEF(e,frame.prev);__propagate(_,e)}finally{__g.frame=frame.prev}} function __cb(_,frame,offset,col,fn){frame.offset=offset;frame.col=col;var ctx=__g.context;return function ___(err,result) {var oldFrame=__g.frame;__g.frame=frame;__g.context=ctx;try{if(err){__g.setEF(err,frame);return _(err)}return fn(null,result)}catch(ex){__g.setEF(ex,frame);return __propagate(_,ex)}finally{__g.frame=oldFrame}}} function __future(fn,args,i){var done,err,result;var cb=function(e,r){done=true;err=e,result=r};args=Array.prototype.slice.call(args);args[i]=function ___(e,r){cb(e,r)};fn.apply(this,args);return function ___(_){if(done)_.call(this,err,result);else cb=_.bind(this)}.bind(this)} function __propagate(_,err){try{_(err)}catch(ex){__trap(ex)}} function __trap(err){if(err){if(__g.context&&__g.context.errorHandler)__g.context.errorHandler(err);else console.error('UNCAUGHT EXCEPTION: '+err.message+' : '+err.stack)}} function main(wait) { var version, box, sphere, cylinder, pyramid, cone, helix, ellipsoid, ring, arrow, graph, display, vector, _$GS_$END, scene, _$rapyd$_Temp, _$rapyd$_print, arange, running, charge, informationmsg, b0msg, B0, speedmsg, v0, m, q, p, bscale, vscale, fscale, fieldvector, velvector, forcevector, dt, tf, B, Fb, vhat, v, t;
+
+
+  function setB0() {
+    "30";
+    "31";
+    B0 = $("#B0_slider").slider("value")["/"](10000); };  function setv0() {
+    "43";
+    "44";
+    v0 = $("#v0_slider").slider("value"); }; var __frame = { name: "main", line: 1 }; return __func(wait, this, arguments, main, 0, __frame, function __$main() { version = ["2.0","glowscript",]; Array.prototype["+"] = function(r) { return this.concat(r); }; window.__GSlang = "vpython"; box = vp_box; sphere = vp_sphere; cylinder = vp_cylinder; pyramid = vp_pyramid; cone = vp_cone; helix = vp_helix; ellipsoid = vp_ellipsoid; ring = vp_ring; arrow = vp_arrow; graph = vp_graph; display = canvas; vector = vec; _$GS_$END = 0; scene = canvas(); _$rapyd$_Temp = 0; _$rapyd$_print = GSprint; arange = range; "4"; scene.title.text; "Sample Projectile Trajectory\n"; "5"; scene.title.append; "Ctrl-drag to rotate, Alt-drag to zoom"; "6"; scene.width = 600; "7"; scene.height = 400; "8"; scene.center = vec(0, 0, 0); "10"; running = false; "12"; $("<button/>").text("Run").appendTo(scene.title).click(function() { "13"; "14"; running = !running; "15"; if (running) { $(this).text("Pause"); } else { $(this).text("Run"); } ; }); "19"; charge = sphere({ pos: vector(0, 0, 0), color: color.red, make_trail: true, radius: 0.1 }); "21"; scene.caption.text(""); "22"; informationmsg = $("<p>This charge is moving in a uniform magnetic field; the velocity and magnetic field are perpendicular to start, the magntiude of both can be changed.<\/p><ul><li>Red arrow is the velocity vector.</li><li>Blue arrow is the magnetic field vector.</li><li>White arrow is the magnetic force vector</li></ul>").appendTo(scene.caption); "27"; b0msg = $("<p>Vary the magnetic field strength:</p>").appendTo(scene.caption); "28"; B0 = 0.05; "29"; "32"; $("<div id=\"B0_slider\"></div>").appendTo(scene.caption).css({ width: "350px" }); "34"; $(function() { "35"; $("#B0_slider").slider({ value: 500, min: 50, max: 5000, range: "min", slide: setB0, change: setB0 }); }); "38"; B = B0["*"](vector(0, 0, 1["-u"]())); "40"; speedmsg = $("<p>Vary the speed of the particle:</p>").appendTo(scene.caption); "41"; v0 = 10; "42";
+
+    "45";
+    $("<div id=\"v0_slider\"></div>").appendTo(scene.caption).css({ width: "350px" });
+    "47";
+    $(function() {
+      "48";
+      $("#v0_slider").slider({ value: 10, min: 1, max: 50, range: "min", slide: setv0, change: setv0 }); });
+
+    "52";
+    v = v0["*"](vector(1, 0, 0));
+    "53";
+    m = 0.01;
+    "54";
+    q = 1;
+    "55";
+    p = m["*"](v);
+    "56";
+    bscale = 20;
+    "57";
+    vscale = 0.05;
+    "58";
+    fscale = 1;
+    "60";
+    fieldvector = arrow({ pos: charge.pos, color: color.blue, axis: bscale["*"](B) });
+    "61";
+    velvector = arrow({ pos: charge.pos, color: color.red, axis: vscale["*"](v) });
+    "62";
+    forcevector = arrow({ pos: charge.pos, colorado: color.white, axis: fscale["*"](q)["*"](cross(p["/"](m), B)) });
+    "66";
+    t = 0;
+    "67";
+    dt = 0.001;
+    "68";
+    tf = 1000;
+    "70"; return (function ___(__break) { var __more; var __loop = __cb(wait, __frame, 0, 0, function __$main() { __more = false;
+        var __1 = true; if (__1) {
+          "72";
+          return rate(100, __cb(wait, __frame, 119, 8, function __$main() {
+            "73";
+            if (running) {
+              "75";
+              B = B0["*"](vector(0, 0, 1["-u"]()));
+              "76";
+              Fb = q["*"](cross(v, B));
+              "80";
+              v = v["+"](Fb["/"](m)["*"](dt));
+              "81";
+              charge.pos = charge.pos["+"](v["*"](dt));
+              "83";
+              fieldvector.pos = charge.pos;
+              "84";
+              velvector.pos = charge.pos;
+              "85";
+              forcevector.pos = charge.pos;
+              "87";
+              fieldvector.axis = bscale["*"](B);
+              "88";
+              velvector.axis = vscale["*"](v);
+              "89";
+              forcevector.axis = fscale["*"](Fb);
+              "91";
+              vhat = v["/"](mag(v));
+              "92";
+              v = v0["*"](vhat);
+              "94";
+              t = t["+"](dt); } ; while (__more) { __loop(); }; __more = true; }, true)); } else { __break(); } ; }); do { __loop(); } while (__more); __more = true; })(function __$main() { wait(); }); });};main;
+
+;$(function(){ window.__context = { glowscript_container: $("#glowscript").removeAttr("id") }; main() })})()
+</script>
+</div>

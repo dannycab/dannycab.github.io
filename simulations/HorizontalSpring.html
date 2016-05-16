@@ -1,0 +1,99 @@
+<html>
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<div id="glowscript" class="glowscript">
+<link type="text/css" href="http://www.glowscript.org/css/redmond/jquery-ui.custom.css" rel="stylesheet" /><link href="http://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css"><link type="text/css" href="http://www.glowscript.org/css/ide.css" rel="stylesheet" /><script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+<script type="text/javascript" src="http://www.glowscript.org/lib/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.glowscript.org/lib/jquery/jquery-ui.custom.min.js"></script>
+<script type="text/javascript" src="http://www.glowscript.org/package/glow.1.0.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+<script> CFInstall.check({ mode: "overlay" })</script>
+<script type="text/javascript">
+;(function() {
+var __g=typeof global!=='undefined'?global:window;__g=(__g.__streamline||(__g.__streamline={}));__g.setEF=__g.setEF||function(e,f){e.__frame = e.__frame||f};var __srcName='undefined_.js';
+function __func(a,b,c,d,e,f,g){if(!a)return __future.call(b,d,c,e);f.file=__srcName,f.prev=__g.frame,__g.frame=f;try{g()}catch(h){__g.setEF(h,f.prev),__propagate(a,h)}finally{__g.frame=f.prev}}
+function __cb(a,b,c,d,e){b.offset=c,b.col=d;var f=__g.context;return function g(c,d){var g=__g.frame;__g.frame=b,__g.context=f;try{return c?(__g.setEF(c,b),a(c)):e(null,d)}catch(h){return __g.setEF(h,b),__propagate(a,h)}finally{__g.frame=g}}}
+function __future(a,b,c){var d,e,f,g=function(a,b){d=!0,e=a,f=b};return b=Array.prototype.slice.call(b),b[c]=function(a,b){g(a,b)},a.apply(this,b),function(a){d?a.call(this,e,f):g=a.bind(this)}.bind(this)}
+function __propagate(a,b){try{a(b)}catch(c){__trap(c)}}
+function __trap(a){a&&(__g.context&&__g.context.errorHandler?__g.context.errorHandler(a):console.error("UNCAUGHT EXCEPTION: "+a.message+"\n"+a.stack))}
+/*     1 */ function main(wait) {
+              var scene, L0, ks, track, wall, block, spring, L, Lhat, s, Fspring, Fnet, dt;
+              var __frame = {
+                name: "main",
+                line: 1
+              };
+              return __func(wait, this, arguments, main, 0, __frame, function __$main() {
+/*     1 */     scene = canvas();
+/*     4 */     L0 = 5;
+/*     5 */     ks = 1;
+/*     7 */     track = box({
+/*     7 */       pos: vec(0, 0, 0),
+/*     7 */       size: vec(10, 0.1, 2),
+/*     7 */       color: color.gray(0.7)
+                });
+/*     8 */     wall = box({
+/*     8 */       pos: vec(4.75["-u"](), 1, 0),
+/*     8 */       size: vec(0.5, 2, 2),
+/*     8 */       color: color.gray(0.7)
+                });
+/*     9 */     block = box({
+/*     9 */       pos: vec(0, 1, 0),
+/*     9 */       size: vec(2, 2, 2),
+/*     9 */       color: color.red
+                });
+/*    10 */     spring = helix({
+/*    10 */       pos: wall.pos,
+/*    10 */       size: vec(mag(block.pos["-"](wall.pos)), 0.75, 0.75),
+/*    10 */       axis: block.pos["-"](wall.pos),
+/*    10 */       color: color.red
+                });
+/*    11 */     spring.thickness = 0.1;
+/*     1 */     L = block.pos["-"](spring.pos);
+/*     1 */     Lhat = L["/"](mag(L));
+/*     1 */     s = mag(L)["-"](L0);
+/*    17 */     Fspring = vec(0, 0, 0);
+/*    18 */     Fnet = vec(0, 0, 0);
+/*    20 */     block.mass = 0.3;
+/*    21 */     block.p = vec(1.05, 0, 0);
+/*    23 */     dt = 0.05;
+                return (function ___(__break) {
+                  var __more;
+                  var __loop = __cb(wait, __frame, 0, 0, function __$main() {
+                    __more = false;
+/*    26 */         var __1 = true;
+                    if (__1) {
+/*    28 */           return rate(25, __cb(wait, __frame, 27, -1, function __$main() {
+/*    29 */             L = block.pos["-"](spring.pos);
+/*    30 */             Lhat = L["/"](mag(L));
+/*    31 */             s = mag(L)["-"](L0);
+/*    33 */             Fspring = 1["-u"]()["*"](ks)["*"](s)["*"](Lhat);
+/*    34 */             Fnet = Fspring;
+/*    36 */             block.p = block.p["+"](Fnet["*"](dt));
+/*    37 */             block.pos = block.pos["+"](block.p["/"](block.mass)["*"](dt));
+/*    39 */             spring.axis = Lhat;
+/*    40 */             spring.size = vec(mag(L), 0.75, 0.75);
+                        while (__more) {
+                          __loop();
+                        };
+                        __more = true;
+                      }));
+                    }
+                     else {
+                      __break();
+                    }
+                  ;
+                  });
+                  do {
+                    __loop();
+                  } while (__more);
+                  __more = true;
+                })(function __$main() {
+                  wait();
+                });
+              });
+            };
+/*    43 */ main;
+
+;$(function(){ window.__context = { glowscript_container: $("#glowscript").removeAttr("id") }; main() })})()
+</script>
+</div>
+</html>
