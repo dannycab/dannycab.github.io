@@ -1,0 +1,12 @@
+# Site settings
+title: Blog
+email: caballero@pa.msu.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Collection of random thoughts and posts by MSU physics professor Danny Caballero
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://dannycab.github.io" # the base hostname & protocol for your site
+twitter_username: physicistdanny
+github_username:  dannycab
+
+# Build settings
+markdown: kramdown
