@@ -23,7 +23,8 @@ permalink: /teaching/
 -   Spring 2014 - LB 274 (Physics for the Life Sciences II)
 -   Fall 2013 - PHY 183 (Physics for Scientists and Engineers I)
 
-<a name='#recletter'></a>
+<a name='recletter'></a>
+
 ### Want a Recommendation Letter?
 
 I am very happy to write recommendation letters, but if you want me to
