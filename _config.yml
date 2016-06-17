@@ -9,14 +9,5 @@ url: "http://dannycab.github.io" # the base hostname & protocol for your site
 twitter_username: physicistdanny
 github_username:  dannycab
 
-gems: ['jekyll-twitter-plugin']
-
 # Build settings
 markdown: kramdown
-
-twitter:
-  consumer_key: wqXFSqXSmKGY8cvp943UrMhX5
-  consumer_secret: 1gQCPnrmnBzgddORkSCGZLXEwV2LItaDnwUIaiYmakbsEIFExT
-  access_token: 109255123-nSMubDIcEXG4PcPQ7nXYH373QLOkW0MPGxPowmNZ
-  access_token_secret:  UP9Y3z89bgvKIJ0HmUyw6BhBZ8zJfPQZpiBNgaljxkYdT
-
