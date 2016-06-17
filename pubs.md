@@ -8,6 +8,11 @@ permalink: /pubs/
 
 ### Papers appearing in peer-reviewed journals
 
+1.  Caballero, M.D., Doughty, L., Turnbull, A.M., Pepper, R.E., and
+    Pollock, S.J. *Assessing Learning Outcomes in Middle-Division
+    Classical Mechanics: The Colorado Classical Mechanics/Math Methods
+    Instrument*, PR-PER, under review. [<i class='fa
+    fa-file-text-o'></i>](http://arxiv.org/abs/1606.03291)
 1.  Laverty, J.T., Underwood, S.M., Matz, R.L., Posey, L.A., Carmel,
     J.H., **Caballero, M.D.**, Fata-Hartley, C.L., Ebert-May, D.,
     Jardeleza, S.E., Cooper, M.M. *Characterizing College Science
