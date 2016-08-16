@@ -9,7 +9,7 @@ permalink: /teaching/
 ### Present and Future Courses Taught
 
 -   [Fall 2016, PHY 481 (Electricity and
-    Magnetism I)](./phy481.html)
+    Magnetism I)](./phy481msu/)
 -   Spring 2017, PHY 482 (Electricity and Magnetism II)
 
 ### Past Courses

@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: teaching/phy481_lgs.html
+title: Learning Goals
+permalink: learninggoals.html
 ---
-
-## Learning Goals
 
 ### Course-Scale Learning Goals
 
