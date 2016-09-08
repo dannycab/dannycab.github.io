@@ -3531,7 +3531,7 @@ MotionMap.prototype.update = function update() {
         if (t > self.interval * self.curMarker) {
             self.curMarker += 1;
             if ((self.markerType === "arrow" || typeof self.markerType === "object" && ρσ_equals(self.markerType, "arrow"))) {
-                ρσ_interpolate_kwargs.call(this, vp_arrow, [ρσ_desugar_kwargs({pos: self.obj.pos.add(self.arrowOffset), axis: self.markerScale.multiply(quantity), color: self.markerColor})]);
+                ρσ_interpolate_kwargs.call(this, vp_arrow, [ρσ_desugar_kwargs({pos: self.obj.pos.add(self.arrowOffset), axis: quantity.multiply(self.markerScale), color: self.markerColor})]);
             } else if ((self.markerType === "breadcrumbs" || typeof self.markerType === "object" && ρσ_equals(self.markerType, "breadcrumbs"))) {
                 ρσ_interpolate_kwargs.call(this, points, [ρσ_desugar_kwargs({pos: self.obj.pos, radius: 5 * self.markerScale * quantity, color: self.markerColor})]);
             }
