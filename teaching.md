@@ -10,7 +10,7 @@ permalink: /teaching/
 
 -   [Fall 2016, PHY 481 (Electricity and
     Magnetism I)](../phy481msu/)
--   Spring 2017, PHY 482 (Electricity and Magnetism II)
+-   [Spring 2017, PHY 482 (Electricity and Magnetism II)](../phy482msu/)
 
 ### Past Courses
 
