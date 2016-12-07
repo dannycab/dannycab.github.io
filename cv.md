@@ -47,6 +47,7 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 #### Awards and Honors
 
+-   2016 College of Natural Science Teaching Prize, MSU
 -   2015 Thomas H. Osgood Memorial Awards for Faculty Excellence in
     Teaching, MSU
 -   2014 STEM Gateway Fellow, College of Natural Science, MSU
@@ -65,21 +66,23 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 #### Awarded
 
-  1. Research Experience for Undergraduates in Physics, NSF, 06/01/16 - 05/31/21, $652,201\\
+  1. Integrating Equitable Computational Science into High School Science Courses, Science and Society at State, 01/01/17 - 12/31/17, $10,000\\
+  D. Stroupe (PI), N. Shah (Co-PI), M.D. Caballero (Co-PI)
+  2. Research Experience for Undergraduates in Physics, NSF, 06/01/16 - 05/31/21, $652,201\\
   S. Tessmer (PI), S. Pratt (Co-PI), M.D. Caballero (Co-PI), G. Westfall (Co-PI)
-  2. Learning Science by Doing Science: Project-based Learning through Urban Entomology, Science Studies at State, 01/01/16 - 12/31/16, $10,000\\
-  P. White (PI), D. Stroupe (Co-PI), M.D. Caballlero (Co-PI)
-  3. Collaborative Research: Integrating Computation into Undergraduate Physics: A Faculty Development Approach to Community Transformation, NSF, 09/01/15 - 08/31/19, $1,279,209; $503,977 (MSU Part)\\
+  3. Learning Science by Doing Science: Project-based Learning through Urban Entomology, Science and Society at State, 01/01/16 - 12/31/16, $10,000\\
+  P. White (PI), D. Stroupe (Co-PI), M.D. Caballero (Co-PI)
+  4. Collaborative Research: Integrating Computation into Undergraduate Physics: A Faculty Development Approach to Community Transformation, NSF, 09/01/15 - 08/31/19, $1,279,209; $503,977 (MSU Part)\\
   M.D. Caballero (PI, MSU), K. Roos (PI, Bradley), L. Engelhardt (PI, FMU), M. Lopez (PI, St. Thomas), R. Hilborn (PI, AAPT)
-  4. Collaborative Research: Fostering integration of computational methods in physics courses: A local communities approach, NSF, 07/01/15 – 06/30/17   $219,136; $40,526 (MSU Part)\\
+  5. Collaborative Research: Fostering integration of computational methods in physics courses: A local communities approach, NSF, 07/01/15 – 06/30/17   $219,136; $40,526 (MSU Part)\\
   M.D. Caballero (PI, MSU), N. Chonacky (PI, Yale), M. Lopez (PI, St. Thomas), R. Hilborn (PI, AAPT)
-  5. Transforming experiences for science and engineering students: Integrating scientific practices into introductory calculus-based mechanics, LPF-CMP 2, 01/01/14 - 12/31/15, $200,000\\
+  6. Transforming experiences for science and engineering students: Integrating scientific practices into introductory calculus-based mechanics, LPF-CMP 2, 01/01/14 - 12/31/15, $200,000\\
   M.D. Caballero (PI, MSU), D. Stroupe (Co-PI), S. Tessmer (Co-PI)
-  6. InvestigAction: Underrepresented Middle School Youth Becoming Community Engineering Experts, LPF-CMP 2, 01/01/14 – 05/01/15, $125,000\\
+  7. InvestigAction: Underrepresented Middle School Youth Becoming Community Engineering Experts, LPF-CMP 2, 01/01/14 – 05/01/15, $125,000\\
   A. Calabrese-Barton (PI), S. Calabrese-Barton (Co-PI), M.D. Caballero (Co-PI), B. Geier (Co-PI)
-  7. Collaborative Research: Surveying the state of computational physics in courses for physics majors, NSF, 01/01/15 - 12/31/17, $126,320; 21,380 (MSU Part)\\
+  8. Collaborative Research: Surveying the state of computational physics in courses for physics majors, NSF, 01/01/15 - 12/31/17, $126,320; 21,380 (MSU Part)\\
   M.D. Caballero (PI, MSU), N. Chonacky (PI, Yale), R. Hilborn (PI, AAPT)
-  8. LEVERS: Leveraging Engagement and Vision to Encourage Retention in STEM, HHMI, 09/01/14 – 08/31/19, $1,500,000\\
+  9. LEVERS: Leveraging Engagement and Vision to Encourage Retention in STEM, HHMI, 09/01/14 – 08/31/19, $1,500,000\\
   S. Chivukula (PI), M.D. Caballero (Co-author & Physics Project Lead)
 
 ### Publications
