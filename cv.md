@@ -310,7 +310,7 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 #### National or International Advisory Committees other than Conferences
 
 -   Chair, Group on Physics Education Research for the American
-    Physical Society, Winter 2016 -- 
+    Physical Society, Winter 2016 --
 -   Vice-Chair, Group on Physics Education Research for the American
     Physical Society, Winter 2015 – Winter 2016
 -   Member, Research in Physics Education Committee for the American
@@ -333,6 +333,7 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 #### Review Panels, Referee
 
+-   Reviewer, National Science Foundation 
 -   Referee for Physical Review Special Topics - Physics Education
     Research, American Journal of Physics, The Physics Teacher,
     Computers and Education
