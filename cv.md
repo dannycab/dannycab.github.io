@@ -6,7 +6,7 @@ permalink: /cv/
 
 ## Curriculum Vitae
 
-Last updated: May 18, 2016
+Last updated: Dec 20, 2016
 
 ### Contact Information
 
@@ -34,6 +34,7 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 ### Academic Experience
 
+-   2017 - Present, Adjunct Professor, Center for Computing in Science Education, University of Oslo
 -   2013 - Present, Assistant Professor, Department of Physics and
     Astronomy, Michigan State University
 -   2013 - Present, Leadership Faculty, CREATE for STEM Institute,
@@ -66,23 +67,24 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 #### Awarded
 
-  1. Integrating Equitable Computational Science into High School Science Courses, Science and Society at State, 01/01/17 - 12/31/17, $10,000\\
+  1. Center for Computing in Science Education, National Research Council of Norway, 01/01/17 - 12/31/26, $1,500,000\\
+  2. Integrating Equitable Computational Science into High School Science Courses, Science and Society at State, 01/01/17 - 12/31/17, $10,000\\
   D. Stroupe (PI), N. Shah (Co-PI), M.D. Caballero (Co-PI)
-  2. Research Experience for Undergraduates in Physics, NSF, 06/01/16 - 05/31/21, $652,201\\
+  3. Research Experience for Undergraduates in Physics, NSF, 06/01/16 - 05/31/21, $652,201\\
   S. Tessmer (PI), S. Pratt (Co-PI), M.D. Caballero (Co-PI), G. Westfall (Co-PI)
-  3. Learning Science by Doing Science: Project-based Learning through Urban Entomology, Science and Society at State, 01/01/16 - 12/31/16, $10,000\\
+  4. Learning Science by Doing Science: Project-based Learning through Urban Entomology, Science and Society at State, 01/01/16 - 12/31/16, $10,000\\
   P. White (PI), D. Stroupe (Co-PI), M.D. Caballero (Co-PI)
-  4. Collaborative Research: Integrating Computation into Undergraduate Physics: A Faculty Development Approach to Community Transformation, NSF, 09/01/15 - 08/31/19, $1,279,209; $503,977 (MSU Part)\\
+  5. Collaborative Research: Integrating Computation into Undergraduate Physics: A Faculty Development Approach to Community Transformation, NSF, 09/01/15 - 08/31/19, $1,279,209; $503,977 (MSU Part)\\
   M.D. Caballero (PI, MSU), K. Roos (PI, Bradley), L. Engelhardt (PI, FMU), M. Lopez (PI, St. Thomas), R. Hilborn (PI, AAPT)
-  5. Collaborative Research: Fostering integration of computational methods in physics courses: A local communities approach, NSF, 07/01/15 – 06/30/17   $219,136; $40,526 (MSU Part)\\
+  6. Collaborative Research: Fostering integration of computational methods in physics courses: A local communities approach, NSF, 07/01/15 – 06/30/17   $219,136; $40,526 (MSU Part)\\
   M.D. Caballero (PI, MSU), N. Chonacky (PI, Yale), M. Lopez (PI, St. Thomas), R. Hilborn (PI, AAPT)
-  6. Transforming experiences for science and engineering students: Integrating scientific practices into introductory calculus-based mechanics, LPF-CMP 2, 01/01/14 - 12/31/15, $200,000\\
+  7. Transforming experiences for science and engineering students: Integrating scientific practices into introductory calculus-based mechanics, LPF-CMP 2, 01/01/14 - 12/31/15, $200,000\\
   M.D. Caballero (PI, MSU), D. Stroupe (Co-PI), S. Tessmer (Co-PI)
-  7. InvestigAction: Underrepresented Middle School Youth Becoming Community Engineering Experts, LPF-CMP 2, 01/01/14 – 05/01/15, $125,000\\
+  8. InvestigAction: Underrepresented Middle School Youth Becoming Community Engineering Experts, LPF-CMP 2, 01/01/14 – 05/01/15, $125,000\\
   A. Calabrese-Barton (PI), S. Calabrese-Barton (Co-PI), M.D. Caballero (Co-PI), B. Geier (Co-PI)
-  8. Collaborative Research: Surveying the state of computational physics in courses for physics majors, NSF, 01/01/15 - 12/31/17, $126,320; 21,380 (MSU Part)\\
+  9. Collaborative Research: Surveying the state of computational physics in courses for physics majors, NSF, 01/01/15 - 12/31/17, $126,320; 21,380 (MSU Part)\\
   M.D. Caballero (PI, MSU), N. Chonacky (PI, Yale), R. Hilborn (PI, AAPT)
-  9. LEVERS: Leveraging Engagement and Vision to Encourage Retention in STEM, HHMI, 09/01/14 – 08/31/19, $1,500,000\\
+  10. LEVERS: Leveraging Engagement and Vision to Encourage Retention in STEM, HHMI, 09/01/14 – 08/31/19, $1,500,000\\
   S. Chivukula (PI), M.D. Caballero (Co-author & Physics Project Lead)
 
 ### Publications
@@ -286,8 +288,10 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 #### University Committees
 
+-   MSU, University Curriculum Committee, Fall 2016 --
+-   MSU Dept. of Physics and Astronomy, REU Committee, Spring 2016 --
 -   MSU Dept. of Physics and Astronomy, Lyman-Briggs/PA Faculty Search
-    Committee, Fall 2015 –
+    Committee, Fall 2015 – Spring 2016
 -   MSU Dept. of Physics and Astronomy, Algebra-based Physics Review
     committee, Spring 2014 –
 -   MSU Dept. of Physics and Astronomy, Calculus-based Physics Review
@@ -305,10 +309,10 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 #### National or International Advisory Committees other than Conferences
 
--   Chair, Group on Physics Education Research for the American Physical
-    Society (Fellowship Sub-committee), Winter 2015 –
+-   Chair, Group on Physics Education Research for the American
+    Physical Society, Winter 2016 -- 
 -   Vice-Chair, Group on Physics Education Research for the American
-    Physical Society, Winter 2015 –
+    Physical Society, Winter 2015 – Winter 2016
 -   Member, Research in Physics Education Committee for the American
     Associate of Physics Teachers, Winter 2015 –
 -   Chair of the Educational Technologies Committee for the American
@@ -364,11 +368,8 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 #### Graduate Students (Co-supervisor)
 
-1.  Kelsey Funkhouser (2015 – , w/ Asst. Prof. Vashti Sawtelle; has not
-    selected advisor yet)
-2.  Abhilash Nair (2015 – , w/ Asst. Prof. Vashti Sawtelle; has not
-    selected advisor yet)
-3.  John Aiken (Georgia State, Master’s Thesis, 2013)
+1.  Kelsey Funkhouser (2015 – , w/ Asst. Prof. Vashti Sawtelle)
+2.  John Aiken (Georgia State, Master’s Thesis, 2013)
 
 #### PhD students on temporary projects (summer etc)
 
@@ -390,16 +391,17 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 #### Undergraduate Students supervised on research
 
 1.  Anna Turnbull (MSU, Fall 2014, Spring 2015, Summer 2015, Fall 2015)
-2.  Paul Hamerksi (REU – Carnegie Mellon University, Summer 2015)
-3.  Laura Hunter (REU – Mt. Holyoke College, Summer 2015)
-4.  Sonny Ly (MSU, Spring 2014, Summer 2014, Fall 2014, Spring 2015)
-5.  Claire Morrison (MSU, Fall 2013, Spring 2014, Summer 2014, Fall
+2.  Sarah Boyer (REU - Spring Arbor University, Summer 2016)  
+3.  Paul Hamerksi (REU – Carnegie Mellon University, Summer 2015)
+4.  Laura Hunter (REU – Mt. Holyoke College, Summer 2015)
+5.  Sonny Ly (MSU, Spring 2014, Summer 2014, Fall 2014, Spring 2015)
+6.  Claire Morrison (MSU, Fall 2013, Spring 2014, Summer 2014, Fall
     2014, Spring 2015)
-6.  Keenan Noyes (MSU, Fall 2013, Spring 2014, Fall 2014, Spring 2015)
-7.  Zach Nusbaum (MSU, Fall 2013, Spring 2014, Summer 2014, Fall 2014,
+7.  Keenan Noyes (MSU, Fall 2013, Spring 2014, Fall 2014, Spring 2015)
+8.  Zach Nusbaum (MSU, Fall 2013, Spring 2014, Summer 2014, Fall 2014,
     Spring 2015)
-8.  Brandon Ewert (MSU, Spring 2014)
-9.  Max Smith (MSU, Fall 2013, Spring 2014)
+9.  Brandon Ewert (MSU, Spring 2014)
+10.  Max Smith (MSU, Fall 2013, Spring 2014)
 
 #### Undergraduate Students supervised on teaching
 
