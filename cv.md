@@ -68,7 +68,7 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 #### Awarded
 
   1. Center for Computing in Science Education, National Research Council of Norway, 01/01/17 - 12/31/26, $1,500,000\\
-  A. Mathe-Sørenson (PI), M.D. Caballero (Research Lead)
+  A. Mathe-Sørenson (PI), Morten Hjorth-Jensen (Co-PI), Ellen Karoline Henriksen (Co-PI), Cathrine Wahlstrøm Tellefsen (Co-PI), Knut Mørken (Co-PI), M.D. Caballero (Research Lead)
   2. Integrating Equitable Computational Science into High School Science Courses, Science and Society at State, 01/01/17 - 12/31/17, $10,000\\
   D. Stroupe (PI), N. Shah (Co-PI), M.D. Caballero (Co-PI)
   3. Research Experience for Undergraduates in Physics, NSF, 06/01/16 - 05/31/21, $652,201\\
