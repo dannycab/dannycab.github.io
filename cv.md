@@ -6,7 +6,7 @@ permalink: /cv/
 
 ## Curriculum Vitae
 
-Last updated: Dec 20, 2016
+Last updated: Dec 23, 2016
 
 ### Contact Information
 
@@ -95,7 +95,7 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 1.  Caballero, M.D., Doughty, L., Turnbull, A.M., Pepper, R.E., and
     Pollock, S.J. *Assessing Learning Outcomes in Middle-Division
     Classical Mechanics: The Colorado Classical Mechanics/Math Methods
-    Instrument*, PR-PER, under review. [<i class='fa
+    Instrument*, PR-PER, in review. [<i class='fa
     fa-file-text-o'></i>](http://arxiv.org/abs/1606.03291)
 2.  Laverty, J.T., Underwood, S.M., Matz, R.L., Posey, L.A., Carmel,
     J.H., Caballero, M.D., Fata-Hartley, C.L., Ebert-May, D., Jardeleza,
