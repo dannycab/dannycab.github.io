@@ -12,7 +12,7 @@ Last updated: Dec 23, 2016
 
 Department of Physics & Astronomy\\
 Michigan State University\\
-567 Wilson Rd., Room 4230\\
+567 Wilson Rd., Room 1310A\\
 East Lansing, MI 48824\\
 e: [caballero@pa.msu.edu](mailto:caballero@pa.msu.edu)\\
 w: [dannycab.github.io](http://dannycab.github.io)\\
