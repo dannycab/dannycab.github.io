@@ -192,28 +192,33 @@ fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
 
 #### Papers appearing in peer-reviewed conference proceedings
 
-1.  Aiken, J.M. and Caballero, M.D. *Methods for Analyzing Pathways through a Physics Major*, 2016 Physics Education Research Conference Proceedings, pp. 28-31, 2016. [<i class='fa
+1.  Aiken, J.M. and Caballero, M.D. *Methods for Analyzing Pathways through a Physics Major*, Proceedings of the Physics Education Research Conference, pp. 28-31, 2016. [<i class='fa
     fa-file-text-o'></i>](http://www.compadre.org/per/items/detail.cfm?ID=14186)
 1.  Caballero, M.D., *Computation across the curriculum: What skills are
-    needed?*, Proceedings of the Physics Education Research Conference
-    (2015, accepted).
+    needed?*, Proceedings of the Physics Education Research Conference, pp. 79-82, 2015. [<i class='fa
+    fa-file-text-o'></i>](http://www.compadre.org/per/items/detail.cfm?ID=13842)
 2.  Irving, P.W., Sawtelle, V., and Caballero, M.D., *Troubleshooting
     Formative Feedback in P3 (A
     group-based learning environment)*, Proceedings of the Physics
-    Education Research Conference (2015, accepted).
+    Education Research Conference, pp. 155-158, 2015. [<i class='fa
+    fa-file-text-o'></i>](http://www.compadre.org/per/items/detail.cfm?ID=13860)
 3.  Laverty, J.T., Cooper, M.M., and Caballero, M.D., *Developing the
     Next Generation of Physics Assessments*, Proceedings of the Physics
-    Education Research Conference (2015, accepted).
+    Education Research Conference, pp. 187-190, 2015. [<i class='fa
+    fa-file-text-o'></i>](http://www.compadre.org/per/items/detail.cfm?ID=13867)
 4.  Pawlak, A., Irving, P.W., and Caballero, M.D., *Identification of a
     shared answer-making game in group context*, Proceedings of the
-    Physics Education Research Conference (2015, accepted).
+    Physics Education Research Conference pp. 255-258, 2015. [<i class='fa
+    fa-file-text-o'></i>](http://www.compadre.org/per/items/detail.cfm?ID=13885)
 5.  Obsniuk, M.J., Irving, P.W., and Caballero, M.D., *A Case Study:
     Novel Group Interactions through Computational Physics*, Proceedings
-    of the Physics Education Research Conference (2015, accepted).
+    of the Physics Education Research Conference, pp. 239-242, 2015. [<i class='fa
+    fa-file-text-o'></i>](http://www.compadre.org/per/items/detail.cfm?ID=13881)
 6.  Turnbull, A., Doughty, L., Sawtelle, V. and Caballero, M.D.,
     *Student Ideas around Vector Decomposition in the Upper-Division*,
-    Proceedings of the Physics Education Research Conference
-    (2015, accepted)
+    Proceedings of the Physics Education Research Conference, pp. 335-338, 2015.
+    [<i class='fa
+    fa-file-text-o'></i>](http://www.compadre.org/per/items/detail.cfm?ID=13902)
 7.  Doughty, L., M.D. Caballero, *Rubric Design for Separating the Roles
     of Open-Ended Assessments*, Proceedings of the Physics Education
     Research Conference, pp. 71-74, 2014.
@@ -356,18 +361,15 @@ fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
 -   Grandparent’s University at MSU, Session coordinator, East Lansing,
     MI (2014).
 
-#### Supervised Post-doctoral associates
+#### Supervised Research Associates
 
+1.  John M. Aiken, August 2016 - 
 1.  William Martinez, August 2015 –
-2.  Paul W. Irving, May 2014 –
-3.  Leanne Doughty, January 2014 –
-4.  James T. Laverty, August 2013 –
-5.  Steven F. Wolf (25%), August 2013 – August 2014\
-    (Assistant Professor of Physics, Eastern Carolina University)
+2.  Paul W. Irving, May 2014 – August 2016 (Assistant Professor, Michigan State University)
+3.  Leanne Doughty, January 2014 – January 2016 (Postdoctoral Researcher, University of Colorado Denver)
+4.  James T. Laverty, August 2013 – August 2016 (Assistant Professor of Physics, Kansas State University)
+5.  Steven F. Wolf (25%), August 2013 – August 2014 (Assistant Professor of Physics, Eastern Carolina University)
 
-#### Co-supervised Post-doctoral associates
-
-1.  Brian Danielak, August 2015 – (w/ Brian O’Shea & Vashti Sawtelle)
 
 #### Graduate Students (Main Supervisor)
 
