@@ -335,6 +335,7 @@ fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
 
 #### Conference Planning and Advisory Committees
 
+-   Michigan AAPT/Ohio Section American Physical Society Spring Meeting, East Lansing, MI (2018).
 -   Michigan AAPT Section Spring Meeting, East Lansing, MI (2015).
 -   Physics Education Research Conference, Minneapolis, MN (2014).
 -   MSP Summer Science Academies Concepts in Physical Science (2011).
@@ -353,8 +354,9 @@ fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
 
 #### Outreach Activities
 
+-   MSU Department of Physics & Astronomy, Physics and Astronomy Day Coordinator w/ K. Hinko (2017).
 -   MSU Department of Physics & Astronomy, Physics Education Research
-    Seminar coordinator (2014–).
+    Seminar coordinator (2014–2016).
 -   MSU Department of Physics & Astronomy, Graduate Teaching Assistant
     Workshop coordinator (2014–).
 -   Science Olympiad, Session coordinator, East Lansing, MI (2014–).
@@ -363,7 +365,7 @@ fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
 
 #### Supervised Research Associates
 
-1.  John M. Aiken, August 2016 - 
+1.  John M. Aiken, August 2016 -
 1.  William Martinez, August 2015 –
 2.  Paul W. Irving, May 2014 – August 2016 (Assistant Professor, Michigan State University)
 3.  Leanne Doughty, January 2014 – January 2016 (Postdoctoral Researcher, University of Colorado Denver)
