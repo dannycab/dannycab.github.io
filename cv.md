@@ -12,7 +12,7 @@ Last updated: Jan 13, 2017
 
 Department of Physics & Astronomy\\
 Michigan State University\\
-567 Wilson Rd., Room 4230\\
+567 Wilson Rd., Room 1310A\\
 East Lansing, MI 48824\\
 e: [caballero@pa.msu.edu](mailto:caballero@pa.msu.edu)\\
 w: [dannycab.github.io](http://dannycab.github.io)\\
@@ -100,7 +100,7 @@ fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
 1.  Caballero, M.D., Doughty, L., Turnbull, A.M., Pepper, R.E., and
     Pollock, S.J. *Assessing Learning Outcomes in Middle-Division
     Classical Mechanics: The Colorado Classical Mechanics/Math Methods
-    Instrument*, PR-PER, under review. [<i class='fa
+    Instrument*, PR-PER, in review. [<i class='fa
     fa-file-text-o'></i>](http://arxiv.org/abs/1606.03291)
 1.  Aiken, J.M. and Caballero, M.D. *Methods for Analyzing Pathways through a Physics Major*, 2016 Physics Education Research Conference Proceedings, pp. 28-31, 2016. [<i class='fa
     fa-file-text-o'></i>](http://www.compadre.org/per/items/detail.cfm?ID=14186)
