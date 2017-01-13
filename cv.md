@@ -102,8 +102,6 @@ fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
     Classical Mechanics: The Colorado Classical Mechanics/Math Methods
     Instrument*, PR-PER, in review. [<i class='fa
     fa-file-text-o'></i>](http://arxiv.org/abs/1606.03291)
-1.  Aiken, J.M. and Caballero, M.D. *Methods for Analyzing Pathways through a Physics Major*, 2016 Physics Education Research Conference Proceedings, pp. 28-31, 2016. [<i class='fa
-    fa-file-text-o'></i>](http://www.compadre.org/per/items/detail.cfm?ID=14186)
 2.  Laverty, J.T., Underwood, S.M., Matz, R.L., Posey, L.A., Carmel,
     J.H., Caballero, M.D., Fata-Hartley, C.L., Ebert-May, D., Jardeleza,
     S.E., Cooper, M.M. *Characterizing College Science Assessments: The
@@ -194,11 +192,13 @@ fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
 
 #### Papers appearing in peer-reviewed conference proceedings
 
+1.  Aiken, J.M. and Caballero, M.D. *Methods for Analyzing Pathways through a Physics Major*, 2016 Physics Education Research Conference Proceedings, pp. 28-31, 2016. [<i class='fa
+    fa-file-text-o'></i>](http://www.compadre.org/per/items/detail.cfm?ID=14186)
 1.  Caballero, M.D., *Computation across the curriculum: What skills are
     needed?*, Proceedings of the Physics Education Research Conference
     (2015, accepted).
 2.  Irving, P.W., Sawtelle, V., and Caballero, M.D., *Troubleshooting
-    Formative Feedback in P<span class="math inline">**^3^</span> (A
+    Formative Feedback in P3 (A
     group-based learning environment)*, Proceedings of the Physics
     Education Research Conference (2015, accepted).
 3.  Laverty, J.T., Cooper, M.M., and Caballero, M.D., *Developing the
