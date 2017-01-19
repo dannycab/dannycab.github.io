@@ -34,7 +34,7 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 ### Academic Experience
 
--   2017 - Present, Adjunct Professor, Center for Computing in Science Education, University of Oslo
+-   2017 - Present, Associate Professor, Center for Computing in Science Education, University of Oslo
 -   2013 - Present, Assistant Professor, Department of Physics and
     Astronomy, Michigan State University
 -   2013 - Present, Leadership Faculty, CREATE for STEM Institute,
