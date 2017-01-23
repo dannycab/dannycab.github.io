@@ -8,12 +8,12 @@ permalink: /teaching/
 
 ### Present and Future Courses Taught
 
--   [Fall 2016, PHY 481 (Electricity and
-    Magnetism I)](../phy481msu/)
 -   [Spring 2017, PHY 482 (Electricity and Magnetism II)](../phy482msu/)
 
 ### Past Courses
 
+-   [Fall 2016, PHY 481 (Electricity and
+    Magnetism I)](../phy481msu/)
 -   Spring 2016 - Course Release
 -   Fall 2015 - [PHY 183 (Physics for Scientists and
     Engineers I)](http://p3server.pa.msu.edu/coursewiki/)
