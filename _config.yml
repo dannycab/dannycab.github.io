@@ -12,4 +12,4 @@ github_username:  dannycab
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
