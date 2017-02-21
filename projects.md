@@ -1,9 +1,10 @@
 ---
 permalink: research/projects.html
 layout: page
+title: Research Projects
 ---
 
-
+## Research Projects
 
 ### Transforming experiences for science and engineering students
 
