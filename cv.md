@@ -6,7 +6,7 @@ permalink: /cv/
 
 ## Curriculum Vitae
 
-Last updated: Jan 13, 2017
+Last updated: Feb 27, 2017
 
 ### Contact Information
 
@@ -34,7 +34,7 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 ### Academic Experience
 
--   2017 - Present, Associate Professor, Center for Computing in Science Education, University of Oslo
+-   2017 - Present, Associate Professor, Department of Physics, University of Oslo
 -   2013 - Present, Assistant Professor, Department of Physics and
     Astronomy, Michigan State University
 -   2013 - Present, Leadership Faculty, CREATE for STEM Institute,
@@ -48,6 +48,8 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 #### Awards and Honors
 
+-   2017 Physics Education Research Conference Notable Paper [<i class='fa
+    fa-file-text-o'></i>](http://www.compadre.org/per/items/detail.cfm?ID=14186)
 -   2016 College of Natural Science Teaching Prize, MSU
 -   2015 Thomas H. Osgood Memorial Awards for Faculty Excellence in
     Teaching, MSU
@@ -403,7 +405,7 @@ fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
 #### Undergraduate Students supervised on research
 
 1.  Anna Turnbull (MSU, Fall 2014, Spring 2015, Summer 2015, Fall 2015)
-2.  Sarah Boyer (REU - Spring Arbor University, Summer 2016)  
+2.  Sarah Boyer (REU - Spring Arbor University, Summer 2016)
 3.  Paul Hamerksi (REU – Carnegie Mellon University, Summer 2015)
 4.  Laura Hunter (REU – Mt. Holyoke College, Summer 2015)
 5.  Sonny Ly (MSU, Spring 2014, Summer 2014, Fall 2014, Spring 2015)

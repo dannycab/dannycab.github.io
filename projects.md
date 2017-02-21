@@ -3,7 +3,7 @@ permalink: research/projects.html
 layout: page
 ---
 
-## Research Projects
+
 
 ### Transforming experiences for science and engineering students
 
