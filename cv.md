@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+categories: [toplevel]
 ---
 
 ## Curriculum Vitae

@@ -1,7 +1,6 @@
 ---
 permalink: research/projects.html
 layout: page
-title: Research Projects
 ---
 
 ## Research Projects

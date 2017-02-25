@@ -2,7 +2,7 @@
 layout: post
 title:  "What do you want them to do today?"
 date:   2016-06-13
-categories: workshop
+tags: [workshop]
 ---
 
 ### PICUP Developer's Workshop (June 13, 2016)

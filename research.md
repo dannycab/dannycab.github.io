@@ -2,6 +2,7 @@
 title: Research
 layout: page
 permalink: /research/
+tags: toplevel
 ---
 
 ## Research

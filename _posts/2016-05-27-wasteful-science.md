@@ -2,12 +2,12 @@
 layout: post
 title:  "Wasteful Science"
 date:   2016-05-27
-categories: news commentary
+tags: [news, commentary]
 ---
 
 David Hu, a professor at Georgia Tech - my PhD alma mater, recently wrote a short, but interesting [blog post for Scientific American about his research][waste-blog]. In it, he talks about how three of his research projects have been highlighted by [Senator Jeff Flake (R- AZ)][flake-web] as wasteful science research. David's work represents 15% of the projects highlighted in [Flake's report][flake-report].
 
-Upon first reading David's blog post, I was upset. How can someone's research (whatever their interest) be attacked like this? The funding that David (and indeed that all of us receive) comes from the National Science Foundation (and other sources) through a process of peer review. Highly qualified individuals in our field determine who gets funding and for what projects. When the system works, and it typically does, the most interesting and important ideas to the field receive funding. 
+Upon first reading David's blog post, I was upset. How can someone's research (whatever their interest) be attacked like this? The funding that David (and indeed that all of us receive) comes from the National Science Foundation (and other sources) through a process of peer review. Highly qualified individuals in our field determine who gets funding and for what projects. When the system works, and it typically does, the most interesting and important ideas to the field receive funding.
 
 But that's the important point. The questions that researchers investigate and for which they receive funding are often the **most interesting and important to their field**. The implications and importance outside of the field, particularly for someone without that particular background - like Senator Flake, might be hard to articulate.
 

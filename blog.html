@@ -4,12 +4,15 @@ title: Blog
 permalink: /blog/
 ---
 
-    <h2 class="page-heading">Posts</h2> {% for post in site.posts %}
-    <div class="well">
 
-        <h2>{{ post.date | date: "%b %-d, %Y" }} - <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2> {{ post.content }}
-    </div>
+<h2 class="page-heading">Posts</h2>
+<div>
+    <ul class="list-group">{% for post in site.posts %}
+    <li class="list-group-item"><b>{{ post.date | date: "%b %-d, %Y" }}</b> - <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
     {% endfor %}
+  </ul>
+</div>
 
-    <div class="alert alert-info col-md-4" role="alert">Subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></div>
+
+<div class="alert alert-info" role="alert">Subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></div>
