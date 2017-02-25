@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+tags: toplevel
 ---
 
 ## Teaching
