@@ -9,22 +9,18 @@
 
       {% include header.html %}
 
-        <div class="well well-lg">
+        <div class="well well-lg col-md-8">
 
           {{ content }}
 
         </div>
+        <div class="col-md-1">
+        </div>
+        <div class="well col-md-3">
 
-        {% if page.comments %}
+          {% include address.html %}
 
-          <div class="well">
-
-            <h2>Leave a comment</h2>
-
-            {% include disqus.html %}
-
-          </div>
-        {% endif %}
+        </div>
 
     {% include footer.html %}
 

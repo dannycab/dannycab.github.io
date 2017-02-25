@@ -1,26 +1,15 @@
 ---
-layout: default
+layout: bloglist
 title: Blog
 permalink: /blog/
 ---
 
-<div class="home">
+    <h2 class="page-heading">Posts</h2> {% for post in site.posts %}
+    <div class="well">
 
-  <h2 class="page-heading">Posts</h2>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h3>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h3>
-	{{ post.content }}
-      </li>
+        <h2>{{ post.date | date: "%b %-d, %Y" }} - <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2> {{ post.content }}
+    </div>
     {% endfor %}
-  </ul>
 
-  <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
-
-</div>
+    <div class="alert alert-info col-md-4" role="alert">Subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></div>

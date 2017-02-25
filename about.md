@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: landing
 permalink: index.html
 ---
 
@@ -37,25 +37,3 @@ tools of classical mechanics) to the very broad (e.g., how do students
 in a massively open on-line course act like scientists?). Presently, I
 co-direct the [Physics Education Research Lab at
 MSU](http://www.pa.msu.edu/research/physics-education-lab).
-
-## Contact Information
-
-### Physical Address
-
-Department of Physics and Astronomy\\
-Biomedical Physical Sciences\\
-567 Wilson Road, Room 1310-A\\
-East Lansing, MI 48824\\
-Tel: 517-884-5657
-
-### On the web
-
--   Email: [<i class='fa fa-envelope'></i>](mailto:caballero@pa.msu.edu)
--   ArXiV:
-    [<i class='fa fa-folder-a'></i>](http://arxiv.org/find/physics/1/au:+Caballero_M/0/1/0/all/0/1)
--   Twitter: [<i class='fa fa-twitter'></i>](https://twitter.com/physicistdanny)
--   LinkedIn:
-    [<i class='fa fa-linkedin'></i>](https://www.linkedin.com/in/danny-caballero-7649466)
--   ResearchGate:
-    [<i class='fa fa-globe'></i>](http://www.researchgate.net/profile/Marcos_Caballero)
--   GitHub: [<i class='fa fa-github'></i>](https://github.com/dannycab)
