@@ -7,7 +7,7 @@ categories: [toplevel]
 
 ## Curriculum Vitae
 
-Last updated: Feb 27, 2017
+Last updated: Feb 26, 2017
 
 ### Contact Information
 
@@ -96,7 +96,7 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 #### Papers appearing in peer-review journals
 
-1.  Irving, P.W., Obsniuk, M.J., and Caballero, M.D. *P3: A Practice Focused Learning Environment*, Am. J. Phys., under review. [<i class='fa
+1.  Irving, P.W., Obsniuk, M.J., and Caballero, M.D. *P3: A Practice Focused Learning Environment*, Eur. J. Phys., under review. [<i class='fa
 fa-file-text-o'></i>](https://arxiv.org/abs/1607.04455)
 1.  Pawlak, A., Irving, P.W., and Caballero, M.D. *Development of a modes of collaboration framework*, PR-PER, under review. [<i class='fa
 fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
@@ -357,7 +357,7 @@ fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
 
 #### Outreach Activities
 
--   MSU Department of Physics & Astronomy, Physics and Astronomy Day Coordinator w/ K. Hinko (2017).
+-   MSU Department of Physics & Astronomy, Physics and Astronomy Day Coordinator w/ K. Hinko and T. Finzell (2017).
 -   MSU Department of Physics & Astronomy, Physics Education Research
     Seminar coordinator (2014–2016).
 -   MSU Department of Physics & Astronomy, Graduate Teaching Assistant
