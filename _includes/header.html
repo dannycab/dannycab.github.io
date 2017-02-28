@@ -4,11 +4,17 @@
       <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
     </div>
     <ul class="nav navbar-nav">
-      {% for my_page in site.pages %}
+
+      <li>  <a class="page-link" href="{{ site.baseurl }}/index.html">About</a></li>
+        <li><a class="page-link" href="{{ site.baseurl }}/blog/">Blog</a></li>
+        <li><a class="page-link" href="{{ site.baseurl }}/teaching/index.html">Teaching</a></li>
+      <li>  <a class="page-link" href="{{ site.baseurl }}/research/index.html">Research</a></li>
+      <li><a class="page-link" href="{{ site.baseurl }}/pubs/index.html">Publications</a></li>
+      <!-- {% for my_page in site.pages %}
         {% if my_page.title %}
           <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
       {% endif %}
-      {% endfor %}
+      {% endfor %} -->
     </ul>
   </div>
 </nav>

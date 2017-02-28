@@ -33,6 +33,9 @@ tags: toplevel
 
 ### Awarded Grants
 
+- 2017-2018 **WebCAT, CREATE for STEM Seed Grant, $5000**; PI: Caballero, Co-PI: P.W. Irving
+- 2017-2026 **Center for Computing in Science Education, National Research Council of Norway, $1,500,000**; A. Mathe-Sørenson (PI), Morten Hjorth-Jensen (Co-PI), Ellen Karoline Henriksen (Co-PI), Cathrine Wahlstrøm Tellefsen (Co-PI), Knut Mørken (Co-PI), M.D. Caballero (Research Lead)
+- 2017-2018 **Integrating Equitable Computational Science into High School Science Courses, Science and Society at State, $10,000**; D. Stroupe (PI), N. Shah (Co-PI), M.D. Caballero (Co-PI)
 -   2016-2021 **Research Experience for Undergraduates in Physics -
     National Science Foundation REU - \$652k**; PI: Stuart Tessmer,
     Co-PIs: Scott Pratt, Caballero, Gary Westfall
