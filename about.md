@@ -15,8 +15,7 @@ I'm a physics education researcher who studies how tools and science
 practices affect student learning in physics, and the conditions and
 environments that support or inhibit this learning.
 
-I earned my B.S. in physics from the University of Texas at Austin in
-2004. I worked on opto-microfluidics transport and control experiments
+I earned my B.S. in physics from the University of Texas at Austin in 2004. I worked on opto-microfluidics transport and control experiments
 at the Georgia Institute of Technology earning my M.S. in physics before
 shifting my research focus to physics education. I helped found the
 Georgia Tech Physics Education Research group in 2007 and earned the
