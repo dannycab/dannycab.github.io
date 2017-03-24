@@ -79,7 +79,7 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
   S. Tessmer (PI), S. Pratt (Co-PI), M.D. Caballero (Co-PI), G. Westfall (Co-PI)
   5. Learning Science by Doing Science: Project-based Learning through Urban Entomology, Science and Society at State, 01/01/16 - 12/31/16, $10,000
   P. White (PI), D. Stroupe (Co-PI), M.D. Caballero (Co-PI)
-  6. Collaborative Research: Integrating Computation into Undergraduate Physics: A Faculty Development Approach to Community Transformation, NSF, 09/01/15 - 08/31/19, $1,279,209, $503,977 (MSU Part)
+  6. Collaborative Research: Integrating Computation into Undergraduate Physics: A Faculty Development Approach to Community Transformation, NSF, 09/01/15 - 08/31/19, $1,279,209; 503,977 (MSU Part)
   M.D. Caballero (PI, MSU), K. Roos (PI, Bradley), L. Engelhardt (PI, FMU), M. Lopez (PI, St. Thomas), R. Hilborn (PI, AAPT)
   7. Collaborative Research: Fostering integration of computational methods in physics courses: A local communities approach, NSF, 07/01/15 – 06/30/17   $219,136, $40,526 (MSU Part)
   M.D. Caballero (PI, MSU), N. Chonacky (PI, Yale), M. Lopez (PI, St. Thomas), R. Hilborn (PI, AAPT)
