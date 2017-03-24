@@ -7,7 +7,7 @@ categories: [toplevel]
 
 ## Curriculum Vitae
 
-Last updated: Feb 26, 2017
+Last updated: Mar 24, 2017
 
 ### Contact Information
 
@@ -70,26 +70,26 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 #### Awarded
 
-  1. WebCAT, CREATE for STEM Seed Grant, 02/01/17-01/31/18, $5000\\ M.D. Caballero (PI), P.W. Irving (Co-PI)
-  2. Center for Computing in Science Education, National Research Council of Norway, 01/01/17 - 12/31/26, $1,500,000\\
+  1. WebCAT, CREATE for STEM Seed Grant, 02/01/17-01/31/18, $5000 M.D. Caballero (PI), P.W. Irving (Co-PI)
+  2. Center for Computing in Science Education, National Research Council of Norway, 01/01/17 - 12/31/26, $1,500,000
   A. Mathe-Sørenson (PI), Morten Hjorth-Jensen (Co-PI), Ellen Karoline Henriksen (Co-PI), Cathrine Wahlstrøm Tellefsen (Co-PI), Knut Mørken (Co-PI), M.D. Caballero (Research Lead)
-  3. Integrating Equitable Computational Science into High School Science Courses, Science and Society at State, 01/01/17 - 12/31/17, $10,000\\
+  3. Integrating Equitable Computational Science into High School Science Courses, Science and Society at State, 01/01/17 - 12/31/17, $10,000
   D. Stroupe (PI), N. Shah (Co-PI), M.D. Caballero (Co-PI)
-  4. Research Experience for Undergraduates in Physics, NSF, 06/01/16 - 05/31/21, $652,201\\
+  4. Research Experience for Undergraduates in Physics, NSF, 06/01/16 - 05/31/21, $652,201
   S. Tessmer (PI), S. Pratt (Co-PI), M.D. Caballero (Co-PI), G. Westfall (Co-PI)
-  5. Learning Science by Doing Science: Project-based Learning through Urban Entomology, Science and Society at State, 01/01/16 - 12/31/16, $10,000\\
+  5. Learning Science by Doing Science: Project-based Learning through Urban Entomology, Science and Society at State, 01/01/16 - 12/31/16, $10,000
   P. White (PI), D. Stroupe (Co-PI), M.D. Caballero (Co-PI)
-  6. Collaborative Research: Integrating Computation into Undergraduate Physics: A Faculty Development Approach to Community Transformation, NSF, 09/01/15 - 08/31/19, $1,279,209, $503,977 (MSU Part)\\
+  6. Collaborative Research: Integrating Computation into Undergraduate Physics: A Faculty Development Approach to Community Transformation, NSF, 09/01/15 - 08/31/19, $1,279,209, $503,977 (MSU Part)
   M.D. Caballero (PI, MSU), K. Roos (PI, Bradley), L. Engelhardt (PI, FMU), M. Lopez (PI, St. Thomas), R. Hilborn (PI, AAPT)
-  7. Collaborative Research: Fostering integration of computational methods in physics courses: A local communities approach, NSF, 07/01/15 – 06/30/17   $219,136, $40,526 (MSU Part)\\
+  7. Collaborative Research: Fostering integration of computational methods in physics courses: A local communities approach, NSF, 07/01/15 – 06/30/17   $219,136, $40,526 (MSU Part)
   M.D. Caballero (PI, MSU), N. Chonacky (PI, Yale), M. Lopez (PI, St. Thomas), R. Hilborn (PI, AAPT)
-  8. Transforming experiences for science and engineering students: Integrating scientific practices into introductory calculus-based mechanics, LPF-CMP 2, 01/01/14 - 12/31/15, $200,000\\
+  8. Transforming experiences for science and engineering students: Integrating scientific practices into introductory calculus-based mechanics, LPF-CMP 2, 01/01/14 - 12/31/15, $200,000
   M.D. Caballero (PI, MSU), D. Stroupe (Co-PI), S. Tessmer (Co-PI)
-  9. InvestigAction: Underrepresented Middle School Youth Becoming Community Engineering Experts, LPF-CMP 2, 01/01/14 – 05/01/15, $125,000\\
+  9. InvestigAction: Underrepresented Middle School Youth Becoming Community Engineering Experts, LPF-CMP 2, 01/01/14 – 05/01/15, $125,000
   A. Calabrese-Barton (PI), S. Calabrese-Barton (Co-PI), M.D. Caballero (Co-PI), B. Geier (Co-PI)
-  10. Collaborative Research: Surveying the state of computational physics in courses for physics majors, NSF, 01/01/15 - 12/31/17, $126,320; 21,380 (MSU Part)\\
+  10. Collaborative Research: Surveying the state of computational physics in courses for physics majors, NSF, 01/01/15 - 12/31/17, $126,320; 21,380 (MSU Part)
   M.D. Caballero (PI, MSU), N. Chonacky (PI, Yale), R. Hilborn (PI, AAPT)
-  11. LEVERS: Leveraging Engagement and Vision to Encourage Retention in STEM, HHMI, 09/01/14 – 08/31/19, $1,500,000\\
+  11. LEVERS: Leveraging Engagement and Vision to Encourage Retention in STEM, HHMI, 09/01/14 – 08/31/19, $1,500,000
   S. Chivukula (PI), M.D. Caballero (Co-author & Physics Project Lead)
 
 ### Publications
