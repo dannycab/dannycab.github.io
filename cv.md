@@ -368,6 +368,7 @@ fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
 
 #### Supervised Research Associates
 
+1.  Daryl McPadden, April 2017 -
 1.  John M. Aiken, August 2016 -
 1.  William Martinez, August 2015 –
 2.  Paul W. Irving, May 2014 – August 2016 (Assistant Professor, Michigan State University)
