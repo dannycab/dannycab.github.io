@@ -10,7 +10,7 @@ tags: toplevel
 ### Present and Future Courses Taught
 
 -   Spring 2018 - PHY 482 (Electricity and Magnetism II)
--   Fall 2017 - PHY 481 (Electricity and Magnetism I)(../phy481msu_f2017)
+-   Fall 2017 - [PHY 481 (Electricity and Magnetism I)](../phy481msu_f2017)
 
 ### Past Courses
 
