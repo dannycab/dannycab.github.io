@@ -7,7 +7,7 @@ categories: [toplevel]
 
 ## Curriculum Vitae
 
-Last updated: Mar 24, 2017
+Last updated: Jan 3, 2018
 
 ### Contact Information
 
@@ -49,6 +49,8 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 #### Awards and Honors
 
+-   2018 President's Distinguished Teaching Award, MSU [Press](http://msutoday.msu.edu/news/2017/2018-presidents-distinguished-teaching-award/)
+-   2018 Teacher-Scholar Award, MSU
 -   2017 Physics Education Research Conference Notable Paper [<i class='fa
     fa-file-text-o'></i>](http://www.compadre.org/per/items/detail.cfm?ID=14186)
 -   2016 College of Natural Science Teaching Prize, MSU
@@ -369,8 +371,8 @@ fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
 #### Supervised Research Associates
 
 1.  Daryl McPadden, April 2017 -
-1.  John M. Aiken, August 2016 -
-1.  William Martinez, August 2015 –
+1.  John M. Aiken, August 2016 - August 2017
+1.  William Martinez, August 2015 – August 2017
 2.  Paul W. Irving, May 2014 – August 2016 (Assistant Professor, Michigan State University)
 3.  Leanne Doughty, January 2014 – January 2016 (Postdoctoral Researcher, University of Colorado Denver)
 4.  James T. Laverty, August 2013 – August 2016 (Assistant Professor of Physics, Kansas State University)
@@ -381,6 +383,9 @@ fa-file-text-o'></i>](https://arxiv.org/abs/1611.01495)
 
 1.  Alanna Pawlak (2013 – )
 2.  Michael Obsniuk (2013 – )
+3.  Nicholas Young (2017 - )
+4.  John M. Aiken (2017 - )
+5.  Odd Petter Sand (2017 - )
 
 #### Graduate Students (Co-supervisor)
 
