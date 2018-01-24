@@ -2,7 +2,7 @@
 title: Danny Caballero
 email: caballero@pa.msu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Random thoughts and posts from MSU physics professor Danny Caballero. 
+  Random thoughts and posts from MSU physics professor Danny Caballero.
   Posted work is licensed under a Creative Commons BY-NC-SA 4.0 License unless noted otherwise.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dannycab.github.io" # the base hostname & protocol for your site
@@ -13,3 +13,6 @@ github_username:  dannycab
 markdown: kramdown
 
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-redirect-from
