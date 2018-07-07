@@ -7,7 +7,7 @@ categories: [toplevel]
 
 ## Curriculum Vitae
 
-Last updated: Jan 3, 2018
+Last updated: July 7, 2018
 
 ### Contact Information
 
