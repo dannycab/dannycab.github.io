@@ -35,4 +35,4 @@ mathematical tools) to the course-scale (e.g., how students learn the
 tools of classical mechanics) to the very broad (e.g., how do students
 in a massively open on-line course act like scientists?). Presently, I
 co-direct the [Physics Education Research Lab at
-MSU](http://www.pa.msu.edu/research/physics-education-lab).
+MSU](http://perl.natsci.msu.edu).
