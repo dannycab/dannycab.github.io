@@ -8,8 +8,7 @@ permalink: index.html
 
 ![DC](../img/dc.png)
 
-[HTML CV](../cv/)\\
-[PDF CV](../docs/MDC_CV.pdf)
+[[HTML CV]](../cv/) [[PDF CV]](../docs/MDC_CV.pdf)
 
 I'm a physics education researcher who studies how tools and science
 practices affect student learning in physics, and the conditions and
