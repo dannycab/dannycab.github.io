@@ -24,14 +24,5 @@ University of Colorado Boulder as a postdoctoral researcher and helped
 transform upper-division physics courses to more active learning
 environments.
 
-I conduct research from the high school to the upper-division and am
-particularly interested in how students learn physics through their use
-of tools such as mathematics and computing. My work employs cognitive
-and sociocultural theories of learning and aims to blend these
-perspectives to enhance physics instruction at all levels. My projects
-range from the fine-grained (e.g., how students engage with particular
-mathematical tools) to the course-scale (e.g., how students learn the
-tools of classical mechanics) to the very broad (e.g., how do students
-in a massively open on-line course act like scientists?). Presently, I
-co-direct the [Physics Education Research Lab at
+I conduct research from the high school to the upper-division and am particularly interested in how students learn physics through their use of tools such as mathematics and computing. My work employs cognitive and sociocultural theories of learning and aims to blend these perspectives to enhance physics instruction at all levels. My projects range from the fine-grained (e.g., how students understand particular elements of code) to the course-scale (e.g., how students learn to model systems in electromagnetism) to the very broad (e.g., how does computing affect learning across a degree program?). Presently, I co-direct the [Physics Education Research Lab at
 MSU](http://perl.natsci.msu.edu).
