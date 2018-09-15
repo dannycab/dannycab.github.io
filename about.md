@@ -6,7 +6,7 @@ permalink: index.html
 
 ## About
 
-![DC](../img/dc.png)
+![DC](../img/dc_prof_small.jpg)
 
 [[PDF CV]](../docs/MDC_CV.pdf)
 
