@@ -35,7 +35,7 @@ w: [dannycab.github.io](http://dannycab.github.io)\\
 
 ### Academic Experience
 
--   2018 - Present, Associate Professor, Department of Physics and
+-   2018 - Present, Lappan-Phillips Associate Professor of Physics Education, Department of Physics and
     Astronomy, Michigan State University
 -   2017 - Present, Associate Professor, Department of Physics, University of Oslo
 -   2013 - 2018, Assistant Professor, Department of Physics and
