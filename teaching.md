@@ -7,8 +7,12 @@ tags: toplevel
 
 ## Teaching
 
-### Present and Future Courses Taught
+I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watch?v=xkZooG2Nk8Q) highlighting my committment to teaching. The video stars students from the Spring 2019 PHY 482 class.
 
+### Present and Future Courses
+
+-   Spring 2020 - PHY 482 (Electricity and Magnetism II)
+-   Fall 2019 - PHY 481 (Electricity and Magnetism I)
 -   Spring 2019 - [PHY 482 (Electricity and Magnetism II)](../phy482msu_s2019)
 
 
