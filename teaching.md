@@ -11,12 +11,12 @@ I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watc
 
 ### Present and Future Courses
 
--   Spring 2020 - PHY 482 (Electricity and Magnetism II)
--   Fall 2019 - [PHY 481 (Electricity and Magnetism I)](../phy481msu_f2019)
-
+-   Spring 2020 - [PHY 482 (Electricity and Magnetism II)](../phy482msu_s2020)
+-   Spring 2020 - PHY 905 (Introduction to Physics Education Research)
 
 ### Past Courses
 
+-   Fall 2019 - [PHY 481 (Electricity and Magnetism I)](../phy481msu_f2019)
 -   Spring 2019 - [PHY 482 (Electricity and Magnetism II)](../phy482msu_s2019)
 -   Fall 2018 - [PHY 481 (Electricity and Magnetism I)](../phy481msu_f2018)
 -   Spring 2018 - [PHY 482 (Electricity and Magnetism II)](../phy482msu_s2018)
