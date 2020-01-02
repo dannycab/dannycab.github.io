@@ -26,10 +26,10 @@ I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watc
     Magnetism I)](../phy481msu/)
 -   Spring 2016 - Course Release
 -   Fall 2015 - [PHY 183 (Physics for Scientists and
-    Engineers I)](http://p3server.pa.msu.edu/coursewiki/)
+    Engineers I)](https://www.msuperl.org/wikis/pcubed/doku.php)
 -   Spring 2015 - LB 274 (Physics for the Life Sciences II)
 -   Fall 2014 - [PHY 183 (Physics for Scientists and
-    Engineers I)](http://p3server.pa.msu.edu/coursewiki/)
+    Engineers I)](https://www.msuperl.org/wikis/pcubed/doku.php)
 -   Spring 2014 - LB 274 (Physics for the Life Sciences II)
 -   Fall 2013 - PHY 183 (Physics for Scientists and Engineers I)
 
