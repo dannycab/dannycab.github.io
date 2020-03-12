@@ -56,6 +56,7 @@ There's probably more to say here, but I will reserve it for another post after 
 [notes]: https://www.gingerlabs.com/
 [markdown]: https://en.wikipedia.org/wiki/Markdown
 [reveal]: https://revealjs.com/#/
+[iclicker]: https://www.iclicker.com/
 [clickers]: http://dannycaballero.info/phy482msu_s2020/notes/16-slides.html#/
 [vashti]: https://pa.msu.edu/profile/vashtis/
 [pe]: https://www.polleverywhere.com/
