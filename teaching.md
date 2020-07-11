@@ -7,15 +7,17 @@ tags: toplevel
 
 ## Teaching
 
-I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watch?v=xkZooG2Nk8Q) highlighting my committment to teaching. The video stars students from the Spring 2019 PHY 482 class.
+I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watch?v=xkZooG2Nk8Q) highlighting my commitment to teaching. The video stars students from the Spring 2019 PHY 482 class.
 
 ### Present and Future Courses
 
--   Spring 2020 - [PHY 482 (Electricity and Magnetism II)](../phy482msu_s2020)
--   Spring 2020 - PHY 905 (Introduction to Physics Education Research)
+-   Spring 2021 - PHY 472 (Quantum Physics II)
+-   Fall 2020 - CMSE 202 (Computational Modeling Tools and Techniques)
 
 ### Past Courses
 
+-   Spring 2020 - [PHY 482 (Electricity and Magnetism II)](../phy482msu_s2020)
+-   Spring 2020 - PHY 905 (Introduction to Physics Education Research)
 -   Fall 2019 - [PHY 481 (Electricity and Magnetism I)](../phy481msu_f2019)
 -   Spring 2019 - [PHY 482 (Electricity and Magnetism II)](../phy482msu_s2019)
 -   Fall 2018 - [PHY 481 (Electricity and Magnetism I)](../phy481msu_f2018)
