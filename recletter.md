@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Need a Recommendation Letter?
-permalink: /teaching/recletter
-tags: toplevel
+permalink: /teaching/recletter/
 ---
 
 ### Want a Recommendation Letter?
