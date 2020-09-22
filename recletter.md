@@ -4,14 +4,15 @@ title: Need a Recommendation Letter?
 permalink: /teaching/recletter/
 ---
 
-### Want a Recommendation Letter?
+## Need a Recommendation Letter?
 
 I am very happy to write recommendation letters, but if you want me to
 write a letter or letters for you there are several things that I need.
 I realize that the list is rather long, but just remember that the more
 information you can give me, the better of a letter I can write!
 
-**Key points:**
+### Key points:
+
 -   **All** of the information listed below should be provided
     **electronically** (in pdf/MS word/text file form) at least **2
     weeks** prior to the deadline.
@@ -23,7 +24,7 @@ information you can give me, the better of a letter I can write!
     letters all go through Interfolio, so this isn't relevant for that
     type of letter.)
 
-**Information I need to write a letter:**
+### Information I need to write a letter:
 I need the following information, in electronic (pdf, word, rtf, text
 file) form that is sent to me **in a single email**. Please do not give
 me paper copies - it's far easier for me to keep track of digital
