@@ -6,11 +6,9 @@ permalink: index.html
 
 ## About
 
-![DC](../img/dc_prof_3.jpg)
+{% include figure.html image="/assets/img/dc_prof_3.jpg" position="left" width="300px" %}
 
-[Larger Photo](../img/dc_prof_3_large.jpeg)
-
-[CV (PDF)](../docs/MDC_CV.pdf)
+[Larger Photo](/assets/img/dc_prof_3_large.jpeg)
 
 I'm an education researcher in physics and computational science who studies how tools and science
 practices affect student learning, and the conditions and environments that support or inhibit this learning.

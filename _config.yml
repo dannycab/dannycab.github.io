@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Random thoughts and posts from MSU physics professor Danny Caballero.
   Posted work is licensed under a Creative Commons BY-NC-SA 4.0 License unless noted otherwise.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dannycab.github.io" # the base hostname & protocol for your site
+url: "http://dannycaballero.info" # the base hostname & protocol for your site
 twitter_username: physicistdanny
 github_username:  dannycab
 

@@ -14,7 +14,7 @@ Here's some of the files associated with the workshop.
 * [Slides][slides]
 * [Handout][handout]
 
-[slides]: https://github.com/dannycab/dannycab.github.io/blob/master/docs/workshops/2016-PICUP/2016_PICUPLearningGoalWorkshop.pdf
-[handout]: https://github.com/dannycab/dannycab.github.io/blob/master/docs/workshops/2016-PICUP/2016_PICUPLearningGoalsWorkshop_Handout.pdf
+[slides]: https://github.com/dannycab/dannycab.github.io/blob/master/assets/docs/2016-PICUP/2016_PICUPLearningGoalWorkshop.pdf
+[handout]: https://github.com/dannycab/dannycab.github.io/blob/master/assets/docs/2016-PICUP/2016_PICUPLearningGoalsWorkshop_Handout.pdf
 [sei]: http://www.colorado.edu/sei/fac-resources/workshops-clickers-materials-LG.htm
 [stephwork]: http://sciencegeekgirl.com/
