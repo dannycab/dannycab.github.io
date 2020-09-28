@@ -1,5 +1,5 @@
 ---
-redirect_from: "https://dannycab.github.io/meet/"
+redirect_from: "/meet/"
 ---
 
 <script>
