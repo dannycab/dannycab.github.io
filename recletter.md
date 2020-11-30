@@ -30,19 +30,20 @@ file) form that is sent to me **in a single email**. Please do not give
 me paper copies - it's far easier for me to keep track of digital
 copies!
 
-1.  A description of **what you are applying for**: is it some sort of
+1.  Your full name along with he name that you call yourself and the pronouns that you use. [Why do I ask for your pronouns?](https://www.mypronouns.org/)
+2.  A description of **what you are applying for**: is it some sort of
     academic honor? Medical school? Dental School? Graduate school? This
     information is necessary so that I can provide the correct level and
     variety of detail.
-2.  If you are applying to med/dental/vet school, do you have a
+3.  If you are applying to med/dental/vet school, do you have a
     specialization in mind at this time? (For example, oncology,
     pediatric medicine, large-animal medicine,
     reconstructive dentistry...) What made you decide on this
     specialization?
-3.  A note explaining **why you are asking me to write a letter** for
+4.  A note explaining **why you are asking me to write a letter** for
     you and **who else will be writing letters** for you. This helps me
     to adjust the content of my letter appropriately.
-4.  A bullet-point list of **things you would specifically like me to
+5.  A bullet-point list of **things you would specifically like me to
     talk about** in my letter. This isn't meant to be a draft letter for
     me, but should be things that I should remember when I write a
     letter for you. This can include standard things from your CV (how I
@@ -52,25 +53,25 @@ copies!
     paper as a junior, etc.). This is **not** the time for modesty: you
     need to remind me of how amazing you are so I can emphasize this in
     my letter!
-5.  A copy of your **current transcript** (unofficial is fine - MSU
+6.  A copy of your **current transcript** (unofficial is fine - MSU
     students, just go to StuInfo and send me a pdf of your
     grade report).
-6.  A copy of your **resume and/or CV**.
-7.  **MCAT/GRE** scores (if available).
-8.  Your **personal statement(s)** / application essay.
-9.  If you took one of my senior capstone courses, please give me a copy
+7.  A copy of your **resume and/or CV**.
+8.  **MCAT/GRE** scores (if available).
+9.  Your **personal statement(s)** / application essay.
+10.  If you took one of my senior capstone courses, please give me a copy
     of one or two of the papers you wrote for my course.
-10. **List** of schools to which you will be applying and due dates (Not
+11. **List** of schools to which you will be applying and due dates (Not
     relevant for med school letters, since it all goes
     through Interfolio).
-11. The name and title of the person who will receive the completed
+12. The name and title of the person who will receive the completed
     letter, if relevant.
-12. Any **forms** that need to be filled out or signed, with information
+13. Any **forms** that need to be filled out or signed, with information
     about you (your address, birth date, etc.) **already filled in**.
-13. If letters have to be submitted electronically: a list of the URLs
+14. If letters have to be submitted electronically: a list of the URLs
     or email addresses where I should send the letters. **Med school
     applicants:** Interfolio will send out an email, ignore this.
-14. If letters are to be mailed: a list of the organizations and people
+15. If letters are to be mailed: a list of the organizations and people
     that the letters should be sent to **AND** addressed, stamped
     envelopes of the appropriate size and postage. Leave the return
     address area blank - I will fill this in myself.
