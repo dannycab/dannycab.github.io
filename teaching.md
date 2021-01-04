@@ -11,11 +11,10 @@ I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watc
 
 ### Present and Future Courses
 
--   Spring 2021 - PHY 472 (Quantum Physics II)
--   Fall 2020 - [CMSE 202 (Computational Modeling Tools and Techniques)](https://www.egr.msu.edu/classes/cmse202/) [[Slides]](http://dannycaballero.info/cmse202-F20-slides/)
+-   Spring 2021 - [PHY 472 (Quantum Physics II)](../phy472msu_s2021)
 
 ### Past Courses
-
+-   Fall 2020 - [CMSE 202 (Computational Modeling Tools and Techniques)](https://www.egr.msu.edu/classes/cmse202/) [[Slides]](http://dannycaballero.info/cmse202-F20-slides/)
 -   Spring 2020 - [PHY 482 (Electricity and Magnetism II)](../phy482msu_s2020)
 -   Spring 2020 - PHY 905 (Introduction to Physics Education Research)
 -   Fall 2019 - [PHY 481 (Electricity and Magnetism I)](../phy481msu_f2019)
