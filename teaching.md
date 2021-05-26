@@ -12,7 +12,7 @@ I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watc
 ### Present and Future Courses
 
 -   Fall 2021 - Spring 2022 - Sabbatical
--   Spring 2021 - [Machine Learning Short Course)](../MSU_REU_ML_course)
+-   Spring 2021 - [Machine Learning Short Course](../MSU_REU_ML_course)
 
 ### Past Courses
 -   Spring 2021 - [PHY 472 (Quantum Physics II)](../phy472msu_s2021)
