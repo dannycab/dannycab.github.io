@@ -19,9 +19,13 @@ But your time at MSU can be so much more if you let it. Classes are just one par
 I want to leave y’all with some lyrics from one of my favorite bands that just happens to be from Detroit. Their name is a bit vulgar for something public like this, but this part of the song “Impossible Possibilities” reminds me why I belong at MSU:
 
 *Teach them to give and not to take.*
+
 *And to lead with compassion before it's all too late.*
+
 *Can you imagine what this could become*
+
 *With hope and love and a little communication.*
 
-We are so much more with you here.
+**We are so much more with you here.**
+
 Be good to each other.
