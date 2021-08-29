@@ -17,10 +17,11 @@ Your time here will be filled with new opportunities. New friends. New experienc
 But your time at MSU can be so much more if you let it. Classes are just one part of the college experience. Join the bike polo club. Start a letter writing campaign for more hammock stands. Volunteer at the Lansing food bank. Go see MSU's women's soccer team play. Check out some live music at The Ave. We have so much to offer you, but it's up to you to take advantage of it. And as you do, that initial anxiety you feel will melt away. And you will figure out, for yourself, why you belong at MSU.
 
 I want to leave y’all with some lyrics from one of my favorite bands that just happens to be from Detroit. Their name is a bit vulgar for something public like this, but this part of the song “Impossible Possibilities” reminds me why I belong at MSU:
-Teach them to give and not to take.
-And to lead with compassion before it's all too late.
-Can you imagine what this could become
-With hope and love and a little communication.
+
+*Teach them to give and not to take.*
+*And to lead with compassion before it's all too late.*
+*Can you imagine what this could become*
+*With hope and love and a little communication.*
 
 We are so much more with you here.
 Be good to each other.
