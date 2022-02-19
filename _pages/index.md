@@ -1,6 +1,6 @@
 ---
 title: About
-layout: single
+layout: splash
 permalink: index.html
 author_profile: true
 ---

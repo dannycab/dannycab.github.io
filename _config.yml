@@ -16,12 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Danny Caballero"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Lappan-Phillips Associate Professor" # site tagline that appears below site title in masthead
 name                     : "Danny Caballero"
-description              : "Random thoughts and posts from MSU professor Danny Caballero.
-Posted work is licensed under a Creative Commons BY-NC-SA 4.0 License unless noted otherwise."
+description              : #
 url                      : https://dannycab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Danny Caballero"
+  name             : #"Danny Caballero"
   avatar           : #/assets/img/dc_prof_3.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Lappan-Phillips Associate Professor"
+  bio              : #"Lappan-Phillips Associate Professor"
   # location         : "Michigan State University"
   # email            : #"caball14@msu.edu"
   links:
