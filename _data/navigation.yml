@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About"
+    url: index.html
+  - title: "Contact"
+    url: /contact/
+  - title: "CV"
+    url: /assets/docs/MDC_CV.pdf
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Blog"
+    url: /blog/

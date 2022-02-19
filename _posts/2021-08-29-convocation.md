@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "2021 Convocation Welcome"
 date:   2021-08-29
 tags: [teaching, stem]

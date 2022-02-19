@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Write and solve your own quizzes"
 date:   2020-03-12
 tags: [teaching, stem]

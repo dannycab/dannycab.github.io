@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "What do you want them to do today?"
 date:   2016-06-13
 tags: [workshop]
