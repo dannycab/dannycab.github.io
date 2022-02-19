@@ -1,0 +1,31 @@
+I"y<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://dannycab.github.com/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://arxiv.org/find/physics/1/au:+Caballero_M/0/1/0/all/0/1" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-atom" aria-hidden="true"></i> ArXiV</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/physicistdanny" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright"><span class="copyleft">&copy;</span> 2022 Danny Caballero.<br>
+Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+:ET
