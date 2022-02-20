@@ -5,7 +5,9 @@ permalink: index.html
 author_profile: true
 ---
 
-{% include figure.html image="/assets/img/dc_prof_3_large.jpeg" %}
+![Danny](./assets/img/dc_prof_3.png)
+
+[[Larger Version](./assets/img/dc_prof_3_large.jpeg)]
 
 Marcos (Danny) Caballero is an Associate Professor in the [Department of Physics and Astronomy](https://pa.msu.edu/) and the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu/). He holds the Lappan-Phillips Chair of Physics Education, co-directs the [Physics Education Research Lab](https://perl.natsci.msu.edu/), serves as a principal investigator for the [Learning Machines Lab](https://learningmachineslab.github.io/), conducts research as part of the newly-founded [Computational Education Research Lab](https://msu-cerl.github.io/), and holds an appointment as research faculty at the [University of Oslo’s Center for Computing in Science Education](https://www.mn.uio.no/ccse/english/). Danny studies how tools and science practices affect student learning in physics and computational science, and the conditions and environments that support or inhibit this learning.
 

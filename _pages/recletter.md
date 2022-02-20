@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Need a Recommendation Letter?
-permalink: /teaching/recletter/
+permalink: /recletter/
 author_profile: false
 ---
 
