@@ -6,8 +6,8 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
-  - title: "CV (PDF)"
-    url: /assets/docs/MDC_CV.pdf
+  - title: "CV"
+    url: /cv/
   - title: "Contact"
     url: /contact/
   - title: "Blog"
