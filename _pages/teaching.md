@@ -8,11 +8,12 @@ author_profile: true
 I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watch?v=xkZooG2Nk8Q) highlighting my commitment to teaching. The video stars students from the Spring 2019 PHY 482 class.
 
 ### Present and Future Courses
-
--   Fall 2021 - Spring 2022 - Sabbatical
--   Spring 2021 - [Machine Learning Short Course](../MSU_REU_ML_course)
+-   Spring 2023 - CMSE
+-   Fall 2022 - Physics
 
 ### Past Courses
+-   Fall 2021 - Spring 2022 - Sabbatical
+-   Spring 2021 - [Machine Learning Short Course](../MSU_REU_ML_course)
 -   Spring 2021 - [PHY 472 (Quantum Physics II)](../phy472msu_s2021)
 -   Fall 2020 - [CMSE 202 (Computational Modeling Tools and Techniques)](https://www.egr.msu.edu/classes/cmse202/) [[Slides]](http://dannycaballero.info/cmse202-F20-slides/)
 -   Spring 2020 - [PHY 482 (Electricity and Magnetism II)](../phy482msu_s2020)
