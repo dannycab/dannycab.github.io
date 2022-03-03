@@ -9,7 +9,7 @@ I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watc
 
 ### Present and Future Courses
 -   Spring 2023 - CMSE
--   Fall 2022 - Physics
+-   Fall 2022 - [PHY 415 (Mathematical Modeling in Physics)](../phy415msu)
 
 ### Past Courses
 -   Fall 2021 - Spring 2022 - Sabbatical
