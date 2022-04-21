@@ -13,7 +13,7 @@ Department of Computational Mathematics, Science, & Engineering\
 CREATE for STEM Institute\
 Michigan State University
 
-567 Wilson Rd., Room 1310A, East Lansing, MI 48824\
+Wilson Rd., Room 1310A, East Lansing, MI 48824\
 e: <caball14@msu.edu>\
 w: [dannycab.github.io](https://dannycab.github.io)\
 (office) 517-884-5657 (cell) 517-420-5330
@@ -47,11 +47,11 @@ w: [dannycab.github.io](https://dannycab.github.io)\
 -   2017 -- Present, Adjunct Associate Professor, Department of Physics,
     University of Oslo
 
--   2013 -- 2018, Assistant Professor, Department of Physics and
-    Astronomy, Michigan State University
-
 -   2013 -- Present, Leadership Faculty, CREATE for STEM Institute,
     Michigan State University
+
+-   2013 -- 2018, Assistant Professor, Department of Physics and
+    Astronomy, Michigan State University
 
 -   2011 -- 2013, Postdoctoral Researcher, Department of Physics,
     University of Colorado Boulder
