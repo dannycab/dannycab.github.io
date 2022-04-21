@@ -122,7 +122,7 @@ author:
       url: "https://scholar.google.com/citations?user=RyAEDZI1S2MC&hl=en"
     - label: "ArXiV"
       icon: "fas fa-fw fa-atom"
-      url: "https://arxiv.org/find/physics/1/au:+Caballero_M/0/1/0/all/0/1"
+      url: "https://arxiv.org/search/?searchtype=author&query=Caballero%2C+M+D"
     - label: "dannycab"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dannycab/"
