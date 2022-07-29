@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 author_profile: true
 ---
-[Long Form (PDF)](https://dannycaballero.info/assets/docs/MDC_CV.pdf)
+[Long Form (PDF)](https://github.com/dannycab/dannycab.github.io/raw/main/assets/docs/MDC_CV.pdf)
 
 # Contact Information
 
