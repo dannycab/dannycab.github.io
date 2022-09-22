@@ -5,9 +5,9 @@ permalink: index.html
 author_profile: true
 ---
 
-![Danny](./assets/img/dc_4.jpg)
+![Danny](./assets/img/dc_5.jpg)
 
-[[Larger Photo](./assets/img/dc_4_large.jpg)] | [[Larger Photo (w/ sleeves)](./assets/img/dc_prof_3_large.jpeg)]
+[[w/o cat)](./assets/img/dc_prof_5.jpg)]
 
 ------
 
