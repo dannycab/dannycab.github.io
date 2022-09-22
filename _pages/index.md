@@ -7,7 +7,7 @@ author_profile: true
 
 ![Danny](./assets/img/dc_5.jpg)
 
-[[w/o cat)](./assets/img/dc_prof_5.jpg)]
+[[w/o cat](./assets/img/dc_prof_5.jpg)]
 
 ------
 
