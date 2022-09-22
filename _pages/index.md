@@ -5,7 +5,7 @@ permalink: index.html
 author_profile: true
 ---
 
-![Danny](./assets/img/dc_5.jpg)
+<img align="left" src="./assets/img/dc_5.jpg" alt="Danny">
 
 [[w/o cat](./assets/img/dc_prof_5.jpg)]
 
