@@ -64,9 +64,14 @@ w: [dannycab.github.io](https://dannycab.github.io)\
 
 #### Awards and Honors
 
+
+-   2023 American Physical Society Excellence in Physics Education Award, Team Member [\[Press\]](https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Caballero&first_nm=Marcos&year=2023)
+
+-   2022 Fellow of the American Physical Society [\[Press\]](https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2022&unit_id=GPER&institution=)
+
 -   2022 Department Award for Improving Undergraduate Physics Education,
     Team Member, American Physical Society
-    [\[Press\]](https://natsci.msu.edu/news/msu-recognized-for-physics-undergraduate-education-excellence/)
+    [\[Press\]](https://natsci.msu.edu/news/msu-recognized-for-physics-undergraduate-education-excellence.aspx)
 
 -   2021 Physical Review PER Editor's Suggestion (Topic: Quantitative
     Methods for Education Research): *Framework for evaluating
