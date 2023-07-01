@@ -37,10 +37,17 @@ w: [dannycab.github.io](https://dannycab.github.io)\
 
 #### Positions
 
--   2020 -- Present, Associate Professor, Department of Computational
+-   2023 - Present, Professor, Department of Computational
     Mathematics, Science, and Engineering
 
--   2018 -- Present, Lappan-Phillips Associate Professor of Physics
+-   2023 -- Present, Lappan-Phillips Professor of Physics
+    Education, Department of Physics and Astronomy, Michigan State
+    University
+
+-   2020 -- 2023, Associate Professor, Department of Computational
+    Mathematics, Science, and Engineering
+
+-   2018 -- 2023, Lappan-Phillips Associate Professor of Physics
     Education, Department of Physics and Astronomy, Michigan State
     University
 

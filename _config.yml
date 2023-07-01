@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Danny Caballero"
 title_separator          : "-"
-subtitle                 : "Lappan-Phillips Associate Professor" # site tagline that appears below site title in masthead
+subtitle                 : "Lappan-Phillips Professor" # site tagline that appears below site title in masthead
 name                     : "Danny Caballero"
 description              : #
 url                      : https://dannycab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -115,34 +115,34 @@ author:
       icon: "fas fa-fw fa-map-pin"
       url: "https://www.mn.uio.no/ccse/english/"
     - label: "caball14@msu.edu"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-solid fa-envelope"
       url: "mailto:caball14@msu.edu"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-google"
+      icon: "fab fa-brands fa-google"
       url: "https://scholar.google.com/citations?user=RyAEDZI1S2MC&hl=en"
     - label: "ArXiV"
       icon: "fas fa-fw fa-atom"
       url: "https://arxiv.org/search/?searchtype=author&query=Caballero%2C+M+D"
     - label: "dannycab"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-brands fa-github-alt"
       url: "https://github.com/dannycab/"
-    - label: "physicistdanny"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/physicistdanny"
+    - label: "@physicistdanny"
+      icon: "fab fa-brands fa-mastodon"
+      url: "https://fediscience.org/@physicistdanny"
 
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-brands fa-github-alt"
       url: "https://dannycab.github.com/"
     - label: "ArXiV"
       icon: "fas fa-fw fa-atom"
       url: "https://arxiv.org/find/physics/1/au:+Caballero_M/0/1/0/all/0/1"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/physicistdanny"
+    - label: "Mastodon"
+      icon: "fab fa-brands fa-mastodon"
+      url: "https://fediscience.org/@physicistdanny"
 
 
 # Reading Files
