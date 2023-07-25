@@ -1,5 +1,5 @@
-"In Review":
-  color: "#e5b567"
+"IN REVIEW":
+  color: "#e87d3e"
   
 "AJP":
   url: https://www.aapt.org/Publications/ajp.cfm
@@ -7,20 +7,20 @@
 
 "PERC":
   url: https://www.compadre.org/per/perc/
-  color: "#6c99bb"
+  color: "#2e2e2e"
 
 "PRPER":
   url: https://journals.aps.org/prper/
-  color: "#b4d273"
+  color: "#9e86c8"
 
 "PLOSONE":
   url: https://journals.plos.org/plosone/
-  color: "#e5b567"
+  color: "#9e86c8"
 
 "EJP":
   url: https://iopscience.iop.org/journal/0143-0807
-  color: "#e87d3e"
+  color: "#9e86c8"
 
 "TPT":
   url: https://www.aapt.org/Publications/tpt.cfm
-  color: "#b05279"
+  color: "#9e86c8"
