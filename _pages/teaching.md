@@ -1,8 +1,10 @@
 ---
-layout: single
-title: Teaching
+layout: page
 permalink: /teaching/
-author_profile: true
+title: teaching
+#description: Materials for courses you taught. Replace this text with your description.
+nav: true
+nav_order: 3
 ---
 
 I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watch?v=xkZooG2Nk8Q) highlighting my commitment to teaching. The video stars students from the Spring 2019 PHY 482 class.
@@ -10,9 +12,9 @@ I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watc
 ### Present and Future Courses
 -   Spring 2024 - PHY 321 (Classical Mechanics)
 -   Fall 2023 - PHY 415 (Mathematical Modeling in Physics)
--   Summer 2023 - [Machine Learning Short Course](../MSU_REU_ML_course)
 
 ### Past Courses
+-   Summer 2023 - [Machine Learning Short Course](../MSU_REU_ML_course)
 -   Spring 2023 - STT 180 (Introduction to Data Science)
 -   Fall 2022 - [PHY 415 (Mathematical Modeling in Physics)](../phy415msu)
 -   Summer 2022 - [Machine Learning in Education Short Course](https://learningmachineslab.github.io/OPSI_ML_workshop/intro.html)

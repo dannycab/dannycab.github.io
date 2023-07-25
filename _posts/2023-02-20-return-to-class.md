@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "2023 Return to Classes"
 date:   2023-02-02
 tags: [teaching]

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "Wasteful Science"
 date:   2016-05-27
 tags: [news, commentary]

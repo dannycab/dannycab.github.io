@@ -1,0 +1,112 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Danny Caballero
+    - name: Date of Birth
+      value: 1 May 1982
+    - name: Languages
+      value: English, Spanish
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD, Physics
+      institution: Georgia Institute of Technology, Atlanta, Georgia, USA
+      year: 2011
+      description:
+        - "<a href=\"http://arxiv.org/abs/1112.5593\">Evaluating and Extending a Novel Course Reform of Introductory Mechanics</a> (Advisor: Prof. Michael F. Schatz)"
+    - title: Master of Science, Physics
+      institution: Georgia Institute of Technology, Atlanta, Georgia, USA
+      year: 2007
+    - title: Bachelor of Science, Physics
+      institution: University of Texas at Austin, Austin, Texas, USA
+      year: 2004
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Professor
+      institution: Department of Physics and Astronomy & Department of Computational Science, Mathematics, and Engineering, Michigan State University, East Lansing, Michigan, USA
+      year: 2023-now
+    - title: Associate Professor
+      institution: Department of Computational Science, Mathematics, and Engineering, Michigan State University, East Lansing, Michigan, USA
+      year: 2020-2023
+    - title: Associate Professor
+      institution: Department of Physics and Astronomy, Michigan State University, East Lansing, Michigan, USA
+      year: 2018-2023
+    - title: Adjunct Associate Professor
+      institution: Department of Physics & Center for Computing in Science Education, University of Oslo, Oslo, Norway
+      year: 2013-now
+    - title: Leadership Faculty
+      institution: CREATE for STEM Institute, Michigan State University, East Lansing, Michigan, USA
+      year: 2013-now
+    - title: Assistant Professor
+      institution: Department of Physics and Astronomy, Michigan State University, East Lansing, Michigan, USA
+      year: 2013-2018
+    - title: Postdoctoral Researcher
+      institution: Department of Physics, University of Colorado Boulder, Boulder, Colorado, USA
+      year: 2013-2018
+    - title: Graduate Teaching and Research Assistant
+      institution: School of Physics, Georgia Institute of Technology, Atlanta, Georgia, USA
+      year: 2005-2011
+    - title: Undergraduate Research Assistant
+      institution: Department of Astronomy, University of Texas at Austin, Austin, Texas, USA
+      year: 2003-2005
+    
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://www.compadre.org/picup/">PICUP Materials Repository</a>
+      year: 2015-now
+      description: Open-source computational activities for undergraduate physics courses.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - "<a href=\"https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Caballero&first_nm=Marcos&year=2023\">American Physical Society Excellence in Physics Education Award, Team Member</a>"
+    - year: 2022
+      items: 
+        - "<a href=\"https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2022&unit_id=GPER&institution=\">Fellow of the American Physical Society</a>"
+        - "<a href=\"https://natsci.msu.edu/news/msu-recognized-for-physics-undergraduate-education-excellence.aspx\">Department Award for Improving Undergraduate Physics Education, Team Member</a>"
+    - year: 2021
+      items: 
+        - "Physical Review PER Editor's Suggestion -- <a href=\"https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.17.020104\">Framework for evaluating statistical models in physics education research</a>"
+        - "Physical Review PER Editor's Suggestion -- <a href=\"https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.17.010144\">Physics Graduate Record Exam does not help applicants \"stand out\"</a>"
+    - year: 2019
+      items:
+        - "Physical Review PER Editor's Suggestion -- <a href=\"https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.15.020152\">Physics computational literacy: An exploratory case study using computational essays</a>"
+        - "Physics Education Research Conference Notable Paper -- <a href=\"https://www.compadre.org/per/items/detail.cfm?ID=15226\">Using machine learning to understand physics graduate school admissions</a>"
+    - year: 2018
+      items:
+        - "<a href=\"https://msutoday.msu.edu/news/2017/2018-presidents-distinguished-teaching-award\">President's Distinguished Teaching Award, Michigan State University</a>"
+        - "<a href=\"https://msutoday.msu.edu/news/2018/2018-teacher-scholar-awards\">Teacher-Scholar Award, Michigan State University</a>"
+    - year: 2016
+      items:
+        - "Physics Education Research Conference Notable Paper -- <a href=\"https://www.per-central.org/items/detail.cfm?ID=14186\">Methods for analyzing pathways through a physics major</a>"
+        - College of Natural Science Teaching Prize, Michigan State University
+    - year: 2015
+      items:
+        - Thomas H. Osgood Memorial Awards for Faculty Excellence in Teaching, Michigan State University
+    - year: 2014
+      items:
+        - STEM Gateway Fellow, College of Natural Science, Michigan State University
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

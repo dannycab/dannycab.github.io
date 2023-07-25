@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "I don't feel Spartan Strong"
 date:   2023-02-21
 tags: [teaching]

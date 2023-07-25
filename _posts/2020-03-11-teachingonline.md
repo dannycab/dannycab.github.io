@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "I have never taught an online course and now I have to"
 date:   2020-03-11
 tags: [teaching, stem]
