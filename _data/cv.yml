@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Danny Caballero
+      value: Marcos D. (Danny) Caballero
     - name: Date of Birth
       value: 1 May 1982
     - name: Languages
@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD, Physics
+    - title: Doctor of Philosophy, Physics
       institution: Georgia Institute of Technology, Atlanta, Georgia, USA
       year: 2011
       description:
