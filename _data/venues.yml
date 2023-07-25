@@ -1,6 +1,26 @@
+"In Review":
+  color: "#e5b567"
+  
 "AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+  url: https://www.aapt.org/Publications/ajp.cfm
+  color: "#9e86c8"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"PERC":
+  url: https://www.compadre.org/per/perc/
+  color: "#6c99bb"
+
+"PRPER":
+  url: https://journals.aps.org/prper/
+  color: "#b4d273"
+
+"PLOSONE":
+  url: https://journals.plos.org/plosone/
+  color: "#e5b567"
+
+"EJP":
+  url: https://iopscience.iop.org/journal/0143-0807
+  color: "#e87d3e"
+
+"TPT":
+  url: https://www.aapt.org/Publications/tpt.cfm
+  color: "#b05279"
