@@ -11,7 +11,7 @@ I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watc
 
 ### Present and Future Courses
 -   Spring 2024 - PHY 321 (Classical Mechanics)
--   Fall 2023 - PHY 415 (Mathematical Modeling in Physics)
+-   Fall 2023 - [PHY 415 (Mathematical Modeling in Physics)](../phy415fall2023)
 
 ### Past Courses
 -   Summer 2023 - [Machine Learning Short Course](../MSU_REU_ML_course)
