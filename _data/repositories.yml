@@ -2,7 +2,12 @@ github_users:
   - dannycab
 
 github_repos:
-  - perlatmsu/physutil&PAT_1 
-  - dannycab/phy415msu&PAT_1 
-  - dannycab/MSU_REU_ML_course&PAT_1 
-  - dannycab/photoshop-me&PAT_1 
+  - johnjago/awesome-free-software
+  - dannycab/phy415fall23
+  - dannycab/MSU_REU_ML_course
+  - dannycab/phy481msu_f2019
+  - dannycab/phy482msu_s2019
+  - dannycab/cmse202-F20-slides
+  - perlatmsu/physutil
+  - awesome-selfhosted/awesome-selfhosted
+  - dannycab/photoshop-me
