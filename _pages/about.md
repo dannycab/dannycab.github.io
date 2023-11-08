@@ -6,7 +6,7 @@ subtitle: professor of physics and computational science
 
 profile:
   align: right
-  image: dc_5.jpg
+  image: dc/dc_5.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>BPS Room 1310A</p>

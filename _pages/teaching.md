@@ -7,13 +7,11 @@ nav: true
 nav_order: 3
 ---
 
-I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watch?v=xkZooG2Nk8Q) highlighting my commitment to teaching. The video stars students from the Spring 2019 PHY 482 class.
-
-### Present and Future Courses
+### present and future courses
 -   Spring 2024 - PHY 321 (Classical Mechanics)
 -   Fall 2023 - [PHY 415 (Mathematical Modeling in Physics)](../phy415fall23)
 
-### Past Courses
+### past courses
 -   Summer 2023 - [Machine Learning Short Course](../MSU_REU_ML_course)
 -   Spring 2023 - STT 180 (Introduction to Data Science)
 -   Fall 2022 - [PHY 415 (Mathematical Modeling in Physics)](../phy415msu)
@@ -41,4 +39,7 @@ I was fortunate to be selected by MSU for [a video](https://www.youtube.com/watc
 -   Spring 2014 - LB 274 (Physics for the Life Sciences II)
 -   Fall 2013 - PHY 183 (Physics for Scientists and Engineers I)
 
-[**Need a Recommendation Letter?**](/recletter/)
+### other teaching things
+
+* **I love helping people learn.** I was fortunate to be selected by MSU for [a video highlighting my commitment to teaching](https://inv.tux.pizza/watch?v=xkZooG2Nk8Q). The video stars students from the Spring 2019 PHY 482 class.
+* **Do you need a recommendation letter?** Please go to [this page](/recletter/) for more information. The more information you can provide, the better letter I can write.
