@@ -4,5 +4,6 @@
 - name: generativeAI
   subdirectories:
     - new-deal-posters-for-lansing
+    - squirrel-attack-michigan-capital
     - anthropomorphic-animals-writing-code
     - looney-tunes-mongoose

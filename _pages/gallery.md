@@ -9,7 +9,7 @@ nav_order: 7
 <h2>{{ directory.name }}</h2>
 {% for subdirectory in directory.subdirectories %}
 <h3>{{ subdirectory }}</h3>
-<ul>
+<div class="image-grid">
 {% for file in site.static_files %}
 {% if file.path contains 'assets/img/gallery/' and file.path contains '800' and file.path contains subdirectory %}
 <a href="{{ file.path | replace: '800', '1400' }}">
@@ -17,6 +17,6 @@ nav_order: 7
 </a>
 {% endif %}
 {% endfor %}
-</ul>
+</div>
 {% endfor %}
 {% endfor %}

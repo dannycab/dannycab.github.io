@@ -1034,3 +1034,14 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 10px;
+}
+
+.image-grid img {
+  width: 100%;
+  height: auto;
+}

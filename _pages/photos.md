@@ -6,7 +6,7 @@ nav: false
 ---
 
 <h2>dc photos</h2>
-<div class="image-gallery">
+<div class="image-grid">
   {% for image in site.static_files %}
     {% if image.path contains "assets/img/dc/" %}
         {% if image.path contains "1400" %}
