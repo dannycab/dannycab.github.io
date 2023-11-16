@@ -1,0 +1,8 @@
+# - name: photos
+#   subdirectories:
+#     - lansing-photos
+- name: generativeAI
+  subdirectories:
+    - new-deal-posters-for-lansing
+    - anthropomorphic-animals-writing-code
+    - looney-tunes-mongoose

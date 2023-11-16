@@ -1,20 +1,22 @@
 ---
 layout: default
-title: ❤️ lansing
-permalink: /lansing/
+title: gallery
+permalink: /gallery/
 nav: true
 nav_order: 7
 ---
-
-<h2>❤️❤️❤️</h2>
-<h3>lansing is a lovely place.</h3>
-<div class="image-gallery">
-  {% for image in site.static_files %}
-    {% if image.path contains "assets/img/lansing/" %}
-        {% if image.path contains "1400" %}
-            <a href="{{image.path}}" data-lightbox="gallery" data-title="{{image.name}}">
-            <img src="{{image.path}}" alt="{{image.name}}" /></a>
-        {% endif %}
-    {% endif %}
-  {% endfor %}
-</div>
+{% for directory in site.data.image_directories %}
+<h2>{{ directory.name }}</h2>
+{% for subdirectory in directory.subdirectories %}
+<h3>{{ subdirectory }}</h3>
+<ul>
+{% for file in site.static_files %}
+{% if file.path contains 'assets/img/gallery/' and file.path contains '800' and file.path contains subdirectory %}
+<a href="{{ file.path | replace: '800', '1400' }}">
+<img src="{{ file.path }}" alt="{{ file.name }}" />
+</a>
+{% endif %}
+{% endfor %}
+</ul>
+{% endfor %}
+{% endfor %}

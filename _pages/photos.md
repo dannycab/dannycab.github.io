@@ -9,7 +9,7 @@ nav: false
 <div class="image-gallery">
   {% for image in site.static_files %}
     {% if image.path contains "assets/img/dc/" %}
-        {% if image.path contains "140" %}
+        {% if image.path contains "1400" %}
             <a href="{{image.path}}" data-lightbox="gallery" data-title="{{image.name}}">
             <img src="{{image.path}}" alt="{{image.name}}" /></a>
         {% endif %}
