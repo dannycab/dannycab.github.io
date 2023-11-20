@@ -15,3 +15,17 @@ I work with several research groups that focus on different aspects of education
 * [The Learning Machines Labs](https://learningmachineslab.github.io) conducts education research using the tools of data science and machine learning to develop quantitative evidence for educational claims. It focuses its efforts on STEM education research.
 * [The Center for Computing in Science Education](https://www.mn.uio.no/ccse/english/) conducts research into students' learning of computing in science environments and studies the tools and conditions that lead to different forms of learning. This research is conducted almost exclusively in Norway.
 * [The Computational Education Research Lab](https://msu-cerl.github.io) conducts research into student learning and engagement in computational and data science and the environments and conditions that shape that learning and participation.
+
+## Colloquium Talks
+
+I have given a number of presentations about my research. Here's a sample of some of the more recent ones.
+
+<ul>
+{% for talk in site.talks %}
+  <li>
+    <strong>{{ talk.title }}</strong>: <!-- Assuming you set the title in the front matter of the Markdown/HTML files -->
+    <a href="../assets{{ talk.url | relative_url }}index.html">View Talk</a> |
+    <a href="../assets{{ talk.url | relative_url | replace: 'index.html'}}{{ talk.file}}">Download PDF</a>
+  </li>
+{% endfor %}
+</ul>

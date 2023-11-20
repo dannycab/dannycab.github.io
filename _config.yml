@@ -166,6 +166,8 @@ related_blog_posts:
 # -----------------------------------------------------------------------------
 
 collections:
+  talks:
+    output: true
   news:
     defaults:
       layout: post
