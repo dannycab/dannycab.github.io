@@ -10,14 +10,15 @@ horizontal: false
 ---
 
 <style>
-  .project-grid {
+
+.project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 20px;
 }
 
 .project-card {
-  border: 1px solid #ccc;
+  border: 0px dotted #ccc;
   padding: 20px;
 }
 
@@ -35,6 +36,10 @@ horizontal: false
 .project-card p {
   font-size: 1em;
 }
+
+.project-grid li {
+  list-style: none;
+}
 </style>
 
 I work with several research groups that focus on different aspects of education.
@@ -44,20 +49,26 @@ I work with several research groups that focus on different aspects of education
 * [The Center for Computing in Science Education](https://www.mn.uio.no/ccse/english/) conducts research into students' learning of computing in science environments and studies the tools and conditions that lead to different forms of learning. This research is conducted almost exclusively in Norway.
 * [The Computational Education Research Lab](https://msu-cerl.github.io) conducts research into student learning and engagement in computational and data science and the environments and conditions that shape that learning and participation.
 
-## projects
+## current projects
 
 <ul class="project-grid">
   {% for project in site.projects %}
-    <li class="project-card">
-      <img src="{{ site.baseurl }}{{ project.img }}" alt="{{ project.title }}">
-      <h2>{{ project.title }}</h2>
-      <p>{{ project.description }}</p>
-      <a href="{{ site.baseurl }}{{ project.url }}">View Project</a> 
-    </li>
+    {% if project.current %}
+      <li class="project-card">
+        {% if project.img %}
+          <img src="{{ site.baseurl }}{{ project.img }}" alt="{{ project.title }}">
+        {% endif %}
+        <h2>{{ project.title }}</h2>
+        <p>{{ project.description }}</p>
+        {% if project.link %}
+          <a href="{{ project.link }}">View Project</a>
+        {% else %}
+        Coming soon.
+        {% endif %} 
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
-
-
 
 ## colloquium talks
 
@@ -71,4 +82,26 @@ I have given a number of presentations about my research. Here's a sample of som
     <a href="../assets{{ talk.url | relative_url | replace: 'index.html'}}{{ talk.file}}">Download PDF</a>
   </li>
 {% endfor %}
+</ul>
+
+
+## older projects
+
+<ul class="project-grid">
+  {% for project in site.projects %}
+    {% if project.archived %}
+      <li class="project-card">
+        {% if project.img %}
+          <img src="{{ site.baseurl }}{{ project.img }}" alt="{{ project.title }}">
+        {% endif %}
+        <h2>{{ project.title }}</h2>
+        <p>{{ project.description }}</p>
+        {% if project.link %}
+          <a href="{{ project.link }}">View Project</a>
+        {% else %}
+        Coming soon.
+        {% endif %} 
+      </li>
+    {% endif %}
+  {% endfor %}
 </ul>
