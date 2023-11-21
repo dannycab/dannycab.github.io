@@ -52,7 +52,7 @@ I work with several research groups that focus on different aspects of education
 
 ## presentations
 
-I have given a number of presentations about my research. Here's a sample of some of the more recent ones.
+I've given a number of presentations about my research. Here's a sample of some of the more recent ones.
 
 <ul>
 {% for talk in site.talks %}
@@ -64,7 +64,11 @@ I have given a number of presentations about my research. Here's a sample of som
 {% endfor %}
 </ul>
 
-## current projects
+## projects
+
+I've worked on a few projects. Here are some recent ones. Here's some [older ones](#older).
+
+### current
 
 <ul class="project-grid">
 {% assign sorted_projects = site.projects | sort: "importance" %}
@@ -86,7 +90,7 @@ I have given a number of presentations about my research. Here's a sample of som
   {% endfor %}
 </ul>
 
-## older projects
+## older
 
 <ul class="project-grid">
   {% assign sorted_projects = site.projects | sort: "importance" %}
