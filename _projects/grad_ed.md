@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: More equitable and diverse graduate education in physics
+description: Transforming graduate education in physics to be more equitable and diverse
+img: assets/img/7.jpg
+importance: 3
 ---
 
 Every project has a beautiful feature showcase page.

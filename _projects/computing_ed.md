@@ -1,11 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Computing Education in the Sciences
+description: What is computing for?
+img:
 importance: 3
-category: work
 ---
 
 Every project has a beautiful feature showcase page.

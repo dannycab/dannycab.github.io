@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: PICUP
+description: The Partnership for Integration of Computation into Undergraduate Physics (PICUP) is a community of physics faculty, students, and others with an interest in the role of computation in physics education.
+img: ../assets/img/media/projects/picup_logo.png
 importance: 1
-category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 

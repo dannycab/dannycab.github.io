@@ -9,6 +9,34 @@ nav_order: 2
 horizontal: false
 ---
 
+<style>
+  .project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.project-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.project-card img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.project-card h2 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.project-card p {
+  font-size: 1em;
+}
+</style>
+
 I work with several research groups that focus on different aspects of education.
 
 * [The Physics Education Research Lab](https://perl.natsci.msu.edu) conducts a variety of research into students' relationships with physics, how tools and environments shape those relationships, and the conditions that can influence or moderate those relationships.
@@ -16,7 +44,22 @@ I work with several research groups that focus on different aspects of education
 * [The Center for Computing in Science Education](https://www.mn.uio.no/ccse/english/) conducts research into students' learning of computing in science environments and studies the tools and conditions that lead to different forms of learning. This research is conducted almost exclusively in Norway.
 * [The Computational Education Research Lab](https://msu-cerl.github.io) conducts research into student learning and engagement in computational and data science and the environments and conditions that shape that learning and participation.
 
-## Colloquium Talks
+## projects
+
+<ul class="project-grid">
+  {% for project in site.projects %}
+    <li class="project-card">
+      <img src="{{ site.baseurl }}{{ project.img }}" alt="{{ project.title }}">
+      <h2>{{ project.title }}</h2>
+      <p>{{ project.description }}</p>
+      <a href="{{ site.baseurl }}{{ project.url }}">View Project</a> 
+    </li>
+  {% endfor %}
+</ul>
+
+
+
+## colloquium talks
 
 I have given a number of presentations about my research. Here's a sample of some of the more recent ones.
 

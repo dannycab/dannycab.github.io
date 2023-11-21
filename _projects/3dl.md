@@ -1,11 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Three Dimensional Learning
+description: Transforming undergraduate science classrooms with 3DL
+img: assets/img/1.jpg
+importance: 3
 ---
 
 Every project has a beautiful feature showcase page.

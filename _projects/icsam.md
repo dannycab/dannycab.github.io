@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Integrating Computing in the Sciences across the Mitten
+description: A high school teacher professional development program
+img:
+importance: 4
 ---
 
 Every project has a beautiful feature showcase page.

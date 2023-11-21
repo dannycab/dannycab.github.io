@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Lab transformation and assessment
+description: Lab transformation and assessment
+img: assets/img/3.jpg
+importance: 2
 ---
 
 Every project has a beautiful feature showcase page.
