@@ -7,7 +7,8 @@ nav_order: 7
 ---
 <!-- Had to be here to work on github pages -->
 <style>
-    .image-grid {
+
+.image-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   grid-gap: 10px;
@@ -17,10 +18,19 @@ nav_order: 7
   width: 100%;
   height: auto;
 }
+
+.gallery hr {
+  margin: 20px 0;
+  height: 1px;
+  background-color: #2591B3;
+}
+
 </style>
 
+<div class="gallery">
 {% for directory in site.data.image_directories %}
 <h2>{{ directory.name }}</h2>
+<hr>
 {% for subdirectory in directory.subdirectories %}
 <h3>{{ subdirectory }}</h3>
 <div class="image-grid">
@@ -31,6 +41,7 @@ nav_order: 7
 </a>
 {% endif %}
 {% endfor %}
+</div><hr>
+{% endfor %}
+{% endfor %}
 </div>
-{% endfor %}
-{% endfor %}

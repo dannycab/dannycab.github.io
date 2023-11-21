@@ -40,7 +40,15 @@ horizontal: false
 .project-grid li {
   list-style: none;
 }
+
+.research hr {
+  margin: 20px 0;
+  height: 1px;
+  background-color: #2591B3;
+}
+
 </style>
+
 
 I work with [several research groups](#groups) that focus on different aspects of education. I've have the chance to work on a few projects. Here are some [recent ones](#current-projects) and here are some [older ones](#older-projects). I've given a number of presentations about this work. Here's a sample of some of the [more recent ones](#presentations).
 
@@ -51,6 +59,8 @@ I work with [several research groups](#groups) that focus on different aspects o
 * [The Physics Education Research Lab](https://perl.natsci.msu.edu) conducts a variety of research into students' relationships with physics, how tools and environments shape those relationships, and the conditions that can influence or moderate those relationships.
 * [The Computational Education Research Lab](https://msu-cerl.github.io) conducts research into student learning and engagement in computational and data science and the environments and conditions that shape that learning and participation.
 * [The Center for Computing in Science Education](https://www.mn.uio.no/ccse/english/) conducts research into students' learning of computing in science environments and studies the tools and conditions that lead to different forms of learning. This research is conducted almost exclusively in Norway.
+
+<div class="research"><hr></div>
 
 ## current projects
 
@@ -73,6 +83,8 @@ I work with [several research groups](#groups) that focus on different aspects o
   {% endfor %}
 </ul>
 
+<div class="research"><hr></div>
+
 ## older projects
 
 <ul class="project-grid">
@@ -94,6 +106,8 @@ I work with [several research groups](#groups) that focus on different aspects o
   {% endfor %}
 </ul>
 
+<div class="research"><hr></div>
+
 ## presentations
 
 <ul>
@@ -105,3 +119,5 @@ I work with [several research groups](#groups) that focus on different aspects o
   </li>
 {% endfor %}
 </ul>
+
+<div class="research"><hr></div>

@@ -7,9 +7,20 @@ nav: true
 nav_order: 3
 ---
 
+<style>
+    .research hr {
+  margin: 20px 0;
+  height: 1px;
+  background-color: #2591B3;
+}
+
+</style>
+
 ### present and future courses
 -   Spring 2024 - PHY 321 (Classical Mechanics)
 -   Fall 2023 - [PHY 415 (Mathematical Modeling in Physics)](../phy415fall23)
+
+<div class="research"><hr></div>
 
 ### past courses
 -   Summer 2023 - [Machine Learning Short Course](../MSU_REU_ML_course)
@@ -38,6 +49,8 @@ nav_order: 3
     Engineers I)](https://www.msuperl.org/wikis/pcubed/doku.php)
 -   Spring 2014 - LB 274 (Physics for the Life Sciences II)
 -   Fall 2013 - PHY 183 (Physics for Scientists and Engineers I)
+
+<div class="research"><hr></div>
 
 ### other teaching things
 
