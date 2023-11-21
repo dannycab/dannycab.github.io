@@ -175,7 +175,7 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+    #permalink: /projects/:path/
 
 announcements:
   enabled: true
