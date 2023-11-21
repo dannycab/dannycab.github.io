@@ -42,17 +42,33 @@ horizontal: false
 }
 </style>
 
+## groups
+
 I work with several research groups that focus on different aspects of education.
 
 * [The Physics Education Research Lab](https://perl.natsci.msu.edu) conducts a variety of research into students' relationships with physics, how tools and environments shape those relationships, and the conditions that can influence or moderate those relationships.
-* [The Learning Machines Labs](https://learningmachineslab.github.io) conducts education research using the tools of data science and machine learning to develop quantitative evidence for educational claims. It focuses its efforts on STEM education research.
-* [The Center for Computing in Science Education](https://www.mn.uio.no/ccse/english/) conducts research into students' learning of computing in science environments and studies the tools and conditions that lead to different forms of learning. This research is conducted almost exclusively in Norway.
 * [The Computational Education Research Lab](https://msu-cerl.github.io) conducts research into student learning and engagement in computational and data science and the environments and conditions that shape that learning and participation.
+* [The Center for Computing in Science Education](https://www.mn.uio.no/ccse/english/) conducts research into students' learning of computing in science environments and studies the tools and conditions that lead to different forms of learning. This research is conducted almost exclusively in Norway.
+
+## presentations
+
+I have given a number of presentations about my research. Here's a sample of some of the more recent ones.
+
+<ul>
+{% for talk in site.talks %}
+  <li>
+    <strong>{{ talk.title }}</strong>: <!-- Assuming you set the title in the front matter of the Markdown/HTML files -->
+    <a href="../assets{{ talk.url | relative_url }}index.html">View Talk</a> |
+    <a href="../assets{{ talk.url | relative_url | replace: 'index.html'}}{{ talk.file}}">Download PDF</a>
+  </li>
+{% endfor %}
+</ul>
 
 ## current projects
 
 <ul class="project-grid">
-  {% for project in site.projects %}
+{% assign sorted_projects = site.projects | sort: "importance" %}
+  {% for project in sorted_projects %}
     {% if project.current %}
       <li class="project-card">
         {% if project.img %}
@@ -70,25 +86,11 @@ I work with several research groups that focus on different aspects of education
   {% endfor %}
 </ul>
 
-## colloquium talks
-
-I have given a number of presentations about my research. Here's a sample of some of the more recent ones.
-
-<ul>
-{% for talk in site.talks %}
-  <li>
-    <strong>{{ talk.title }}</strong>: <!-- Assuming you set the title in the front matter of the Markdown/HTML files -->
-    <a href="../assets{{ talk.url | relative_url }}index.html">View Talk</a> |
-    <a href="../assets{{ talk.url | relative_url | replace: 'index.html'}}{{ talk.file}}">Download PDF</a>
-  </li>
-{% endfor %}
-</ul>
-
-
 ## older projects
 
 <ul class="project-grid">
-  {% for project in site.projects %}
+  {% assign sorted_projects = site.projects | sort: "importance" %}
+  {% for project in sorted_projects %}
     {% if project.archived %}
       <li class="project-card">
         {% if project.img %}
