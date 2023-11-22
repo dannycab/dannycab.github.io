@@ -5,6 +5,8 @@ description: Integrating computing into physics education to support improved st
 img: ../assets/img/media/projects/comp_phys.png
 importance: 1
 link:
+external:
+permalink: /research/computing_phys_ed/
 current: true
 ---
 

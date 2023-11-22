@@ -5,7 +5,9 @@ description: Understanding the role of mathematics in upper-level undergraduate 
 importance: 2
 archived: true
 img: ../assets/img/media/projects/math_in_phys.png
-link: https://physicscourses.colorado.edu/EducationIssues/ClassicalMechanics/
+link: 
+external: https://physicscourses.colorado.edu/EducationIssues/ClassicalMechanics/
+permalink: /research/math_in_phys/
 ---
 
 

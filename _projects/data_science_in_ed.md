@@ -5,6 +5,8 @@ description: Exploring the use of data science techniques to ask and answer new 
 img: ../assets/img/media/projects/ml.png
 importance: 3
 link:
+external:
+permalink: /research/data_science_in_ed/
 current: true
 ---
 

@@ -73,8 +73,15 @@ I work with [several research groups](#groups) that focus on different aspects o
           <img src="{{ site.baseurl }}{{ project.img }}" alt="{{ project.title }}">
         {% endif %}
         <h2>{{ project.title }}</h2>
-        {% if project.link %}
-          <p>{{ project.description }} <a href="{{ project.link }}"><u>More info</u></a></p>
+        {% if project.link and project.external %}
+          <p>{{ project.description }} 
+          <a href="{{ project.link }}"><u>Project Info & Refs</u></a> 
+          <a href="{{ project.external }}">More Info</a>
+          </p>
+        {% elsif project.link %}
+          <p>{{ project.description }} <a href="{{ project.link }}"><u>Project Info & Refs</u></a></p>
+        {% elsif project.external %}
+          <p>{{ project.description }} <a href="{{ project.external }}"><u>More Info</u></a></p>
         {% else %}
           <p>{{ project.description }}</p>
         {% endif %}
