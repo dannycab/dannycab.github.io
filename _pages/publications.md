@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 <!-- _pages/publications.md -->
+continually updated with links to co-authors websites
+
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}

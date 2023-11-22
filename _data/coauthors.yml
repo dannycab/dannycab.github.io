@@ -1,4 +1,39 @@
-# "Lewandowski":
-#   - firstname: ["Heather", "H.", "H.J.", "H. J.", "Heather Jean"]
-#     url: https://www.colorado.edu/physics/heather-lewandowski
+"Lewandowski":
+  - firstname: ["Heather", "H.", "H.J.", "H. J.", "Heather Jean"]
+    url: https://www.colorado.edu/physics/heather-lewandowski
 
+"Henderson":
+  - firstname: ["Rachel", "R."]
+    url: https://directory.natsci.msu.edu/Directory/Profiles/Person/102178
+
+"Young":
+  - firstname: ["Nicholas", "N.", "Nicholas T", "Nicholas T."]
+    url: https://www.nickyoungper.com/
+
+"Aiken":
+  - firstname: ["John", "J.", "John M", "John M."]
+    url: https://mnky9800n.github.io/
+
+"Odden":
+  - firstname: ["Tor", "T.", "Tor O", "Tor O.", "Tor Ole", "Tor Ole B.", "Tor Ole B"]
+    url: https://www.mn.uio.no/fysikk/english/people/aca/Tor%20Ole%20Odden/
+
+"McPadden":
+  - firstname: ["Daryl", "D."]
+    url: https://directory.natsci.msu.edu/Directory/Profiles/Person/102065
+
+"Hamerski":
+  - firstname: ["Patti", "P.", "P.C.", "P. C.", "P.~C."]
+    url: https://www.pattihamerski.com/
+
+"Silvia":
+  - firstname: ["Devin", "D."]
+    url: https://www.devinsilvia.com/
+
+"Tollefson":
+  - firstname: ["Kirsten", "K."]
+    url: https://grad.msu.edu/staff/tollefson
+
+"Zegers":
+  - firstname: ["Remco", "R.", "Remco G. T."]
+    url: https://www.nscl.msu.edu/directory/zegers.html
