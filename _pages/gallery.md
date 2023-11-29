@@ -7,16 +7,33 @@ nav_order: 7
 ---
 <!-- Had to be here to work on github pages -->
 <style>
-
-.image-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  grid-gap: 10px;
+.gallery {
+  margin: 20px;
 }
 
-.image-grid img {
-  width: 100%;
+.image-grid-item {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+  grid-gap: 10px;
+  margin-bottom: 20px;
+  border: 0px solid #ddd;
+  padding: 10px;
+}
+
+.image-grid-item hr {
+  margin: 20px 0;
+  height: 1px;
+  background-color: #2591B3;
+}
+
+.image-grid-item img {
+  width: 80%;
   height: auto;
+  grid-column: span 2; /* Makes the image span two columns */
+}
+
+.image-grid-item h2, .image-grid-item p {
+  grid-column: span 2; /* Makes the text span two columns */
 }
 
 .gallery hr {
@@ -24,17 +41,17 @@ nav_order: 7
   height: 1px;
   background-color: #2591B3;
 }
-
 </style>
+
 
 <div class="gallery">
   {% for item in site.data.image_directories %}
-    <h2><a href="{{item.name}}/">{{ item.name }}</a></h2>
-    <p>{{ item.description }}</p>
-    <div class="image-grid">
+    <div class="image-grid-item">
+      <h2>gallery/{{ item.name }}/</h2>
+      <p>{{ item.description }}</p>
       {% for file in site.static_files %}
-        {% if file.path contains 'assets/img/' and file.path contains item.name and file.path contains '480' %}
-          <a href="{{ file.path | replace: '480', '1400' }}">
+        {% if file.path contains 'assets/img/' and file.path contains item.name and file.path contains '800' and file.path contains '01' %}
+          <a href="{{ item.name }}/">
             <img src="{{ file.path }}" alt="{{ file.name }}" />
           </a>
         {% endif %}
@@ -43,6 +60,7 @@ nav_order: 7
     <hr>
   {% endfor %}
 </div>
+
 
 
 

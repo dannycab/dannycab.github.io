@@ -17,7 +17,7 @@ directory_name: looney-tunes-mongoose
 </style>
 
 <div class="images">
-<h2>{{ page.directory_name }}</h2>
+<h2>gallery/{{ page.directory_name }}/</h2>
 {% for item in site.data.image_directories %}
   {% if item.name == page.directory_name %}
     <p>{{ item.description }}</p>
