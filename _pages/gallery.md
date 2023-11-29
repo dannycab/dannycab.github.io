@@ -28,20 +28,22 @@ nav_order: 7
 </style>
 
 <div class="gallery">
-{% for directory in site.data.image_directories %}
-<h2>{{ directory.name }}</h2>
-<hr>
-{% for subdirectory in directory.subdirectories %}
-<h3>{{ subdirectory }}</h3>
-<div class="image-grid">
-{% for file in site.static_files %}
-{% if file.path contains 'assets/img/gallery/' and file.path contains '480' and file.path contains subdirectory %}
-<a href="{{ file.path | replace: '480', '1400' }}">
-<img src="{{ file.path }}" alt="{{ file.name }}" />
-</a>
-{% endif %}
-{% endfor %}
-</div><hr>
-{% endfor %}
-{% endfor %}
+  {% for item in site.data.image_directories %}
+    <h2><a href="{{item.name}}/">{{ item.name }}</a></h2>
+    <p>{{ item.description }}</p>
+    <div class="image-grid">
+      {% for file in site.static_files %}
+        {% if file.path contains 'assets/img/' and file.path contains item.name and file.path contains '480' %}
+          <a href="{{ file.path | replace: '480', '1400' }}">
+            <img src="{{ file.path }}" alt="{{ file.name }}" />
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <hr>
+  {% endfor %}
 </div>
+
+
+
+

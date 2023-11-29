@@ -1,11 +1,12 @@
-# - name: photos
-#   subdirectories:
-#     - lansing-photos
-- name: generativeAI
-  subdirectories:
-    - new-deal-posters-for-lansing
-    - squirrel-attack-michigan-capital
-    - smurfs-on-madison-ave
-    - muppets-in-space
-    - looney-tunes-mongoose
-    - anthropomorphic-animals-writing-code
+- name: new-deal-posters-for-lansing
+  description: Make a series of New Deal Posters for Lansing, Michigan
+- name: squirrel-attack-michigan-capitol
+  description: Make an image of a giant squirrel attacking Michigan's Capital
+- name: dangerous-karate-panda
+  description: Make a panda that does karate, but make it increasingly dangerous
+- name: smurfs-on-madison-ave
+  description: Make smurf-like creatures that work on Madison Avenue in the 1960s
+- name: muppets-in-space
+  description: Make a series of images of muppets in space with a 1970s color palette.
+- name: looney-tunes-mongoose
+  description: Make a looney tunes style cartoon of a mongoose with tattoos and a computer.
