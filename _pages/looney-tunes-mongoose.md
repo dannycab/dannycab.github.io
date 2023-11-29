@@ -25,7 +25,6 @@ directory_name: looney-tunes-mongoose
 {% endfor %}
 <hr>
 
-<div class="image-grid">
   {% for file in site.static_files %}
     {% if file.path contains 'assets/img/' and file.path contains page.directory_name and file.path contains '800' %}
       <a href="{{ file.path | replace: '800', '1400' }}">
@@ -34,5 +33,4 @@ directory_name: looney-tunes-mongoose
       <hr>
     {% endif %}
   {% endfor %}
-</div>
 </div>
