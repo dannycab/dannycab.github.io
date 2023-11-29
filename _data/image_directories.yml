@@ -1,9 +1,13 @@
+- name: weird-trapper-keepers
+  description: Make a trapper keeper, but make it weird
+- name: horror-eras
+  description: A series of one sheet posters for horror movies from different eras
+- name: dangerous-karate-panda
+  description: Make a panda that does karate, but make it increasingly dangerous
 - name: new-deal-posters-for-lansing
   description: Make a series of New Deal Posters for Lansing, Michigan
 - name: squirrel-attack-michigan-capitol
   description: Make an image of a giant squirrel attacking Michigan's Capitol
-- name: dangerous-karate-panda
-  description: Make a panda that does karate, but make it increasingly dangerous
 - name: smurfs-on-madison-ave
   description: Make smurf-like creatures that work on Madison Avenue in the 1960s
 - name: muppets-in-space
