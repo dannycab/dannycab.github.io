@@ -19,6 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+
 Hi! I'm Danny. My pronouns are [he/him](https://mypronouns.org]), but you can use [they/them](https://mypronouns.org), too.
 
 I work in the [Department of Physics and Astronomy](https://pa.msu.edu/) and the [Department of Computational Mathematics, Science and Engineering](https://cmse.msu.edu/). I hold the Lappan-Phillips Chair of Physics Education, co-direct the [Physics Education Research Lab](https://perl.natsci.msu.edu/), serve as a principal investigator for the [Learning Machines Lab](https://learningmachineslab.github.io/), conduct research as part of the newly-founded [Computational Education Research Lab](https://msu-cerl.github.io/), and hold an appointment as research faculty at the [University of Oslo’s Center for Computing in Science Education](https://www.mn.uio.no/ccse/english/). I study how tools and science practices affect student learning in physics and computational science, and the conditions and environments that support or inhibit that learning.
