@@ -74,7 +74,7 @@ Our union will be formed, of that I am certain. But, we need everyone to partici
 
 We need people that do and want to shape policy for the collective us. We need your expertise. We need your problems. We want to have a union for all of us and we are only as strong as our numbers and diversity.
 
-Once we begin contract negotiations, we will start to see the benefits. Heres's nice [summary of the benefits of unionization](https://www.aaup.org/issues/unionization-and-collective-bargaining/benefits-unionization-and-collective-bargaining) from the AAUP.
+Once we begin contract negotiations, we will start to see the benefits. Heres's nice [summary of the benefits of unionization](https://www.aaup.org/chapter-organizing/aaup-unionism) from the AAUP.
 
 There's a few things that I can guarantee if we form a union:
 
