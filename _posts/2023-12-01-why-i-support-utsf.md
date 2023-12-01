@@ -6,13 +6,13 @@ tags: [news, union]
 comments: false
 ---
 
-[Sign a union card](https://powerforms.docusign.net/4f4359c0-b655-41f8-b1c5-dcae93a0c080?accountId=aa5f3a05-abec-4912-a634-922dceb9eed6&acct=aa5f3a05-abec-4912-a634-922dceb9eed6&env=na4) if you haven't already.
+[Sign a union card](https://powerforms.docusign.net/4f4359c0-b655-41f8-b1c5-dcae93a0c080?accountId=aa5f3a05-abec-4912-a634-922dceb9eed6&acct=aa5f3a05-abec-4912-a634-922dceb9eed6&env=na4)
 
 *This is a post of my own thoughts and do not represent the views of the organizing committee, UTSF, MEA, or NEA.*
 
 ## Who am I?
 
-I've been an organizer for our recently launched [Union of Tenure Stream Faculty](https://www.utsfmsu.org) at Michigan State University for the last two years. I'm a faculty member in the [Physics and Astronomy](https://pa.msu.edu) and [Computational Mathematics, Science, and Engineering](http://cmse.msu.edu) departments. I have worked at Michigan State for ten years. I've worked for the better part of two decades to improve the experiences and educational outcomes for students in STEM (both in [physics](https://perl.natsci.msu.edu) and [computing](https://msu-cerl.github.io/)); I've done this at MSU for a decade. 
+I've been an organizer for our recently launched [Union of Tenure Stream Faculty](https://www.utsfmsu.org) at Michigan State University for the last two years. I'm a faculty member in the [Physics and Astronomy](https://pa.msu.edu) and [Computational Mathematics, Science, and Engineering](http://cmse.msu.edu) departments. I have worked at Michigan State for ten years. I've worked for the better part of two decades to improve the experiences and educational outcomes for students in STEM (both in [physics](https://perl.natsci.msu.edu) and [computing](https://msu-cerl.github.io/)); I've done this work at MSU for a decade. 
 
 I have received accolades for this work from Michigan State [through the 2018 Presidential Teaching Award](https://msutoday.msu.edu/news/2017/2018-presidents-distinguished-teaching-award), and nationally through the [Excellence in Physics Education Award](https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?first_nm=Marcos&amp;last_nm=Caballero&amp;year=2023) from the American Physical Society. I was also recently elected [Fellow of the APS](https://www.aps.org/programs/honors/fellowships/archive-all.cfm?initial=&year=2022&unit_id=GPER&institution=Michigan+State+University) -- an honor reserved for 2% of the membership. I don't state these things to boast. I state them because they are the results of my personal journey through public higher education, and represent the the commitment I hold to publicly funded higher education and the students that we serve.
 
@@ -74,7 +74,7 @@ Our union will be formed, of that I am certain. But, we need everyone to partici
 
 We need people that do and want to shape policy for the collective us. We need your expertise. We need your problems. We want to have a union for all of us and we are only as strong as our numbers and diversity.
 
-Once we begin contract negotiations, we will start to see the benefits. Heres's nice [summary of the benefits of unionization](https://www.aaup.org/chapter-organizing/aaup-unionism) from the AAUP.
+Once we begin contract negotiations, we will start to see the benefits. Here's nice [summary of the benefits of unionization](https://www.aaup.org/chapter-organizing/aaup-unionism) from the AAUP.
 
 There's a few things that I can guarantee if we form a union:
 
