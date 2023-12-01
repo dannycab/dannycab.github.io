@@ -68,7 +68,7 @@ I have had the opportunity to talk with many of my colleagues about our union. I
 
     That is what we have done for years. I was hired at the same time as a colleague in another field in physics. I was paid $10k less than that person and didn't know. The chair who hired me told me there was no room to move my starting salary up. I found out later that my colleague negotiated their salary up by $10k. I was never given that opportunity. That chair has left immediately after my hire, and the new chair realized the inequity in my first annual evaluation. Only through that chair's work would I have earned a fair wage, but I was also out 10k for that first year. This practice privileges white and male faculty who hold the privilege to push back on these issues. **Unions ensure that we are treated equitably.**
 
-## What is stopping you for joining us?
+### What is stopping you from joining us?
 
 Our union will be formed, of that I am certain. But, we need everyone to participate. Your views cannot be represented if we don't hear them. I don't know a damn thing about export controls, patents, international visitors, copyright issues, ... 
 
