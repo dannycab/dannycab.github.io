@@ -62,6 +62,20 @@ I work with [several research groups](#groups) that focus on different aspects o
 
 <div class="research"><hr></div>
 
+## presentations
+
+<ul>
+{% for talk in site.talks %}
+  <li>
+    <strong>{{ talk.title }}</strong>: <!-- Assuming you set the title in the front matter of the Markdown/HTML files -->
+    <a href="../assets{{ talk.url | relative_url }}index.html">View Talk</a> |
+    <a href="../assets{{ talk.url | relative_url | replace: 'index.html'}}{{ talk.file}}">Download PDF</a>
+  </li>
+{% endfor %}
+</ul>
+
+<div class="research"><hr></div>
+
 ## current projects
 
 <ul class="project-grid">
@@ -116,16 +130,3 @@ I work with [several research groups](#groups) that focus on different aspects o
 
 <div class="research"><hr></div>
 
-## presentations
-
-<ul>
-{% for talk in site.talks %}
-  <li>
-    <strong>{{ talk.title }}</strong>: <!-- Assuming you set the title in the front matter of the Markdown/HTML files -->
-    <a href="../assets{{ talk.url | relative_url }}index.html">View Talk</a> |
-    <a href="../assets{{ talk.url | relative_url | replace: 'index.html'}}{{ talk.file}}">Download PDF</a>
-  </li>
-{% endfor %}
-</ul>
-
-<div class="research"><hr></div>
