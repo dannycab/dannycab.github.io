@@ -1,14 +1,14 @@
 - course: phy_321_s2024
   semester: Spring 2024
   name: PHY 321 (Classical Mechanics)
-  url: 
+  url: ../phy321msu
   active: true
 
 - course: phy_415_f2023
   semester: Fall 2023
   name: PHY 415 (Mathematical Modeling in Physics)
   url: ../phy415fall23
-  active: true
+  active: false
 
 - course: ml_su2023
   semester: Summer 2023
