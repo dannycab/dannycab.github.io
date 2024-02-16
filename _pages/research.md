@@ -68,8 +68,7 @@ I work with [several research groups](#groups) that focus on different aspects o
 {% for talk in site.talks %}
   <li>
     <strong>{{ talk.title }}</strong>: <!-- Assuming you set the title in the front matter of the Markdown/HTML files -->
-    <a href="../assets{{ talk.url | relative_url }}index.html">View Talk</a> |
-    <a href="../assets{{ talk.url | relative_url | replace: 'index.html'}}{{ talk.file}}">Download PDF</a>
+    <a href="https://github.com/dannycab/dannycab.github.io/tree/main/assets{{ talk.url | relative_url | replace: 'index.html'}}{{ talk.file}}">View PDF</a> | <a href="https://github.com/dannycab/dannycab.github.io/raw/main/assets{{ talk.url | relative_url | replace: 'index.html'}}{{ talk.file}}">Download PDF</a>
   </li>
 {% endfor %}
 </ul>

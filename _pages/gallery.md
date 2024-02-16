@@ -3,7 +3,7 @@ layout: default
 title: gallery
 permalink: /gallery/
 nav: true
-nav_order: 7
+nav_order: 8
 ---
 <!-- Had to be here to work on github pages -->
 <!-- Had to be here to work on github pages -->
