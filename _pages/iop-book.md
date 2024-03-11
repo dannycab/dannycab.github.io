@@ -25,6 +25,8 @@ The timeline for the book is as follows:
 
 ## Materials for Contributing Authors
 
+Below are the materials needed for contributing authors to prepare their chapters. Chapters should be roughly 12-18 pages in length and should be written in LaTeX or Google Docs/Word. The final book will be published by IOP.
+
 ### Identifying Information (Needed by Apr 15, 2024)
 
 Information is needed from authors for IOP to prepare contracts. Please [complete this following form](https://docs.google.com/spreadsheets/d/1C5QJ8VfeEADaeuqTEH_NSmtb6U4PLRLG6RlRyOiPN1g/edit#gid=1632730539) by Apr 15, 2024.
@@ -57,7 +59,7 @@ The authors listed below have proposed the following initial chapters (order and
 | R. C. Mastroleo and B. Lunk | Departmental Emphasis on Computation for the Physics Major: Successes and Failures of a multi-tier curricular redesign |
 | N. Nelson | Integrating Computation and Experiment in Upper-Division Physics |
 | D. McPadden | Building Computing Skills in Large-Scale Introductory Physics Classrooms |
-| T. Odden | Teaching Scientific Wri+ng using Computational Essays |
+| T. Odden | Teaching Scientific Writing using Computational Essays |
 | M. Lopez del Puerto, L. Engelhardt, and K. Roos | Resources for Integrating Computation into Physics Courses: Exercise Sets, Workshops, and a Supportive Community |
 | A. Escuadro, J. Farrel, and J. Millan | Implementing Computational Activities Across the TYC Physics Curriculum at City Colleges of Chicago |
 | D. O'Neil | Integration of computation across the curriculum at Bridgewater College |
