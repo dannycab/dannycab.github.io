@@ -7,6 +7,8 @@ nav: false
 #nav_order: 7
 ---
 
+![Fake Book Cover](../assets/img/IOP/cover.png)
+
 ## Concept and Focus
 
 This page organizes the materials for contributing authors to the upcoming book on Computing in Physics Education. This book was developed from an initial request by editors from the [Institute of Physics](https://iopscience.iop.org/) to author a book on the integrating of computing into physics courses. The concept has developed into an edited volume that focuses on a variety of stories from different persons and places around the world who are teaching computing in their physics courses.
@@ -24,6 +26,8 @@ The timeline for the book is as follows:
 - **Dec 2024**: Final Drafts Due
 
 ## Materials for Contributing Authors
+
+![Shepherd with Cats](../assets/img/IOP/cats.png)
 
 Below are the materials needed for contributing authors to prepare their chapters. Chapters should be roughly 12-18 pages in length and should be written in LaTeX or Google Docs/Word. The final book will be published by IOP.
 
