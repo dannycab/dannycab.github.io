@@ -1,0 +1,12 @@
+- id: 1
+  title: "The Great Gatsby"
+  author: "F. Scott Fitzgerald"
+  isbn: "978-0-7432-7356-5"
+  genre: "Novel"
+  published_year: 1925
+- id: 2
+  title: "1984"
+  author: "George Orwell"
+  isbn: "978-0-452-28423-4"
+  genre: "Dystopian"
+  published_year: 1949

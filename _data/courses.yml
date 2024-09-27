@@ -1,14 +1,32 @@
+- course: phy_321_s2025
+  semester: Spring 2025
+  name: PHY 321 (Classical Mechanics)
+  url: ../phy321msu
+  active: true
+
+- course: cmse_201_f2024
+  semester: Fall 2024
+  name: CMSE 201 (Introduction to Computational Modeling)
+  url: https://www.egr.msu.edu/classes/cmse201/
+  active: true
+
+- course: ml_su2024
+  semester: Summer 2024
+  name: Machine Learning Short Course
+  url: ../MSU_REU_ML_course
+  active: true
+  
 - course: phy_321_s2024
   semester: Spring 2024
   name: PHY 321 (Classical Mechanics)
-  url: 
-  active: true
+  url: ../phy321msu
+  active: false
 
 - course: phy_415_f2023
   semester: Fall 2023
   name: PHY 415 (Mathematical Modeling in Physics)
   url: ../phy415fall23
-  active: true
+  active: false
 
 - course: ml_su2023
   semester: Summer 2023
