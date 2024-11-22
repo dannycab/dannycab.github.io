@@ -1,10 +1,11 @@
 ---
-layout: single
-title: Curriculum Vitae
+layout: page
+title: cv
 permalink: /cv/
 author_profile: true
+nav: true
 ---
-[Long Form (PDF)](https://dannycaballero.info/assets/docs/MDC_CV.pdf)
+[Long Form (PDF)](https://dannycaballero.info/assets/pdf/MDC_cv.pdf)
 
 # Contact Information
 
