@@ -28,10 +28,20 @@ I work with [several research groups](#groups) that focus on different aspects o
 
 ## current projects
 
+
 ### computing in undergraduate physics education
 > Integrating computing into physics education to support improved student learning, agency, and engagement.
 
 ![Computing](/project-images/comp_phys.png)
+
+#### computing in physics education book
+**To be published Summer 2025 by the [Institute of Physics](https://iopscience.iop.org/).**
+
+> An edited volume that focuses on a variety of stories from different persons and places around the world who are teaching computing in their physics courses.
+
+* Instructions for contributing authors can be found [here](../iop-book/).
+
+![Fake Book Cover](/img/IOP/cover.png)
 
 
 ### computational science education research
