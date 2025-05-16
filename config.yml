@@ -64,9 +64,9 @@ params:
           subtitle: |
             Hi! I'm Danny. My pronouns are he/him, but you can use they/them, too.<br>
             I work in the Department of Physics and Astronomy and the Department of Computational Mathematics, Science and Engineering at Michigan State University.     
-          imageUrl: "/img/dc.png"
-          imageWidth: 180
-          imageHeight: 290
+          imageUrl: "/img/dc_square.png"
+          imageWidth: 160
+          imageHeight: 160
           buttons:
             - name: about
               url: about/
