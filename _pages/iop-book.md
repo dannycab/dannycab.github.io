@@ -50,7 +50,7 @@ IOP includes a set of guidelines for authors. Please review the [IOP Author Guid
 * [LaTeX Template](https://drive.google.com/file/d/1VMgrbfndy5yOh_6omCy0z3o9cmAu22cy/view?usp=drive_link)
 * [Google Docs Template](https://docs.google.com/document/d/11mcN3I0lJ8Nos7yh1Bf_JY_nbuBCC58uPByW2DlQGjU/edit#heading=h.gjdgxs)
 
-## Preliminary contributions
+## Contributors
 
 **Questions?** Authors may contact [Danny Caballero](mailto:caball14@msu.edu) or [make an appointment to meet](https://cal.com/dannycaballero/iop-book).
 
