@@ -45,7 +45,7 @@ science classrooms. *Cognition & Instruction*.
 Vignal, M., Geschwind, G., Caballero, M. D., & Lewandowski, H. J.
 (2025). Couplet scoring for research based assessment instruments. In
 *Physical Review Physics Education Research*.
-<https://arxiv.org/abs/2307.03099>. <https://arxiv.org/abs/2307.03099>
+<https://arxiv.org/abs/2307.03099>
 
 ## 2024
 
@@ -73,7 +73,25 @@ park. *Proceedings of the 55th ACM Technical Symposium on Computer
 Science Education v. 2*, 1914–1914.
 <https://doi.org/10.1145/3626253.3635334>
 
+Geschwind, G., Vignal, M., Caballero, M. D., & Lewandowski, H. J.
+(2024a). Evidence for validity and reliability of a research-based
+assessment instrument on measurement uncertainty. *Phys. Rev. Phys.
+Educ. Res.*, *20*, 020125.
+<https://doi.org/10.1103/PhysRevPhysEducRes.20.020125>
+
+Geschwind, G., Vignal, M., Caballero, M. D., & Lewandowski, H. J.
+(2024b). Using a research-based assessment instrument to explore
+undergraduate students’ proficiencies around measurement uncertainty in
+physics lab contexts. *Phys. Rev. Phys. Educ. Res.*, *20*, 020105.
+<https://doi.org/10.1103/PhysRevPhysEducRes.20.020105>
+
 ## 2023
+
+Odden, T. O. B., & Caballero, M. D. (2023). <span class="nocase">Physics
+Computational Literacy: What, Why, and How?</span> In
+*<span class="nocase">The International Handbook of Physics Education
+Research: Learning Physics</span>*. AIP Publishing LLC.
+<https://doi.org/10.1063/9780735425477_019>
 
 Silvia, D. W., Caballero, M. D., Finzell, T., Frisbie, R., Hamerski, P.,
 Bolger, E., Castle, S., Roca, R., & Tourangeau, P. (2023). Computing in
@@ -179,17 +197,22 @@ H. J. (2021). Introductory physics lab instructors’ perspectives on
 measurement uncertainty. *Physical Review Physics Education Research*,
 *17*, 010133. <https://doi.org/10.1103/PhysRevPhysEducRes.17.010133>
 
-Ward, R., Franklin, T., Caballero, M. D., & Henderson, R. (2021).
-<span class="nocase">Investigating Students’ Understanding of
-Measurement Uncertainty in a Two-Course Physics Laboratory
-Sequence</span>. *European Journal of Physics*.
-
 Waterson, A. C., Henderson, R., & Caballero, M. D. (2021).
 <span class="nocase">Analyzing time-to-degree for transfer students at a
 Large Midwestern University</span>. In M. B. Bennett, B. W. Frank, & R.
 E. Vieyra (Eds.), *2021 Physics Education Research Conference
 Proceedings* (pp. 438–443).
 <https://doi.org/10.1119/perc.2021.pr.Waterson>
+
+Young, N. T., & Caballero, M. D. (2021a). <span class="nocase">Physics
+Graduate Record Exam does not help applicants “stand out”</span>.
+*Physical Review Physics Education Research*, *17*, 010144.
+<https://doi.org/10.1103/PhysRevPhysEducRes.17.010144>
+
+Young, N. T., & Caballero, M. D. (2021b).
+<span class="nocase">Predictive and Explanatory Models Might Miss
+Informative Features in Educational Data</span>. *Journal of Educational
+Data Mining*, *13*(4), 31–86. <https://doi.org/10.5281/zenodo.5806830>
 
 ## 2020
 
@@ -383,10 +406,6 @@ Pollock, S. J. (2017). Assessing learning outcomes in middle-division
 classical mechanics: The colorado classical mechanics and math methods
 instrument. *Physical Review Physics Education Research*, *13*, 010118.
 <https://doi.org/10.1103/PhysRevPhysEducRes.13.010118>
-
-Caballero, M., Obsniuk, M. J., Irving, P. W., et al. (2017).
-<span class="nocase">Teaching Computation in Introductory Physics using
-Complex Problems</span>. *The Physics Teacher*.
 
 Hawkins, N., Obsniuk, M. J., Irving, P. W., & Caballero, M. D. (2017).
 <span class="nocase">Examining Thematic Variation in a
@@ -652,44 +671,4 @@ Special Topics – Physics Education Research*, *5*, 020105.
 Chonacky, N., & Winch, D. (2008). Integrating computation into the
 undergraduate curriculum: A vision and guidelines for future
 developments. *American Journal of Physics*, *76*(4), 327–333.
-
-## Unknown
-Geschwind, G., Vignal, M., Caballero, M. D., & Lewandowski, H. J.
-(2024a). Evidence for validity and reliability of a research-based
-assessment instrument on measurement uncertainty. *Phys. Rev. Phys.
-Educ. Res.*, *20*, 020125.
-<https://doi.org/10.1103/PhysRevPhysEducRes.20.020125>
-
-Geschwind, G., Vignal, M., Caballero, M. D., & Lewandowski, H. J.
-(2024b). Using a research-based assessment instrument to explore
-undergraduate students’ proficiencies around measurement uncertainty in
-physics lab contexts. *Phys. Rev. Phys. Educ. Res.*, *20*, 020105.
-<https://doi.org/10.1103/PhysRevPhysEducRes.20.020105>
-
-Hawkins, N., Silvia, D., Caballero, M. D., & O’Shea, B. (2019a).
-<span class="nocase">Comparing Academic and Industry Perspectives on
-Computational Modeling and Data Analysis Competencies</span>. *ACM
-Transactions on Computing Education*.
-
-Hawkins, N., Silvia, D., Caballero, M. D., & O’Shea, B. (2019b).
-<span class="nocase">Informing computational modeling and data analysis
-curricula through expert interviews</span>. *ACM Transactions on
-Computing Education*.
-
-Odden, T. O. B., & Caballero, M. D. (n.d.). <span class="nocase">Physics
-Computational Literacy: What, Why, and How?</span> In
-*<span class="nocase">The International Handbook of Physics Education
-Research: Learning Physics</span>*. AIP Publishing LLC.
-<https://doi.org/10.1063/9780735425477_019>
-
-Young, N. T., & Caballero, M. D. (2021a). <span class="nocase">Physics
-Graduate Record Exam does not help applicants “stand out”</span>.
-*Physical Review Physics Education Research*, *17*, 010144.
-<https://doi.org/10.1103/PhysRevPhysEducRes.17.010144>
-
-Young, N. T., & Caballero, M. D. (2021b).
-<span class="nocase">Predictive and Explanatory Models Might Miss
-Informative Features in Educational Data</span>. *Journal of Educational
-Data Mining*, *13*(4), 31–86. <https://doi.org/10.5281/zenodo.5806830>
-
 

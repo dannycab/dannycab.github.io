@@ -25,20 +25,19 @@ gawk 'BEGIN{inblock=0}
      /^---/ {if(inblock==0){inblock=1; next} else {inblock=0; next}} 
      inblock==0 {print}' "$OUTFILE" > body.tmp
 
-# Group references by year (collect, then print sorted)
 gawk '
 BEGIN {
     RS = "";  # paragraph mode
     FS = "\n";
 }
 {
-    # Try to find a year in the first line of the reference
-    if (match($0, /\([12][0-9]{3}\)/, arr)) {
-        year = substr(arr[0], 2, 4);
-    } else if (match($0, /\. [12][0-9]{3}\./, arr)) {
-        year = substr(arr[0], 3, 4);
-    } else if (match($0, /## [12][0-9]{3}/, arr)) {
-        year = substr(arr[0], 4, 4);
+    # Try to find a year (with optional letter, e.g., 2024a)
+    if (match($0, /\(([12][0-9]{3})[a-z]?\)/, arr)) {
+        year = arr[1];
+    } else if (match($0, /\. ([12][0-9]{3})[a-z]?\./, arr)) {
+        year = arr[1];
+    } else if (match($0, /## ([12][0-9]{3})[a-z]?/, arr)) {
+        year = arr[1];
     } else {
         year = "Unknown";
     }
