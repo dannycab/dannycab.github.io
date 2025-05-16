@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>danny caballero</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on danny caballero</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about danny</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Biosketch for Danny Caballero, Professor of Physics Education at Michigan State University.</description>
+    </item>
+    <item>
+      <title>curriculum vita</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Curriculum Vitae for Danny Caballero, Professor of Physics Education at Michigan State University.</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/location/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/location/</guid>
+      <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
+    </item>
+    <item>
+      <title>need a recommendation letter?</title>
+      <link>http://localhost:1313/recletter/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recletter/</guid>
+      <description>&lt;p&gt;I am very happy to write recommendation letters, but if you want me to
+write a letter or letters for you there are several things that I need.
+I realize that the list is rather long, but just remember that the more
+information you can give me, the better of a letter I can write!&lt;/p&gt;
+&lt;h2 id=&#34;key-points&#34;&gt;Key points:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;All&lt;/strong&gt; of the information listed below should be provided
+&lt;strong&gt;electronically&lt;/strong&gt; (in pdf/MS word/text file form) at least &lt;strong&gt;2
+weeks&lt;/strong&gt; prior to the deadline.&lt;/li&gt;
+&lt;li&gt;I will &lt;strong&gt;only&lt;/strong&gt; write confidential letters.&lt;/li&gt;
+&lt;li&gt;If you want me to write multiple letters, please give me the
+information for all of them at the same time. This will help me to
+ensure that I don&amp;rsquo;t accidentally forget to submit one or more
+letters due to requests being buried in my inbox. (Note: Med school
+letters all go through Interfolio, so this isn&amp;rsquo;t relevant for that
+type of letter.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;information-i-need-to-write-a-letter&#34;&gt;Information I need to write a letter:&lt;/h2&gt;
+&lt;p&gt;I need the following information, in electronic (pdf, word, rtf, text
+file) form that is sent to me &lt;strong&gt;in a single email&lt;/strong&gt;. Please do not give
+me paper copies - it&amp;rsquo;s far easier for me to keep track of digital
+copies!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>publications</title>
+      <link>http://localhost:1313/pubs/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pubs/</guid>
+      <description>&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;
+&lt;p&gt;Bolger, E., &amp;amp; Caballero, M. (2025). &lt;span class=&#34;nocase&#34;&gt;Exploring the
+Impact of Unsupervised Clustering Methods in Systematic Literature
+Reviews&lt;/span&gt;. &lt;em&gt;Proceedings of the 56th ACM Technical Symposium on
+Computer Science Education v. 2&lt;/em&gt;, 1391–1392.
+&lt;a href=&#34;https://doi.org/10.1145/3641555.3705184&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1145/3641555.3705184&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bolger, E., Nwobi, M., &amp;amp; Caballero, M. D. (2025). Characterizing faculty
+online learning community interactions using social network analysis.
+&lt;em&gt;Physical Review Physics Education Research&lt;/em&gt;.
+&lt;a href=&#34;https://arxiv.org/abs/2407.00193&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/2407.00193&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bolger, E., Wang, Y., Renbarger, R., Caballero, M. D., Nwobi, M., Lem,
+C., Finkelstein, N., Simkins, S., Boyd, T., Henderson, C., &amp;amp; Beach, A.
+(2025). &lt;span class=&#34;nocase&#34;&gt;Integrating machine learning into
+systematic reviews: Strengthening evidence synthesis&lt;/span&gt;.
+&lt;em&gt;Proceedings of the 2025 Annual Meeting of the American Educational
+Research Association&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;p&gt;I work with &lt;a href=&#34;#groups&#34;&gt;several research groups&lt;/a&gt; that focus on different aspects of education. I&amp;rsquo;ve have the chance to work on a few projects. Here are some &lt;a href=&#34;#current-projects&#34;&gt;recent ones&lt;/a&gt; and here are some &lt;a href=&#34;#older-projects&#34;&gt;older ones&lt;/a&gt;. I&amp;rsquo;ve given a number of presentations about this work. Here&amp;rsquo;s a sample of some of the &lt;a href=&#34;#presentations&#34;&gt;more recent ones&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;groups&#34;&gt;groups&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://perl.natsci.msu.edu&#34; target=&#34;_blank&#34;&gt;The Physics Education Research Lab&lt;/a&gt; conducts a variety of research into students&amp;rsquo; relationships with physics, how tools and environments shape those relationships, and the conditions that can influence or moderate those relationships.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://msu-cerl.github.io&#34; target=&#34;_blank&#34;&gt;The Computational Education Research Lab&lt;/a&gt; conducts research into student learning and engagement in computational and data science and the environments and conditions that shape that learning and participation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ccse/english/&#34; target=&#34;_blank&#34;&gt;The Center for Computing in Science Education&lt;/a&gt; conducts research into students&amp;rsquo; learning of computing in science environments and studies the tools and conditions that lead to different forms of learning. This research is conducted almost exclusively in Norway.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;presentations&#34;&gt;presentations&lt;/h2&gt;
+&lt;h3 id=&#34;colloquia&#34;&gt;colloquia&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2025_CompPhys.pdf&#34;&gt;Supporting the integration of computing in physics, now with AI? (2025)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2023_CompPhys.pdf&#34;&gt;Supporting the integration of computing in physics (2023)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2023_GradEd.pdf&#34;&gt;Towards a more diverse and equitable graduate physics program (2023)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;special-sessions&#34;&gt;special sessions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2024_AI_UiO.pdf&#34;&gt;We don’t need AI in science education; we need science education research for AI (2023; University of Oslo)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2023_Juleseminar_UiO.pdf&#34;&gt;Teaching Computing into Introductory STEM Courses at Scale (2023; University of Oslo)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2023_LPF.pdf&#34;&gt;science, education, computing, &amp;amp; community…in ten(ish) minutes (2023; Michigan State)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;current-projects&#34;&gt;current projects&lt;/h2&gt;
+&lt;h3 id=&#34;computing-in-undergraduate-physics-education&#34;&gt;computing in undergraduate physics education&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Integrating computing into physics education to support improved student learning, agency, and engagement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>Courses taught and other teaching activities by Danny Caballero.</description>
+    </item>
+    <item>
+      <title>Zoom Meeting</title>
+      <link>http://localhost:1313/meet/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meet/</guid>
+      <description>Link to Danny Caballero&amp;#39;s personal Zoom meeting room.</description>
+    </item>
+  </channel>
+</rss>

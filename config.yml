@@ -1,0 +1,126 @@
+baseURL: "https://dannycab.github.io/" 
+title: danny caballero
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: cv
+          url: cv/
+          weight: 1
+        - name: research
+          url: research/
+          weight: 2
+        # - name: Books
+        #   url: books/
+        #   weight: 5 
+        - name: papers
+          url: pubs/
+          weight: 3
+        - name: teaching
+          url: teaching/
+          weight: 4
+        # - name: Data
+        #   url: data/
+        #   weight: 4 
+        - name: blog
+          url: https://danny.hellmo.space
+          weight: 5
+
+params:
+    description: "This website hosts Danny Caballero's research papers, books, course materials, data, curriculum vitae, and contact information."
+    author: danny caballero
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: dark
+    hideFooter: true
+    disableThemeToggle: false
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["research","papers","teaching"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: prof. danny caballero
+          subtitle: |
+            Hi! I'm Danny. My pronouns are he/him, but you can use they/them, too.<br>
+            I work in the Department of Physics and Astronomy and the Department of Computational Mathematics, Science and Engineering at Michigan State University.     
+          imageUrl: "/img/dc.png"
+          imageWidth: 180
+          imageHeight: 290
+          buttons:
+            - name: about
+              url: about/
+            - name: cv
+              url: cv/
+            - name: research
+              url: research/
+            - name: papers
+              url: pubs/
+            # - name: books
+            #   url: books/
+            - name: teaching
+              url: teaching/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
+            - name: blog
+              url: https://danny.hellmo.space
+
+    socialIcons:
+        - name: Location
+          url: location/
+        - name: Email
+          url: mailto:caball14@msu.edu
+        - name: Office Hours
+          url: https://app.cal.com/dannycaballero
+        - name: Zoom
+          url: https://dannycab.github.io/meet/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?hl=en&user=RyAEDZI1S2MC
+        - name: GitHub
+          url: https://github.com/dannycab
+        - name: Bluesky
+          url: https://bsky.app/profile/physicistdanny.bsky.social
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "danny caballero"
+      icon: favicon-32x32.png
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2

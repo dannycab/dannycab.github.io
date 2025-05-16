@@ -1,9 +1,0 @@
-- book_id: 1
-  user: "John Doe"
-  checkout_date: "2023-12-01"
-  due_date: "2023-12-15"
-- book_id: 2
-  user: "Jane Smith"
-  checkout_date: "2023-11-20"
-  due_date: "2023-12-04"
-# More checkouts...
