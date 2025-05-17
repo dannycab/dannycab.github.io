@@ -1,4 +1,5 @@
 :root {
+    /* Catppuccin Latte (Light) */
     --gap: 24px;
     --content-gap: 20px;
     --nav-width: 1024px;
@@ -6,20 +7,19 @@
     --header-height: 44px;
     --footer-height: 70px;
     --radius: 8px;
-    /* Everforest Light Theme */
-    --theme: #f3ead3;                /* Light beige background */
-    --entry: #f8f4e4;                /* Soft off-white for cards */
-    --primary: #5c6a72;              /* Dark gray-blue (main text) */
-    --secondary: #829181;            /* Muted green (secondary text) */
-    --tertiary: #d3c6aa;             /* Light beige-gray (dividers) */
-    --gray: #9da9a0;                 /* Medium gray (neutral accent) */
-    --content: #5c6a72;              /* Same as primary (content text) */
-    --code-block-bg: #2d353b;        /* Dark slate for code blocks */
-    --code-bg: #e4ddc5;              /* Light beige for inline code */
-    --border: #d3c6aa;               /* Soft beige-gray border */
-    --darkcolor: #6a7ba2;            /* Muted blue (adjust if needed) */
-    --lightcolor: #cbd1de;           /* Light gray-blue (adjust if needed) */
-    /* Typography (unchanged from your original) */
+    --theme: #eff1f5;                /* Base */
+    --entry: #e6e9ef;                /* Surface0 */
+    --primary: #4c4f69;              /* Text */
+    --secondary: #179299;            /* Teal */
+    --tertiary: #acb0be;             /* Subtext0 */
+    --gray: #bcc0cc;                 /* Overlay1 */
+    --content: #4c4f69;              /* Text */
+    --code-block-bg: #e6e9ef;        /* Surface0 */
+    --code-bg: #ccd0da;              /* Surface1 */
+    --border: #acb0be;               /* Subtext0 */
+    --darkcolor: #179299;            /* Teal */
+    --lightcolor: #eff1f5;           /* Base */
+    /* Typography */
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;
@@ -33,19 +33,19 @@
 }
 
 .dark {
-    /* Everforest Dark Theme */
-    --theme: #2d353b;                /* Dark slate background */
-    --entry: #343f44;                /* Slightly lighter slate for cards */
-    --primary: #d3c6aa;              /* Soft beige (main text) */
-    --secondary: #a7c080;            /* Muted green (secondary text) */
-    --tertiary: #475258;             /* Dark gray-blue (dividers) */
-    --gray: #7a8478;                 /* Medium gray (neutral accent) */
-    --content: #d3c6aa;              /* Same as primary (content text) */
-    --code-block-bg: #232a2e;        /* Darker slate for code blocks */
-    --code-bg: #3d484d;              /* Medium slate for inline code */
-    --border: #475258;               /* Dark gray-blue border */
-    --darkcolor: #a7c080;            /* Use Everforest green for dark mode */
-    --lightcolor: #d3c6aa;           /* Use Everforest beige for dark mode */
+    /* Catppuccin Mocha (Dark) */
+    --theme: #1e1e2e;                /* Base */
+    --entry: #313244;                /* Surface0 */
+    --primary: #cdd6f4;              /* Text */
+    --secondary: #94e2d5;            /* Teal */
+    --tertiary: #6c7086;             /* Subtext0 */
+    --gray: #a6adc8;                 /* Overlay1 */
+    --content: #cdd6f4;              /* Text */
+    --code-block-bg: #313244;        /* Surface0 */
+    --code-bg: #45475a;              /* Surface1 */
+    --border: #6c7086;               /* Subtext0 */
+    --darkcolor: #94e2d5;            /* Teal */
+    --lightcolor: #1e1e2e;           /* Base */
     /* Typography remains the same as light theme */
 }
 
