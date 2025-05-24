@@ -22,9 +22,10 @@ I work with [several research groups](#groups) that focus on different aspects o
 
 ### special sessions
 
-* [We don’t need AI in science education; we need science education research for AI (2023; University of Oslo)](/pdf/talks/2024_AI_UiO.pdf)
-* [Teaching Computing into Introductory STEM Courses at Scale (2023; University of Oslo)](/pdf/talks/2023_Juleseminar_UiO.pdf)
-* [science, education, computing, & community…in ten(ish) minutes (2023; Michigan State)](/pdf/talks/2023_LPF.pdf)
+* [Supporting the integration of computing in physics (2025)](/pdf/talks/2025_CompPhys_BIRS.pdf) -- Banff International Research Station, Banff, AB
+* [We don’t need AI in science education; we need science education research for AI (2023)](/pdf/talks/2024_AI_UiO.pdf) -- University of Oslo, Oslo, Norway
+* [Teaching Computing into Introductory STEM Courses at Scale (2023)](/pdf/talks/2023_Juleseminar_UiO.pdf) -- University of Oslo, Oslo, Norway
+* [science, education, computing, & community…in ten(ish) minutes (2023)](/pdf/talks/2023_LPF.pdf)-- Michigan State, East Lansing, MI
 
 ## current projects
 
