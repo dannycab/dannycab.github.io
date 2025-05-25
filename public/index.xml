@@ -94,12 +94,14 @@ Research Association&lt;/em&gt;.&lt;/p&gt;</description>
       <link>http://localhost:1313/research/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
-      <description>&lt;p&gt;I work with &lt;a href=&#34;#groups&#34;&gt;several research groups&lt;/a&gt; that focus on different aspects of education. I&amp;rsquo;ve have the chance to work on a few projects. Here are some &lt;a href=&#34;#current-projects&#34;&gt;recent ones&lt;/a&gt; and here are some &lt;a href=&#34;#older-projects&#34;&gt;older ones&lt;/a&gt;. I&amp;rsquo;ve given a number of presentations about this work. Here&amp;rsquo;s a sample of some of the &lt;a href=&#34;#presentations&#34;&gt;more recent ones&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I work with &lt;a href=&#34;#groups&#34;&gt;several research groups&lt;/a&gt; that focus on different aspects of education.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve had the chance to work on a few projects. Here are some &lt;a href=&#34;#current-projects&#34;&gt;recent ones&lt;/a&gt; and here are some &lt;a href=&#34;#older-projects&#34;&gt;older ones&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve given a number of presentations about this work. Here&amp;rsquo;s a sample of some of the &lt;a href=&#34;#presentations&#34;&gt;more recent ones&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;groups&#34;&gt;groups&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://perl.natsci.msu.edu&#34; target=&#34;_blank&#34;&gt;The Physics Education Research Lab&lt;/a&gt; conducts a variety of research into students&amp;rsquo; relationships with physics, how tools and environments shape those relationships, and the conditions that can influence or moderate those relationships.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://msu-cerl.github.io&#34; target=&#34;_blank&#34;&gt;The Computational Education Research Lab&lt;/a&gt; conducts research into student learning and engagement in computational and data science and the environments and conditions that shape that learning and participation.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ccse/english/&#34; target=&#34;_blank&#34;&gt;The Center for Computing in Science Education&lt;/a&gt; conducts research into students&amp;rsquo; learning of computing in science environments and studies the tools and conditions that lead to different forms of learning. This research is conducted almost exclusively in Norway.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://perl.natsci.msu.edu&#34; target=&#34;_blank&#34;&gt;The Physics Education Research Lab (PERL)&lt;/a&gt; conducts a variety of research into students&amp;rsquo; relationships with physics, how tools and environments shape those relationships, and the conditions that can influence or moderate those relationships. PERL is housed in the &lt;a href=&#34;https://pa.msu.edu/&#34; target=&#34;_blank&#34;&gt;Department of Physics and Astronomy&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://msu-cerl.github.io&#34; target=&#34;_blank&#34;&gt;The Computational Education Research Lab (CERL)&lt;/a&gt; conducts research into student learning and engagement in computational and data science and the environments and conditions that shape that learning and participation. CERL is housed in the &lt;a href=&#34;https://cmse.msu.edu/&#34; target=&#34;_blank&#34;&gt;Department of Computational Mathematics, Science, and Engineering&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ccse/english/&#34; target=&#34;_blank&#34;&gt;The Center for Computing in Science Education (CCSE)&lt;/a&gt; conducts research into students&amp;rsquo; learning of computing in science environments, studies the tools and conditions that lead to different forms of learning, and develops text-embedding tools for qualitative research. Research with CCSE is conducted almost exclusively in Norway.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;presentations&#34;&gt;presentations&lt;/h2&gt;
 &lt;h3 id=&#34;colloquia&#34;&gt;colloquia&lt;/h3&gt;
@@ -108,7 +110,7 @@ Research Association&lt;/em&gt;.&lt;/p&gt;</description>
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2023_CompPhys.pdf&#34;&gt;Supporting the integration of computing in physics (2023)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2023_GradEd.pdf&#34;&gt;Towards a more diverse and equitable graduate physics program (2023)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;special-sessions&#34;&gt;special sessions&lt;/h3&gt;
+&lt;h3 id=&#34;other-talks&#34;&gt;other talks&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2025_CompPhys_BIRS.pdf&#34;&gt;Supporting the integration of computing in physics (2025)&lt;/a&gt; &amp;ndash; Banff International Research Station, Banff, AB&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2024_AI_UiO.pdf&#34;&gt;We don’t need AI in science education; we need science education research for AI (2023)&lt;/a&gt; &amp;ndash; University of Oslo, Oslo, Norway&lt;/li&gt;
