@@ -3,31 +3,13 @@ title: "publications"
 date: 2025-05-16
 hidemeta: true
 ---
-## 2025
 
-Bolger, E., & Caballero, M. (2025). <span class="nocase">Exploring the
-Impact of Unsupervised Clustering Methods in Systematic Literature
-Reviews</span>. *Proceedings of the 56th ACM Technical Symposium on
-Computer Science Education v. 2*, 1391–1392.
-<https://doi.org/10.1145/3641555.3705184>
+## In Review
 
 Bolger, E., Nwobi, M., & Caballero, M. D. (2025). Characterizing faculty
 online learning community interactions using social network analysis.
 *Physical Review Physics Education Research*.
 <https://arxiv.org/abs/2407.00193>
-
-Bolger, E., Wang, Y., Renbarger, R., Caballero, M. D., Nwobi, M., Lem,
-C., Finkelstein, N., Simkins, S., Boyd, T., Henderson, C., & Beach, A.
-(2025). <span class="nocase">Integrating machine learning into
-systematic reviews: Strengthening evidence synthesis</span>.
-*Proceedings of the 2025 Annual Meeting of the American Educational
-Research Association*.
-
-Byun, S., Brennan, L., Christensen, J., Ortiz, N., Reinholz, D., Shah,
-N., Stroupe, D., & Caballero, M. D. (2025).
-<span class="nocase">Equity-Focused Coaching: Negotiating Teachers’
-Interpretations of Racialized and Gendered Participation
-Patterns</span>. *Journal of Teacher Education*.
 
 Caballero (editor), M. D. (2025). *<span class="nocase">Preparing 21st
 Century Physicists: Integrating Computation into the Undergraduate
@@ -37,15 +19,33 @@ Sabo, H. C., Odden, T. O. B., & Caballero, M. D. (2025). How do we
 assess computation in physics? *The Physics Teacher*.
 <https://arxiv.org/abs/2308.15983>
 
+
+## 2025
+
 Stroupe, D., Reinholz, D., Byun, S., Christensen, J., Willison, J., &
 Caballero, M. D. (2025). Supporting teachers to integrate computational
 practices and design opportunities for equitable participation in
 science classrooms. *Cognition & Instruction*.
 
-Vignal, M., Geschwind, G., Caballero, M. D., & Lewandowski, H. J.
-(2025). Couplet scoring for research based assessment instruments. In
-*Physical Review Physics Education Research*.
-<https://arxiv.org/abs/2307.03099>
+Byun, S., Brennan, L., Christensen, J., Ortiz, N., Reinholz, D., Shah,
+N., Stroupe, D., & Caballero, M. D. (2025).
+<span class="nocase">Equity-Focused Coaching: Negotiating Teachers’
+Interpretations of Racialized and Gendered Participation
+Patterns</span>. *Journal of Teacher Education*.
+
+Bolger, E., & Caballero, M. (2025). <span class="nocase">Exploring the
+Impact of Unsupervised Clustering Methods in Systematic Literature
+Reviews</span>. *Proceedings of the 56th ACM Technical Symposium on
+Computer Science Education v. 2*, 1391–1392.
+<https://doi.org/10.1145/3641555.3705184>
+
+
+Bolger, E., Wang, Y., Renbarger, R., Caballero, M. D., Nwobi, M., Lem,
+C., Finkelstein, N., Simkins, S., Boyd, T., Henderson, C., & Beach, A.
+(2025). <span class="nocase">Integrating machine learning into
+systematic reviews: Strengthening evidence synthesis</span>.
+*Proceedings of the 2025 Annual Meeting of the American Educational
+Research Association*.
 
 ## 2024
 
