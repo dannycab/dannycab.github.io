@@ -102,6 +102,8 @@ params:
           url: https://github.com/dannycab
         - name: Bluesky
           url: https://bsky.app/profile/physicistdanny.bsky.social
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/danny-caballero-0a7a98367
 
     assets:
         disableScrollBarStyle: true
