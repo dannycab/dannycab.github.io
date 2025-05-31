@@ -5,7 +5,7 @@ hidemeta: true
 description: "Curriculum Vitae for Danny Caballero, Professor of Physics Education at Michigan State University."
 ---
 
-[Full CV](/pdf/cv.pdf)
+[full cv](/pdf/cv.pdf)
 
 Marcos D. (Danny) Caballero (he/they)\
 Department of Physics & Astronomy\

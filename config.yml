@@ -12,26 +12,20 @@ taxonomies:
 
 menu:
     main:
+        - name: about
+          url: about/
+          weight: 1
         - name: cv
           url: cv/
-          weight: 1
+          weight: 2
         - name: research
           url: research/
-          weight: 2
-        # - name: Books
-        #   url: books/
-        #   weight: 5 
-        - name: papers
-          url: pubs/
           weight: 3
         - name: teaching
           url: teaching/
           weight: 4
-        # - name: Data
-        #   url: data/
-        #   weight: 4 
-        - name: blog
-          url: https://danny.hellmo.space
+        - name: papers
+          url: pubs/
           weight: 5
 
 params:
@@ -84,28 +78,37 @@ params:
             #   url: tags/
             # - name: Archive
             #   url: archive/
-            - name: blog
-              url: https://danny.hellmo.space
 
     socialIcons:
-        - name: ORCID
-          url: https://orcid.org/0000-0003-0717-4583
-        - name: Location
-          url: location/
         - name: Email
           url: mailto:caball14@msu.edu
+        - name: Location
+          url: location/
         - name: Office Hours
           url: https://app.cal.com/dannycaballero
         - name: Zoom
           url: https://dannycab.github.io/meet/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?hl=en&user=RyAEDZI1S2MC
         - name: GitHub
           url: https://github.com/dannycab
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?hl=en&user=RyAEDZI1S2MC
+        - name: ORCID
+          url: https://orcid.org/0000-0003-0717-4583 
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/danny-caballero-0a7a98367 
         - name: Bluesky
           url: https://bsky.app/profile/physicistdanny.bsky.social
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/danny-caballero-0a7a98367
+        - name: reddit
+          url: https://www.reddit.com/r/msu
+        - name: youtube
+          url: https://www.youtube.com/watch?v=XfELJU1mRMg
+        - name: buymeacoffee
+          url: https://www.buymeacoffee.com/dannycab
+        - name: microblog
+          url: https://danny.hellmo.space
+        - name: rss
+          url: https://danny.hellmo.space/index.xml
+
 
     assets:
         disableScrollBarStyle: true
