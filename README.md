@@ -4,7 +4,7 @@ This is the source repository for [dannycab.github.io](https://dannycab.github.i
 
 ## About 👋
 
-This website hosts Danny Caballero's research papers, books, course materials, data, curriculum vitae, and contact information. It also features announcements, open educational resources (OER), and information about ongoing projects such as [OER Forge](https://oerforge.org).
+This website hosts Danny Caballero's research papers, course materials, curriculum vitae, and contact information. It also features announcements, open educational resources (OER), and information about ongoing projects such as [OER Forge](https://oerforge.org) and the [Open Physics Education Network](https://openphysicsed.org).
 
 ## Features ✨
 
