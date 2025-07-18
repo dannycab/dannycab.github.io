@@ -1,6 +1,6 @@
 # dannycab.github.io 🚀
 
-This is the source repository for [dannycab.github.io](https://dannycab.github.io/), the personal website of Prof. Danny Caballero. The site is built with [Hugo](https://gohugo.io/) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+This is the source repository for [dannycab.github.io](https://dannycab.github.io/), the academic website of Prof. Danny Caballero. The site is built with [Hugo](https://gohugo.io/) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 
 ## About 👋
 
