@@ -1,7 +1,7 @@
 ---
 title: "OER Forge (and open publishing platform) launched"
 date: 2025-07-18
-hidemeta: true
+hidemeta: false
 description: "Announcement of the launch of OER Forge, an open educational resource platform."
 images: ["/images/oer-forge.png"]
 tags: ["OER", "open source", "computing education", "physics education", "accessibility"]

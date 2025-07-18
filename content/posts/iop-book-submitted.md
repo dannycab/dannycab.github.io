@@ -1,7 +1,7 @@
 ---
 title: "Computing in Physics Education book submitted to IOP"
 date: 2025-07-01
-hidemeta: true
+hidemeta: false
 description: "Announcement of the submission of the book 'Computing in Physics Education' to Institute of Physics Publishing."
 summary: "I'm excited to announce that the book 'Computing in Physics Education' has been submitted to the Institute of Physics for publication. This edited volume features contributions from educators around the world who are integrating computing into their physics courses."
 images: ["/img/IOP/cover.png"]

@@ -9,6 +9,4 @@ draft: false
 
 # posts
 
-![Fake Book Cover](/img/IOP/cover.png)  
-
-Here you'll find the latest updates, announcements, and happenings related to my work in physics and computing education, open educational resources, and more.
+![terminal](/img/banner.png)
