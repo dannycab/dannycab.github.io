@@ -3,10 +3,10 @@ title: "OER-Forge"
 date: 2025-07-15
 summary: "OER-Forge, a platform for creating and sharing open educational resources. It simplifies publishing accessible, multi-format educational content for a global audience."
 tags: ["OER", "open source", "computing education", "physics education", "accessibility"]
-images: ["/images/oer-forge.png"]
+images: ["/img/oer-forge.png"]
 ---
 
-<img src="/images/oer-forge.png" alt="OER-Forge Logo" width="400">
+<img src="/img/oer-forge.png" alt="OER-Forge Logo" width="400">
 
 OER-Forge is an open-source platform designed to empower educators, students, and institutions to create, share, and distribute open educational resources (OER) with ease. As the primary developer and maintainer of OER-Forge, I am committed to supporting accessible and high-quality educational content for a global audience.
 
