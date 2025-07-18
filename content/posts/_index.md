@@ -9,7 +9,6 @@ draft: false
 
 # posts
 
+![Fake Book Cover](/img/IOP/cover.png)  
 
-
-
-Welcome to the news section! Here you'll find the latest updates, announcements, and happenings related to my work in physics education, open educational resources, and more. Stay tuned for exciting developments and insights!
+Here you'll find the latest updates, announcements, and happenings related to my work in physics and computing education, open educational resources, and more.

@@ -4,11 +4,7 @@ date: 2025-05-16
 hidemeta: true
 ---
 
-I work with [several research groups](#groups) that focus on different aspects of education. 
-
-I've had the chance to work on a few projects. Here are some [recent ones](#current-projects) and here are some [older ones](#older-projects). 
-
-I've given a number of presentations about this work. Here's a sample of some of the [more recent ones](#presentations).
+I work with [several research groups](#groups) that focus on different aspects of education. I've had the chance to work on a few projects. Here are some [recent ones](#current-projects) and here are some [older ones](#older-projects).  I've given a number of presentations about this work. Here's a sample of some of the [more recent ones](#presentations). My full list of publications is available [here](https://dannycab.github.io/pubs/).
 
 ## groups
 
