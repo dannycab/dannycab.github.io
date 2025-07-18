@@ -5,17 +5,18 @@ hidemeta: true
 description: "Courses taught and other teaching activities by Danny Caballero."
 ---
 
-## Present and Future Courses
+> **Do you need a recommendation letter?** Please go to [this page](/recletter/) for more information. The more information you can provide, the better letter I can write.
+
+## present and future courses
 
 - **Spring 2026** – [PHY 321 (Classical Mechanics)](/phy321msu)
 - **Fall 2025** – [PHY 321 (Classical Mechanics)](/phy321msu)
-- **Summer 2025** – [Machine Learning Short Course](/MSU_REU_ML_course)
-
 
 ---
 
-## Past Courses
+## past courses
 
+- **Summer 2025** – [Machine Learning Short Course](/MSU_REU_ML_course)
 - **Spring 2025** – [PHY 321 (Classical Mechanics)](/phy321msu)
 - **Fall 2024** – [CMSE 201 (Introduction to Computational Modeling)](https://www.egr.msu.edu/classes/cmse201/)
 - **Summer 2024** – [Machine Learning Short Course](/MSU_REU_ML_course)
@@ -47,7 +48,6 @@ description: "Courses taught and other teaching activities by Danny Caballero."
 
 ---
 
-## Other Teaching Things
+## other teaching things
 
-- **I love helping people learn.** I was fortunate to be selected by MSU for [a video highlighting my commitment to teaching](https://youtube.com/watch?v=xkZooG2Nk8Q). The video stars students from the Spring 2019 PHY 482 class.
-- **Do you need a recommendation letter?** Please go to [this page](/recletter/) for more information. The more information you can provide, the better letter I can write.
+**I love helping people learn.** I was fortunate to be selected by MSU for [a video highlighting my commitment to teaching](https://youtube.com/watch?v=xkZooG2Nk8Q). The video stars students from the Spring 2019 PHY 482 class.
