@@ -1,133 +1,136 @@
-baseURL: "https://dannycab.github.io/" 
+baseURL: "https://dannycab.github.io/"
 title: danny caballero
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
+
 pagination:
   pagerSize: 20
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        - name: about
-          url: about/
-          weight: 1
-        - name: cv
-          url: cv/
-          weight: 2
-        - name: research
-          url: research/
-          weight: 3
-        - name: teaching
-          url: teaching/
-          weight: 4
-        - name: papers
-          url: pubs/
-          weight: 5
+  main:
+    - name: about
+      url: about/
+      weight: 1
+    - name: news
+      url: posts/
+      weight: 2
+    - name: cv
+      url: cv/
+      weight: 3
+    - name: research
+      url: research/
+      weight: 4
+    - name: teaching
+      url: teaching/
+      weight: 5
+    - name: oer
+      url: oer/
+      weight: 6
 
 params:
-    description: "This website hosts Danny Caballero's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: danny caballero
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: dark
-    hideFooter: true
-    disableThemeToggle: false
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["research","papers","teaching"]
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: prof. danny caballero
-          subtitle: |
-            <b>Hi! I'm Danny.</b><br>
-            I work in the <a href="https://pa.msu.edu" target="_blank" rel="noopener" aria-label="Department of Physics and Astronomy at MSU (opens in new tab)"><u>Department of Physics and Astronomy</u></a> and the <a href="http://cmse.msu.edu" target="_blank" rel="noopener" aria-label="Department of Computational Mathematics, Science and Engineering at MSU (opens in new tab)"><u>Department of Computational Mathematics, Science and Engineering</u></a> at <a href="https://msu.edu" target="_blank" rel="noopener" aria-label="Michigan State University (opens in new tab)"><u>Michigan State University</u></a>.<br>I'm also a labor organizer for the <a href="https://utsfmsu.org" target="_blank" rel="noopener" aria-label="Union of Tenure System Faculty at MSU (opens in new tab)"><u>Union of Tenure System Faculty</u></a> at MSU.    
-          imageUrl: "/img/dc_outside_square.png"
-          imageWidth: 160
-          imageHeight: 160
-          buttons:
-            - name: about
-              url: about/
-            - name: cv
-              url: cv/
-            - name: research
-              url: research/
-            - name: papers
-              url: pubs/
-            # - name: books
-            #   url: books/
-            - name: teaching
-              url: teaching/
-            # - name: Tags
-            #   url: tags/
-            # - name: Archive
-            #   url: archive/
+  description: "This website hosts Danny Caballero's research papers, books, course materials, data, curriculum vitae, and contact information."
+  author: danny caballero
+  DateFormat: "January 2006"
+  defaultTheme: dark
+  hideFooter: true
+  disableThemeToggle: false
+  ShowShareButtons: false
+  ShowReadingTime: true
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: true
+  MainSections: ["posts"]
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: true
+  UseHugoToc: true
+  comments: false
+  math: true
 
-    socialIcons:
-        - name: Email
-          url: mailto:caball14@msu.edu
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: https://app.cal.com/dannycaballero
-        - name: Zoom
-          url: https://dannycab.github.io/meet/
-        - name: GitHub
-          url: https://github.com/dannycab
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?hl=en&user=RyAEDZI1S2MC
-        - name: ORCID
-          url: https://orcid.org/0000-0003-0717-4583 
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/danny-caballero-0a7a98367 
-        - name: Bluesky
-          url: https://bsky.app/profile/physicistdanny.bsky.social
-        - name: reddit
-          url: https://www.reddit.com/r/msu
-        - name: youtube
-          url: https://www.youtube.com/watch?v=XfELJU1mRMg
-        - name: buymeacoffee
-          url: https://www.buymeacoffee.com/dannycab
-        - name: microblog
-          url: https://danny.hellmo.space
-        - name: rss
-          url: https://danny.hellmo.space/index.xml
+  profileMode:
+    enabled: true
+    title: prof. danny caballero
+    subtitle: |
+      <b>Hi! I'm Danny.</b>
+      <ul>
+      <li>I work in the <a href="https://pa.msu.edu" target="_blank" rel="noopener" aria-label="Department of Physics and Astronomy at Michigan State University (opens in new tab)"><u>Department of Physics and Astronomy</u></a>, the <a href="http://cmse.msu.edu" target="_blank" rel="noopener" aria-label="Department of Computational Mathematics, Science and Engineering at Michigan State University (opens in new tab)"><u>Department of Computational Mathematics, Science and Engineering</u></a>, and the <a href="https://create4stem.msu.edu" target="_blank" rel="noopener" aria-label="CREATE for STEM Institute(opens in new tab)"><u>CREATE for STEM Institute</u></a> at <a href="https://msu.edu" target="_blank" rel="noopener" aria-label="Michigan State University (opens in new tab)"><u>Michigan State University</u></a>.</li>
+      <li>I maintain the <a href="https://github.com/OER-Forge" target="_blank" rel="noopener" aria-label="OER-Forge GitHub organization (opens in new tab)"><u>OER-Forge</u></a> publishing platform and the <a href="https://github.com/open-physics-ed-org" target="_blank" rel="noopener" aria-label="Open Physics Education Network GitHub organization (opens in new tab)"><u>Open Physics Education Network</u></a>.</li>
+      <li>I'm also a labor organizer for the <a href="https://utsfmsu.org" target="_blank" rel="noopener" aria-label="Union of Tenure System Faculty at Michigan State University (opens in new tab)"><u>Union of Tenure System Faculty</u></a> at MSU.</li>
+      </ul>
+    imageUrl: "/img/dc_outside_square.png"
+    imageWidth: 160
+    imageHeight: 160
+    buttons:
+      - name: about
+        url: about/
+      - name: news
+        url: posts/
+      - name: cv
+        url: cv/
+      - name: research
+        url: research/
+      - name: teaching
+        url: teaching/
+      - name: oer
+        url: oer/
 
+  socialIcons:
+    - name: Email
+      url: mailto:caball14@msu.edu
+    - name: Location
+      url: location/
+    - name: Office Hours
+      url: https://app.cal.com/dannycaballero
+    - name: Zoom
+      url: https://dannycab.github.io/meet/
+    - name: GitHub
+      url: https://github.com/dannycab
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?hl=en&user=RyAEDZI1S2MC
+    - name: ORCID
+      url: https://orcid.org/0000-0003-0717-4583
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/danny-caballero-0a7a98367
+    - name: Bluesky
+      url: https://bsky.app/profile/danny.hellmo.space
+    - name: reddit
+      url: https://www.reddit.com/r/msu
+    - name: youtube
+      url: https://www.youtube.com/watch?v=XfELJU1mRMg
+    - name: buymeacoffee
+      url: https://www.buymeacoffee.com/dannycab
+    - name: microblog
+      url: https://danny.hellmo.space
+    - name: rss
+      url: https://danny.hellmo.space/index.xml
 
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "danny caballero"
-      icon: favicon-32x32.png
-      iconHeight: 18
+  assets:
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+  label:
+    text: "danny caballero"
+    icon: favicon-32x32.png
+    iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2

@@ -4,8 +4,79 @@
     <title>Tags on danny caballero</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on danny caballero</description>
-    <generator>Hugo -- 0.147.6</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessibility</title>
+      <link>http://localhost:1313/tags/accessibility/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/accessibility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computing Education</title>
+      <link>http://localhost:1313/tags/computing-education/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/computing-education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multi-Format</title>
+      <link>http://localhost:1313/tags/multi-format/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/multi-format/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OER</title>
+      <link>http://localhost:1313/tags/oer/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Source</title>
+      <link>http://localhost:1313/tags/open-source/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physics Education</title>
+      <link>http://localhost:1313/tags/physics-education/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/physics-education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WCAG</title>
+      <link>http://localhost:1313/tags/wcag/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wcag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Book</title>
+      <link>http://localhost:1313/tags/book/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IOP</title>
+      <link>http://localhost:1313/tags/iop/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/iop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PICUP</title>
+      <link>http://localhost:1313/tags/picup/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/picup/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

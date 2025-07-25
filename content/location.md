@@ -2,7 +2,7 @@
 title: "Location"
 date: 2025-05-16
 hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
+description: "Danny Caballero's mailing and office addresses at Michigan State University."
 ---
 
 #### Mailing address

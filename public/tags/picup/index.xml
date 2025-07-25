@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PICUP on danny caballero</title>
+    <link>http://localhost:1313/tags/picup/</link>
+    <description>Recent content in PICUP on danny caballero</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/picup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Partnership for the Integration of Computation into Undergraduate Physics (PICUP)</title>
+      <link>http://localhost:1313/oer/picup/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/oer/picup/</guid>
+      <description>Information about the Partnership for the Integration of Computation into Undergraduate Physics (PICUP), including its mission, activities, and recognition with the 2023 APS Education Prize.</description>
+    </item>
+  </channel>
+</rss>

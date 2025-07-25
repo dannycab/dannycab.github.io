@@ -1,6 +1,8 @@
 ---
 title: "need a recommendation letter?"
 date: 2025-05-16
+hidemeta: true
+description: "Information for students who need a recommendation letter from Danny Caballero."
 ---
 
 I am very happy to write recommendation letters, but if you want me to
