@@ -92,26 +92,20 @@ params:
       url: https://app.cal.com/dannycaballero
     - name: Zoom
       url: https://dannycab.github.io/meet/
-    - name: GitHub
-      url: https://github.com/dannycab
     - name: Google Scholar
       url: https://scholar.google.com/citations?hl=en&user=RyAEDZI1S2MC
+    - name: Semantic Scholar
+      url: https://www.semanticscholar.org/author/Marcos-D.-Caballero/144979459
     - name: ORCID
       url: https://orcid.org/0000-0003-0717-4583
     - name: LinkedIn
       url: https://www.linkedin.com/in/danny-caballero-0a7a98367
+    - name: GitHub
+      url: https://github.com/dannycab
     - name: Bluesky
       url: https://bsky.app/profile/danny.hellmo.space
-    - name: reddit
-      url: https://www.reddit.com/r/msu
-    - name: youtube
-      url: https://www.youtube.com/watch?v=XfELJU1mRMg
     - name: buymeacoffee
       url: https://www.buymeacoffee.com/dannycab
-    - name: microblog
-      url: https://danny.hellmo.space
-    - name: rss
-      url: https://danny.hellmo.space/index.xml
 
   assets:
     disableScrollBarStyle: true
