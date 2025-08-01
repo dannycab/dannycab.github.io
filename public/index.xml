@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>danny caballero</title>
-    <link>http://localhost:1313/</link>
+    <link>https://dannycab.github.io/</link>
     <description>Recent content on danny caballero</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dannycab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First chapter of Computing in Physics Education book available</title>
-      <link>http://localhost:1313/posts/iop-book-chapter-posted/</link>
+      <link>https://dannycab.github.io/posts/iop-book-chapter-posted/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/iop-book-chapter-posted/</guid>
+      <guid>https://dannycab.github.io/posts/iop-book-chapter-posted/</guid>
       <description>Announcement of the first chapter release from the book &amp;#39;Computing in Physics Education&amp;#39;.</description>
     </item>
     <item>
       <title>OER Forge (and open publishing platform) launched</title>
-      <link>http://localhost:1313/posts/oer-forge-launched/</link>
+      <link>https://dannycab.github.io/posts/oer-forge-launched/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/oer-forge-launched/</guid>
+      <guid>https://dannycab.github.io/posts/oer-forge-launched/</guid>
       <description>Announcement of the launch of OER Forge, an open educational resource platform.</description>
     </item>
     <item>
       <title>OER-Forge</title>
-      <link>http://localhost:1313/oer/oer-forge/</link>
+      <link>https://dannycab.github.io/oer/oer-forge/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/oer/oer-forge/</guid>
+      <guid>https://dannycab.github.io/oer/oer-forge/</guid>
       <description>OER-Forge, a platform for creating and sharing open educational resources. It simplifies publishing accessible, multi-format educational content for a global audience.</description>
     </item>
     <item>
       <title>Open Physics Education Network</title>
-      <link>http://localhost:1313/oer/openphysicsed/</link>
+      <link>https://dannycab.github.io/oer/openphysicsed/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/oer/openphysicsed/</guid>
+      <guid>https://dannycab.github.io/oer/openphysicsed/</guid>
       <description>The Open Physics Education Network, an initiative to make physics education accessible to all. It provides openly licensed, accessible resources designed for diverse learners and educators.</description>
     </item>
     <item>
       <title>Computing in Physics Education book submitted to IOP</title>
-      <link>http://localhost:1313/posts/iop-book-submitted/</link>
+      <link>https://dannycab.github.io/posts/iop-book-submitted/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/iop-book-submitted/</guid>
+      <guid>https://dannycab.github.io/posts/iop-book-submitted/</guid>
       <description>Announcement of the submission of the book &amp;#39;Computing in Physics Education&amp;#39; to Institute of Physics Publishing.</description>
     </item>
     <item>
       <title>Partnership for the Integration of Computation into Undergraduate Physics (PICUP)</title>
-      <link>http://localhost:1313/oer/picup/</link>
+      <link>https://dannycab.github.io/oer/picup/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/oer/picup/</guid>
+      <guid>https://dannycab.github.io/oer/picup/</guid>
       <description>Information about the Partnership for the Integration of Computation into Undergraduate Physics (PICUP), including its mission, activities, and recognition with the 2023 APS Education Prize.</description>
     </item>
     <item>
       <title>about danny</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://dannycab.github.io/about/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://dannycab.github.io/about/</guid>
       <description>Biosketch for Danny Caballero, Professor of Physics Education at Michigan State University.</description>
     </item>
     <item>
       <title>Computing in Physics Education Book</title>
-      <link>http://localhost:1313/iop-book/</link>
+      <link>https://dannycab.github.io/iop-book/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/iop-book/</guid>
+      <guid>https://dannycab.github.io/iop-book/</guid>
       <description>Materials for contributing authors to the upcoming book on Computing in Physics Education, to be published by the Institute of Physics.</description>
     </item>
     <item>
       <title>curriculum vita</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>https://dannycab.github.io/cv/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>https://dannycab.github.io/cv/</guid>
       <description>Curriculum Vitae for Danny Caballero, Professor of Physics Education at Michigan State University.</description>
     </item>
     <item>
       <title>Location</title>
-      <link>http://localhost:1313/location/</link>
+      <link>https://dannycab.github.io/location/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/location/</guid>
+      <guid>https://dannycab.github.io/location/</guid>
       <description>Danny Caballero&amp;#39;s mailing and office addresses at Michigan State University.</description>
     </item>
     <item>
       <title>need a recommendation letter?</title>
-      <link>http://localhost:1313/recletter/</link>
+      <link>https://dannycab.github.io/recletter/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recletter/</guid>
+      <guid>https://dannycab.github.io/recletter/</guid>
       <description>Information for students who need a recommendation letter from Danny Caballero.</description>
     </item>
     <item>
       <title>publications</title>
-      <link>http://localhost:1313/pubs/</link>
+      <link>https://dannycab.github.io/pubs/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pubs/</guid>
+      <guid>https://dannycab.github.io/pubs/</guid>
       <description>A list of publications by Danny Caballero.</description>
     </item>
     <item>
       <title>research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://dannycab.github.io/research/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
+      <guid>https://dannycab.github.io/research/</guid>
       <description>&lt;p&gt;I work with &lt;a href=&#34;#groups&#34;&gt;several research groups&lt;/a&gt; that focus on different aspects of education. I&amp;rsquo;ve had the chance to work on a few projects. Here are some &lt;a href=&#34;#current-projects&#34;&gt;recent ones&lt;/a&gt; and here are some &lt;a href=&#34;#older-projects&#34;&gt;older ones&lt;/a&gt;.  I&amp;rsquo;ve given a number of presentations about this work. Here&amp;rsquo;s a sample of some of the &lt;a href=&#34;#presentations&#34;&gt;more recent ones&lt;/a&gt;. My full list of publications is available &lt;a href=&#34;https://dannycab.github.io/pubs/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;groups&#34;&gt;groups&lt;/h2&gt;
 &lt;ul&gt;
@@ -107,16 +107,16 @@
 &lt;h2 id=&#34;presentations&#34;&gt;presentations&lt;/h2&gt;
 &lt;h3 id=&#34;colloquia&#34;&gt;colloquia&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2025_CompPhys.pdf&#34;&gt;Supporting the integration of computing in physics, now with AI? (2025)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2023_CompPhys.pdf&#34;&gt;Supporting the integration of computing in physics (2023)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2023_GradEd.pdf&#34;&gt;Towards a more diverse and equitable graduate physics program (2023)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dannycab.github.io/pdf/talks/2025_CompPhys.pdf&#34;&gt;Supporting the integration of computing in physics, now with AI? (2025)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dannycab.github.io/pdf/talks/2023_CompPhys.pdf&#34;&gt;Supporting the integration of computing in physics (2023)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dannycab.github.io/pdf/talks/2023_GradEd.pdf&#34;&gt;Towards a more diverse and equitable graduate physics program (2023)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;other-talks&#34;&gt;other talks&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2025_CompPhys_BIRS.pdf&#34;&gt;Supporting the integration of computing in physics (2025)&lt;/a&gt; &amp;ndash; Banff International Research Station, Banff, AB&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2024_AI_UiO.pdf&#34;&gt;We don’t need AI in science education; we need science education research for AI (2023)&lt;/a&gt; &amp;ndash; University of Oslo, Oslo, Norway&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2023_Juleseminar_UiO.pdf&#34;&gt;Teaching Computing into Introductory STEM Courses at Scale (2023)&lt;/a&gt; &amp;ndash; University of Oslo, Oslo, Norway&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pdf/talks/2023_LPF.pdf&#34;&gt;science, education, computing, &amp;amp; community…in ten(ish) minutes (2023)&lt;/a&gt;&amp;ndash; Michigan State, East Lansing, MI&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dannycab.github.io/pdf/talks/2025_CompPhys_BIRS.pdf&#34;&gt;Supporting the integration of computing in physics (2025)&lt;/a&gt; &amp;ndash; Banff International Research Station, Banff, AB&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dannycab.github.io/pdf/talks/2024_AI_UiO.pdf&#34;&gt;We don’t need AI in science education; we need science education research for AI (2023)&lt;/a&gt; &amp;ndash; University of Oslo, Oslo, Norway&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dannycab.github.io/pdf/talks/2023_Juleseminar_UiO.pdf&#34;&gt;Teaching Computing into Introductory STEM Courses at Scale (2023)&lt;/a&gt; &amp;ndash; University of Oslo, Oslo, Norway&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dannycab.github.io/pdf/talks/2023_LPF.pdf&#34;&gt;science, education, computing, &amp;amp; community…in ten(ish) minutes (2023)&lt;/a&gt;&amp;ndash; Michigan State, East Lansing, MI&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;current-projects&#34;&gt;current projects&lt;/h2&gt;
 &lt;h3 id=&#34;computing-in-undergraduate-physics-education&#34;&gt;computing in undergraduate physics education&lt;/h3&gt;
@@ -125,16 +125,16 @@
     </item>
     <item>
       <title>teaching</title>
-      <link>http://localhost:1313/teaching/</link>
+      <link>https://dannycab.github.io/teaching/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/</guid>
+      <guid>https://dannycab.github.io/teaching/</guid>
       <description>Courses taught and other teaching activities by Danny Caballero.</description>
     </item>
     <item>
       <title>Zoom Meeting</title>
-      <link>http://localhost:1313/meet/</link>
+      <link>https://dannycab.github.io/meet/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meet/</guid>
+      <guid>https://dannycab.github.io/meet/</guid>
       <description>Link to Danny Caballero&amp;#39;s personal Zoom meeting room.</description>
     </item>
   </channel>
