@@ -1,13 +1,14 @@
 ---
 title: "Computing in Physics Education Book"
 date: 2025-05-16
-hidemeta: true
 summary: "Materials for contributing authors to the upcoming book on Computing in Physics Education, to be published by the Institute of Physics."
 description: "Materials for contributing authors to the upcoming book on Computing in Physics Education, to be published by the Institute of Physics."
 author: "Danny Caballero"
 draft: false
 url: /iop-book/
 ---
+
+> This book has been accepted for publication by the [Institute of Physics (IOP)](https://iopscience.iop.org/) and is currently in the editing process. The book will be published later in 2025 and will be available on the IOP website and through other academic channels. We've posted the first chapter draft [here](/iop-book/chapter-1/), with permission from IOP, for those interested in the content and style of the book.
 
 ![Fake Book Cover](/img/IOP/cover.png)
 
@@ -19,18 +20,34 @@ This page organizes the materials for contributing authors to the upcoming book 
 
 ---
 
-## Timeline
+## Contributors
 
-The timeline for the book is as follows:
+This book is edited by Danny Caballero and includes contributions from a diverse group of authors who are actively integrating computation into physics education. The book aims to provide insights, strategies, and resources for educators looking to enhance their teaching with computational tools and methods.
 
-- **Dec 2023**: Initial Concepts and Chapter Proposals
-- **Feb 2024**: Reviews and Meeting with Authors
-- **Mar 2024**: Accepted Chapter Authors Notified
-- **Oct 2024**: First Drafts Due
-- **Dec 2024**: Reviews and Meeting with Authors
-- **May 2025**: Final Drafts Due
+The authors listed below have written the following chapters:
+
+### Chapters
+
+| Chapter | Authors | Preliminary Title |
+| :------ | :------ | :---------------- |
+| **1**  | M.D. Caballero | Integrating Computing in Physics Courses |
+| **2**  | B. Lunk, S. Weatherford | Student Engagement with Computational Models and the Development of the “Minimally Working Program” Instructional Tool |
+| **3**  | M. Lopez del Puerto, L. Engelhardt, K. Roos | Resources for Integrating Computation into Physics Courses: Exercise Sets, Workshops, and a Supportive Community |
+| **4**  | W.B. Lane, T. Galanti | Computing in General Education Physics |
+| **5**  | C. Christenson, S. Chamberlin, K. McMichael, M. McCracken | Introducing Computational Techniques Early to Train Students for Research |
+| **6**  | B. Zwickl, C. Lusignan, A. McGowan | Instructional Goals and Decisions When Integrating Computation into Physics Labs |
+| **7**  | B. Zwickl, C. Lusignan, A. McGowan | Case Studies of Integrating Computation into Physics Lab Courses |
+| **8**  | R.C. Mastroleo, B. Lunk | Departmental Emphasis on Computation for the Physics Major: Successes and Failures of a Multi-Tier Curricular Redesign |
+| **9**  | D. O’Neil | Integration of Computation Across the Curriculum at Bridgewater College |
+| **10** | M. Hamilton | Integrating Computation in Physics: From High School Internships to Graduate Studies at Marshall University |
+| **11** | K. Svennson, J. Haraldsson, U. Erickson | Teachers’ Approach to Computation in Physics Classrooms Analyzed Using Social Semiotics and Variation Theory of Learning |
+| **12** | T. Atherton, A. Phillips, B. Gravel, E. Gouvea | Agency and Making in Computational Learning Environments |
+| **13** | T. Odden | Teaching Scientific Writing Using Computational Essays |
+| **14** | M.D. Caballero | Where Do We Go from Here? Next Steps and Considerations |
 
 ---
+
+> This information is now archived for reference. The book is in the editing process and will be published later in 2025. The first chapter draft is available [here](/iop-book/chapter-1/).
 
 ## Materials for Contributing Authors
 
@@ -55,23 +72,13 @@ IOP includes a set of guidelines for authors. Please review the [IOP Author Guid
 * [LaTeX Template](https://drive.google.com/file/d/1VMgrbfndy5yOh_6omCy0z3o9cmAu22cy/view?usp=drive_link)
 * [Google Docs Template](https://docs.google.com/document/d/11mcN3I0lJ8Nos7yh1Bf_JY_nbuBCC58uPByW2DlQGjU/edit#heading=h.gjdgxs)
 
----
+### Timeline
 
-## Contributors
+The timeline for the book is as follows:
 
-**Questions?** Authors may contact [Danny Caballero](mailto:caball14@msu.edu) or [make an appointment to meet](https://cal.com/dannycaballero/iop-book).
-
-The authors listed below have proposed the following initial chapters (order and full authorship TBD):
-
-| **Authors** | **Preliminary Chapter Title** |
-| --- | --- |
-| K. Svennson and U. Erickson | Teachers’ approach to computation in physics classrooms analyzed using social semiotics and variation theory of learning |
-| B. Zwickl, C. Lusignan, and A. McGowan | Integrating computation into a physics bachelor’s laboratory curriculum |
-| T. Atherton, A. Phillips, B. Gravel, and E. Gouvea | Agency and Making in Computational Learning Environments |
-| W. B. Lane and T. Galanti | Computing in General Education Physics |
-| R. C. Mastroleo and B. Lunk | Departmental Emphasis on Computation for the Physics Major: Successes and Failures of a multi-tier curricular redesign |
-| T. Odden | Teaching Scientific Writing using Computational Essays |
-| M. Lopez del Puerto, L. Engelhardt, and K. Roos | Resources for Integrating Computation into Physics Courses: Exercise Sets, Workshops, and a Supportive Community |
-| D. O'Neil | Integration of computation across the curriculum at Bridgewater College |
-| B. Lunk and S. Weatherford | Student Engagement with Computational Models and the Development of the "Minimally Working Program" Instructional Tool |
-| M. Hamilton | Integrating Computation in Physics: From High School Internships to Graduate Studies at Marshall University |
+- **Dec 2023**: Initial Concepts and Chapter Proposals
+- **Feb 2024**: Reviews and Meeting with Authors
+- **Mar 2024**: Accepted Chapter Authors Notified
+- **Oct 2024**: First Drafts Due
+- **Dec 2024**: Reviews and Meeting with Authors
+- **May 2025**: Final Drafts Due
