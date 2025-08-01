@@ -12,9 +12,6 @@ author: "Danny Caballero"
 
 
 I've just posted the first chapter of our book, ["Computing in Physics Education"](/iop-book/), which is going through the editorial process at the [Institute of Physics Publishing](https://ioppublishing.org/). This chapter serves as an introduction to the book, outlining its key themes and objectives.
-{{< embed-pdf url="/pdf/iop-book/CH01.pdf" >}}
-
-<br>
 
 📂 [Download First Chapter](https://github.com/dannycab/dannycab.github.io/raw/refs/heads/main/static/pdf/iop-book/CH01.pdf)
 
