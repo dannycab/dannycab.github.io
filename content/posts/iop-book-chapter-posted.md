@@ -16,6 +16,6 @@ I've just posted the first chapter of our book, ["Computing in Physics Education
 
 <br>
 
-📂 [Download First Chapter](/pdf/iop-book/CH01.pdf)
+📂 [Download First Chapter](https://github.com/dannycab/dannycab.github.io/raw/refs/heads/main/static/pdf/iop-book/CH01.pdf)
 
 IOP agreed to let me post the first chapter online, so you can get a sneak peek at what the book is all about. The chapter discusses the importance of integrating computing into physics education and sets the stage for the contributions from various educators that will follow in subsequent chapters.

@@ -1,6 +1,6 @@
 baseURL: "https://dannycab.github.io/"
 title: danny caballero
-theme: ["hugo-embed-pdf-shortcode", "PaperMod"]
+theme:  PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
