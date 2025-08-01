@@ -12,7 +12,10 @@ author: "Danny Caballero"
 
 
 I've just posted the first chapter of our book, ["Computing in Physics Education"](/iop-book/), which is going through the editorial process at the [Institute of Physics Publishing](https://ioppublishing.org/). This chapter serves as an introduction to the book, outlining its key themes and objectives.
+{{< embed-pdf url="/pdf/iop-book/CH01.pdf" >}}
+
+<br>
+
+📂 [Download First Chapter](/pdf/iop-book/CH01.pdf)
 
 IOP agreed to let me post the first chapter online, so you can get a sneak peek at what the book is all about. The chapter discusses the importance of integrating computing into physics education and sets the stage for the contributions from various educators that will follow in subsequent chapters.
-
-You can read the first chapter [here](/iop-book/chapter-1/). 
