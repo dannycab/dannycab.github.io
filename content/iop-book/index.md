@@ -8,7 +8,7 @@ draft: false
 url: /iop-book/
 ---
 
-> This book has been accepted for publication by the [Institute of Physics (IOP)](https://iopscience.iop.org/) and is currently in the editing process. The book will be published later in 2025 and will be available on the IOP website and through other academic channels. We've posted the first chapter draft [here](/iop-book/chapter-1/), with permission from IOP, for those interested in the content and style of the book.
+> This book has been accepted for publication by the [Institute of Physics (IOP)](https://iopscience.iop.org/) and is currently in the editing process. The book will be published later in 2025 and will be available on the IOP website and through other academic channels. We've posted the first chapter draft [here](/posts/iop-book-chapter-posted/), with permission from IOP, for those interested in the content and style of the book.
 
 ![Fake Book Cover](/img/IOP/cover.png)
 
