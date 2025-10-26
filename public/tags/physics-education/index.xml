@@ -4,10 +4,17 @@
     <title>Physics Education on danny caballero</title>
     <link>http://localhost:1313/tags/physics-education/</link>
     <description>Recent content in Physics Education on danny caballero</description>
-    <generator>Hugo -- 0.150.0</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/physics-education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computing in Physics Education book published</title>
+      <link>http://localhost:1313/posts/iop-book-published/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/iop-book-published/</guid>
+      <description>Announcement of the release of &amp;#39;Computing in Physics Education&amp;#39;.</description>
+    </item>
     <item>
       <title>First chapter of Computing in Physics Education book available</title>
       <link>http://localhost:1313/posts/iop-book-chapter-posted/</link>
