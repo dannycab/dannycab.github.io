@@ -11,7 +11,7 @@ images: ["/img/raisemyhand.png"]
 [RaiseMyHand](https://github.com/oer-forge/raisemyhand) is an open-source, real-time web-based tool designed to collect, organize, and manage student questions during live classes. As the primary developer, I created RaiseMyHand to improve student engagement and make it easier for instructors to address the questions that matter most to their students.
 
 * Demo: <https://raisemyhand.hellmo.space/>
-* API Docs: <https://raisemyhand.hellmo.space/api/docs>
+* API Docs: <https://raisemyhand.hellmo.space/docs>
 * Need an demo API Key? Request via [GitHub Issues #13](https://github.com/OER-Forge/raisemyhand/issues/13)
 
 ## What is RaiseMyHand?
