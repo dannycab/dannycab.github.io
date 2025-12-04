@@ -28,9 +28,6 @@ menu:
     - name: teaching
       url: teaching/
       weight: 5
-    - name: oer
-      url: oer/
-      weight: 6
 
 params:
   description: "This website hosts Danny Caballero's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -80,8 +77,6 @@ params:
         url: research/
       - name: teaching
         url: teaching/
-      - name: oer
-        url: oer/
 
   socialIcons:
     - name: Email

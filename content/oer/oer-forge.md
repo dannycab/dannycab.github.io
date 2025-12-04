@@ -8,6 +8,8 @@ images: ["/img/oer-forge.png"]
 
 <img src="/img/oer-forge.png" alt="OER-Forge Logo" width="400">
 
+{{< repo-meta name="OER-Forge" org="OER-Forge" language="Jupyter Notebook" stars="1" updated="Jul 2025" >}}
+
 OER-Forge is an open-source platform designed to empower educators, students, and institutions to create, share, and distribute open educational resources (OER) with ease. As the primary developer and maintainer of OER-Forge, I am committed to supporting accessible and high-quality educational content for a global audience.
 
 ## What is OER-Forge?

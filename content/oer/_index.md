@@ -12,6 +12,3 @@ I create and share open educational resources (OER) to support teaching and lear
 ## Course Materials
 
 I publish all of my course materials as open educational resources. You can find links to these materials on my [teaching page](/teaching/). These materials include lecture notes, assignments, and projects for courses I teach at Michigan State University. Feel free to use and adapt these resources for your own teaching needs. I am moving all of my course materials to OER-Forge, so please check back often for updates!
-
-# OER Projects
-

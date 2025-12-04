@@ -8,6 +8,8 @@ images: ["/img/openphysicsed.png"]
 
 <img src="/img/openphysicsed.png" alt="Open Physics Education Network Logo" width="400">
 
+{{< repo-meta name="openphysicsed" language="Markdown" updated="Jul 2025" >}}
+
 The **Open Physics Education Network** is, presently, a personal initiative dedicated to making physics education accessible to everyone, regardless of background or resources. Rooted in the belief that everyone can learn physics, the project addresses the barriers created by limited access to quality materials and the restrictive practices of commercial publishing.
 
 This network emphasizes the use of free and open source educational resources, ensuring that all materials are openly licensed and adaptable for diverse learning environments. Accessibility is a core value: all resources are developed following WCAG-compliant guidelines, making content usable for people with disabilities. Materials are offered in multiple formats—such as web, PDF, and DOCX—to support a wide range of devices and learning preferences.

@@ -8,6 +8,8 @@ images: ["/img/raisemyhand.png"]
 
 ![RaiseMyHand Logo](/img/raisemyhand.png)
 
+{{< repo-meta name="raisemyhand" org="OER-Forge" language="Python" stars="1" updated="Dec 2025" >}}
+
 [RaiseMyHand](https://github.com/oer-forge/raisemyhand) is an open-source, real-time web-based tool designed to collect, organize, and manage student questions during live classes. As the primary developer, I created RaiseMyHand to improve student engagement and make it easier for instructors to address the questions that matter most to their students.
 
 * Demo: <https://raisemyhand.hellmo.space/>

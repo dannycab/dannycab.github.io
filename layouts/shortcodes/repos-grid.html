@@ -1,0 +1,13 @@
+{{- $repos := slice -}}
+
+{{- range .Inner | strings.Split "\n" -}}
+  {{- if . | strings.TrimSpace -}}
+    {{- $repos = $repos | append (. | strings.TrimSpace) -}}
+  {{- end -}}
+{{- end -}}
+
+<div class="repos-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; margin: 24px 0;">
+  {{- range $repos -}}
+    {{- . | safeHTML -}}
+  {{- end -}}
+</div>

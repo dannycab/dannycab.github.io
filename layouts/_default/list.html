@@ -67,6 +67,23 @@
   {{- if (ne (.Param "hideSummary") true) }}
   <div class="entry-content">
     <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    {{- if or (.Param "repo_language") (.Param "repo_stars") (.Param "repo_updated") (.Param "repo_name") }}
+    <div style="display: flex; gap: 8px; margin-top: 8px; font-size: 0.85em; color: #a6adc8; flex-wrap: wrap;">
+      {{- with .Param "repo_language" }}
+      <span style="background: #313244; padding: 3px 6px; border-radius: 3px;">{{ . }}</span>
+      {{- end }}
+      {{- with .Param "repo_stars" }}
+      <span style="background: #313244; padding: 3px 6px; border-radius: 3px;">⭐ {{ . }}</span>
+      {{- end }}
+      {{- with .Param "repo_updated" }}
+      <span style="background: #313244; padding: 3px 6px; border-radius: 3px;">{{ . }}</span>
+      {{- end }}
+      {{- if (.Param "repo_name") }}
+      {{- $org := .Param "repo_org" | default "dannycab" }}
+      <a href="https://github.com/{{ $org }}/{{ .Param "repo_name" }}" target="_blank" rel="noopener noreferrer" style="color: #89b4fa; text-decoration: none; font-size: 0.9em;">GitHub →</a>
+      {{- end }}
+    </div>
+    {{- end }}
   </div>
   {{- end }}
   {{- if not (.Param "hideMeta") }}

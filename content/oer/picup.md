@@ -8,6 +8,8 @@ images: ["/img/picup.png"]
 
 <img src="/img/picup.png" alt="Partnership for the Integration of Computation into Undergraduate Physics Logo" width="400">
 
+{{< repo-meta language="Community" updated="Ongoing" >}}
+
 The [Partnership for the Integration of Computation into Undergraduate Physics (PICUP)](https://www.compadre.org/picup) is a vibrant community of physics educators and advocates committed to transforming undergraduate physics education by integrating computation into the curriculum. Founded on the belief that computational skills are essential for modern physicists, PICUP works to empower instructors at all levels to bring computational thinking and practices into their classrooms.
 
 PICUP provides a wide range of resources and support for educators, including a curated collection of open educational resources (OER), teaching modules, and sample activities that can be readily adopted or adapted for various physics courses. The community also organizes workshops, webinars, and conferences designed to help instructors develop the skills and confidence needed to teach computation effectively. These professional development opportunities foster collaboration and knowledge sharing among educators, helping to build a supportive network for those new to computational instruction as well as experienced practitioners.

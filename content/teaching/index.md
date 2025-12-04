@@ -1,20 +1,32 @@
 ---
-title: "teaching"
+title: "Teaching & Learning"
 date: 2025-05-16
 hidemeta: true
-description: "Courses taught and other teaching activities by Danny Caballero."
+description: "Danny Caballero's teaching, courses, and educational resources."
 ---
+
+I'm passionate about teaching and helping people learn. I work to create inclusive, evidence-based learning environments in physics and computational science. My teaching work includes:
+
+- **[OER Course Materials](/teaching/courses/)** — Physics and computational science courses
+- **[OER Teaching Tools](/teaching/tools/)** — Open source software for teaching and learning
+- **[Educational Initiatives](/teaching/initiatives/)** — Community work and professional development
+
+---
+
+## Recommendation Letters
 
 > **Do you need a recommendation letter?** Please go to [this page](/recletter/) for more information. The more information you can provide, the better letter I can write.
 
-## present and future courses
+## Courses
+
+I teach a variety of courses in physics and computational science. Some courses have publicly available materials:
+
+### Present and Future Courses
 
 - **Spring 2026** – [PHY 321 (Classical Mechanics)](/phy321msu)
 - **Fall 2025** – [PHY 321 (Classical Mechanics)](/phy321msu)
 
----
-
-## past courses
+### Past Courses
 
 - **Summer 2025** – [Machine Learning Short Course](/MSU_REU_ML_course)
 - **Spring 2025** – [PHY 321 (Classical Mechanics)](/phy321msu)
@@ -48,6 +60,8 @@ description: "Courses taught and other teaching activities by Danny Caballero."
 
 ---
 
-## other teaching things
+## Teaching Philosophy
 
-**I love helping people learn.** I was fortunate to be selected by MSU for [a video highlighting my commitment to teaching](https://youtube.com/watch?v=xkZooG2Nk8Q). The video stars students from the Spring 2019 PHY 482 class.
+I love helping people learn. I was fortunate to be selected by MSU for [a video highlighting my commitment to teaching](https://youtube.com/watch?v=xkZooG2Nk8Q). The video features students from the Spring 2019 PHY 482 class. I strive to create learning environments that are equitable, inclusive, and grounded in evidence about how people learn best.
+
+

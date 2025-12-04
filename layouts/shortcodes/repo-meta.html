@@ -1,0 +1,20 @@
+{{- $name := .Get "name" -}}
+{{- $org := .Get "org" | default "dannycab" -}}
+
+<div class="repo-meta" style="display: flex; gap: 12px; margin-top: 8px; font-size: 0.85em; color: #a6adc8; flex-wrap: wrap;">
+  {{ with .Get "language" }}
+  <span style="background: #313244; padding: 3px 6px; border-radius: 3px;">{{ . }}</span>
+  {{ end }}
+  
+  {{ with .Get "stars" }}
+  <span style="background: #313244; padding: 3px 6px; border-radius: 3px;">⭐ {{ . }}</span>
+  {{ end }}
+  
+  {{ with .Get "updated" }}
+  <span style="background: #313244; padding: 3px 6px; border-radius: 3px;">Updated: {{ . }}</span>
+  {{ end }}
+  
+  {{ if $name }}
+  <a href="https://github.com/{{ $org }}/{{ $name }}" target="_blank" rel="noopener noreferrer" style="color: #89b4fa; text-decoration: none;">GitHub →</a>
+  {{ end }}
+</div>
