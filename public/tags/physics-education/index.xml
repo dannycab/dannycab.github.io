@@ -2,66 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Physics Education on danny caballero</title>
-    <link>http://localhost:1313/tags/physics-education/</link>
+    <link>https://dannycab.github.io/tags/physics-education/</link>
     <description>Recent content in Physics Education on danny caballero</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/physics-education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dannycab.github.io/tags/physics-education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RaiseMyHand: A Real-Time Student Question Aggregator</title>
-      <link>http://localhost:1313/oer/raisemyhand/</link>
+      <link>https://dannycab.github.io/oer/raisemyhand/</link>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/oer/raisemyhand/</guid>
+      <guid>https://dannycab.github.io/oer/raisemyhand/</guid>
+      <description>Introducing RaiseMyHand, a real-time web tool for collecting and managing student questions during live classes. Built for physics and computational science education.</description>
+    </item>
+    <item>
+      <title>RaiseMyHand: A Real-Time Student Question Aggregator</title>
+      <link>https://dannycab.github.io/teaching/tools/raisemyhand/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dannycab.github.io/teaching/tools/raisemyhand/</guid>
       <description>Introducing RaiseMyHand, a real-time web tool for collecting and managing student questions during live classes. Built for physics and computational science education.</description>
     </item>
     <item>
       <title>Computing in Physics Education book published</title>
-      <link>http://localhost:1313/posts/iop-book-published/</link>
+      <link>https://dannycab.github.io/posts/iop-book-published/</link>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/iop-book-published/</guid>
+      <guid>https://dannycab.github.io/posts/iop-book-published/</guid>
       <description>Announcement of the release of &amp;#39;Computing in Physics Education&amp;#39;.</description>
     </item>
     <item>
       <title>First chapter of Computing in Physics Education book available</title>
-      <link>http://localhost:1313/posts/iop-book-chapter-posted/</link>
+      <link>https://dannycab.github.io/posts/iop-book-chapter-posted/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/iop-book-chapter-posted/</guid>
+      <guid>https://dannycab.github.io/posts/iop-book-chapter-posted/</guid>
       <description>Announcement of the first chapter release from the book &amp;#39;Computing in Physics Education&amp;#39;.</description>
     </item>
     <item>
       <title>OER Forge (and open publishing platform) launched</title>
-      <link>http://localhost:1313/posts/oer-forge-launched/</link>
+      <link>https://dannycab.github.io/posts/oer-forge-launched/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/oer-forge-launched/</guid>
+      <guid>https://dannycab.github.io/posts/oer-forge-launched/</guid>
       <description>Announcement of the launch of OER Forge, an open educational resource platform.</description>
     </item>
     <item>
       <title>OER-Forge</title>
-      <link>http://localhost:1313/oer/oer-forge/</link>
+      <link>https://dannycab.github.io/oer/oer-forge/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/oer/oer-forge/</guid>
+      <guid>https://dannycab.github.io/oer/oer-forge/</guid>
+      <description>OER-Forge, a platform for creating and sharing open educational resources. It simplifies publishing accessible, multi-format educational content for a global audience.</description>
+    </item>
+    <item>
+      <title>OER-Forge</title>
+      <link>https://dannycab.github.io/teaching/tools/oer-forge/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://dannycab.github.io/teaching/tools/oer-forge/</guid>
       <description>OER-Forge, a platform for creating and sharing open educational resources. It simplifies publishing accessible, multi-format educational content for a global audience.</description>
     </item>
     <item>
       <title>Open Physics Education Network</title>
-      <link>http://localhost:1313/oer/openphysicsed/</link>
+      <link>https://dannycab.github.io/oer/openphysicsed/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/oer/openphysicsed/</guid>
+      <guid>https://dannycab.github.io/oer/openphysicsed/</guid>
+      <description>The Open Physics Education Network, an initiative to make physics education accessible to all. It provides openly licensed, accessible resources designed for diverse learners and educators.</description>
+    </item>
+    <item>
+      <title>Open Physics Education Network</title>
+      <link>https://dannycab.github.io/teaching/initiatives/openphysicsed/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://dannycab.github.io/teaching/initiatives/openphysicsed/</guid>
       <description>The Open Physics Education Network, an initiative to make physics education accessible to all. It provides openly licensed, accessible resources designed for diverse learners and educators.</description>
     </item>
     <item>
       <title>Computing in Physics Education book submitted to IOP</title>
-      <link>http://localhost:1313/posts/iop-book-submitted/</link>
+      <link>https://dannycab.github.io/posts/iop-book-submitted/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/iop-book-submitted/</guid>
+      <guid>https://dannycab.github.io/posts/iop-book-submitted/</guid>
       <description>Announcement of the submission of the book &amp;#39;Computing in Physics Education&amp;#39; to Institute of Physics Publishing.</description>
     </item>
     <item>
       <title>Partnership for the Integration of Computation into Undergraduate Physics (PICUP)</title>
-      <link>http://localhost:1313/oer/picup/</link>
+      <link>https://dannycab.github.io/oer/picup/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/oer/picup/</guid>
+      <guid>https://dannycab.github.io/oer/picup/</guid>
+      <description>Information about the Partnership for the Integration of Computation into Undergraduate Physics (PICUP), including its mission, activities, and recognition with the 2023 APS Education Prize.</description>
+    </item>
+    <item>
+      <title>Partnership for the Integration of Computation into Undergraduate Physics (PICUP)</title>
+      <link>https://dannycab.github.io/teaching/initiatives/picup/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://dannycab.github.io/teaching/initiatives/picup/</guid>
       <description>Information about the Partnership for the Integration of Computation into Undergraduate Physics (PICUP), including its mission, activities, and recognition with the 2023 APS Education Prize.</description>
     </item>
   </channel>

@@ -76,7 +76,7 @@ params:
       - name: research
         url: research/
       - name: teaching
-        url: teaching/
+        url: teaching/  
 
   socialIcons:
     - name: Email

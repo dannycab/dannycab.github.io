@@ -1,32 +1,18 @@
 ---
-title: "Teaching & Learning"
-date: 2025-05-16
+title: "Course Materials"
+date: 2025-12-03
 hidemeta: true
-description: "Danny Caballero's teaching, courses, and educational resources."
+description: "Open educational resources from my courses."
 ---
 
-I'm passionate about teaching and helping people learn. I work to create inclusive, evidence-based learning environments in physics and computational science. My teaching work includes:
+I publish course materials as open educational resources whenever possible, supporting teaching and learning in physics and computational science. My current and past courses are listed on the [main teaching page](/teaching/). Some courses have publicly available materials and interactive resources.
 
-- **[OER Course Materials](/teaching/courses/)** — Physics and computational science courses
-- **[OER Teaching Tools](/teaching/tools/)** — Open source software for teaching and learning
-- **[Educational Initiatives](/teaching/initiatives/)** — Community work and professional development
-
----
-
-## Recommendation Letters
-
-> **Do you need a recommendation letter?** Please go to [this page](/recletter/) for more information. The more information you can provide, the better letter I can write.
-
-## Courses
-
-I teach a variety of courses in physics and computational science. Some courses have publicly available materials:
-
-### Present and Future Courses
+## Present and Future Courses
 
 - **Spring 2026** – [PHY 321 (Classical Mechanics)](/phy321msu)
 - **Fall 2025** – [PHY 321 (Classical Mechanics)](/phy321msu)
 
-### Past Courses
+## Past Courses
 
 - **Summer 2025** – [Machine Learning Short Course](/MSU_REU_ML_course)
 - **Spring 2025** – [PHY 321 (Classical Mechanics)](/phy321msu)
@@ -59,9 +45,3 @@ I teach a variety of courses in physics and computational science. Some courses 
 - **Fall 2013** – PHY 183 (Physics for Scientists and Engineers I)
 
 ---
-
-## Teaching Philosophy
-
-I love helping people learn. I was fortunate to be selected by MSU for [a video highlighting my commitment to teaching](https://youtube.com/watch?v=xkZooG2Nk8Q). The video features students from the Spring 2019 PHY 482 class. I strive to create learning environments that are equitable, inclusive, and grounded in evidence about how people learn best.
-
-

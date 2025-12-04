@@ -3,6 +3,9 @@ title: "Teaching Tools"
 date: 2025-12-03
 hidemeta: true
 description: "Open source tools for teaching and learning."
+outputs:
+  - html
+  - json
 ---
 
 ## Teaching Tools

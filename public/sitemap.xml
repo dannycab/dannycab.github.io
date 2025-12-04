@@ -2,103 +2,124 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/computing-education/</loc>
+    <loc>https://dannycab.github.io/tags/computing-education/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://dannycab.github.io/teaching/courses/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/education/</loc>
+    <loc>https://dannycab.github.io/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/open-source/</loc>
+    <loc>https://dannycab.github.io/tags/education/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/physics-education/</loc>
+    <loc>https://dannycab.github.io/teaching/initiatives/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/oer/raisemyhand/</loc>
+    <loc>https://dannycab.github.io/tags/open-source/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/student-engagement/</loc>
+    <loc>https://dannycab.github.io/tags/physics-education/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://dannycab.github.io/oer/raisemyhand/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/book/</loc>
+    <loc>https://dannycab.github.io/teaching/tools/raisemyhand/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dannycab.github.io/tags/student-engagement/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dannycab.github.io/tags/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dannycab.github.io/teaching/tools/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dannycab.github.io/tags/book/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/iop-book-published/</loc>
+    <loc>https://dannycab.github.io/posts/iop-book-published/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/iop/</loc>
+    <loc>https://dannycab.github.io/tags/iop/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/iop-book-chapter-posted/</loc>
+    <loc>https://dannycab.github.io/posts/iop-book-chapter-posted/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/accessibility/</loc>
+    <loc>https://dannycab.github.io/tags/accessibility/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/oer/</loc>
+    <loc>https://dannycab.github.io/tags/oer/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/oer-forge-launched/</loc>
+    <loc>https://dannycab.github.io/posts/oer-forge-launched/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/oer/</loc>
+    <loc>https://dannycab.github.io/oer/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/multi-format/</loc>
+    <loc>https://dannycab.github.io/tags/multi-format/</loc>
     <lastmod>2025-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/oer/oer-forge/</loc>
+    <loc>https://dannycab.github.io/oer/oer-forge/</loc>
     <lastmod>2025-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/oer/openphysicsed/</loc>
+    <loc>https://dannycab.github.io/teaching/tools/oer-forge/</loc>
     <lastmod>2025-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wcag/</loc>
+    <loc>https://dannycab.github.io/oer/openphysicsed/</loc>
     <lastmod>2025-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/iop-book-submitted/</loc>
+    <loc>https://dannycab.github.io/teaching/initiatives/openphysicsed/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dannycab.github.io/tags/wcag/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dannycab.github.io/posts/iop-book-submitted/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/oer/picup/</loc>
+    <loc>https://dannycab.github.io/oer/picup/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/picup/</loc>
+    <loc>https://dannycab.github.io/teaching/initiatives/picup/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://dannycab.github.io/tags/picup/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dannycab.github.io/about/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/iop-book/</loc>
+    <loc>https://dannycab.github.io/iop-book/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>https://dannycab.github.io/cv/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/location/</loc>
+    <loc>https://dannycab.github.io/location/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recletter/</loc>
+    <loc>https://dannycab.github.io/recletter/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pubs/</loc>
+    <loc>https://dannycab.github.io/pubs/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://dannycab.github.io/research/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://dannycab.github.io/teaching/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/meet/</loc>
+    <loc>https://dannycab.github.io/meet/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://dannycab.github.io/posts/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
