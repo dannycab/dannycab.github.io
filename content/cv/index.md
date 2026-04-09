@@ -5,24 +5,28 @@ hidemeta: true
 description: "Curriculum Vitae for Danny Caballero, Professor of Physics Education at Michigan State University."
 ---
 
-[full cv](/pdf/cv.pdf)
-
 Marcos D. (Danny) Caballero (he/they)\
 Department of Physics & Astronomy\
 Department of Computational Mathematics, Science, & Engineering\
 CREATE for STEM Institute\
 Michigan State University
 
-Biomedical and Physical Sciences Building\
-567 Wilson Rd., Room 1310A\
-East Lansing, MI 48824
+📪 <caball14@msu.edu>\
+💻 [dannycab.github.io](https://dannycab.github.io)
 
-Engineering Building\
-428 S Shaw Ln, Room 1515A\
-East Lansing, MI 48824
+📍 **Physical Addresses**
 
-e: <caball14@msu.edu>\
-w: [dannycab.github.io](https://dannycab.github.io)
+> Biomedical and Physical Sciences Building\
+> 567 Wilson Rd., Room 1310A\
+> East Lansing, MI 48824
+
+> Engineering Building\
+> 428 S Shaw Ln, Room 1515A\
+> East Lansing, MI 48824
+
+
+
+📄 full cv [(pdf)](/pdf/cv.pdf)<br>📄 publications [(html)](/pubs/)
 
 ## education
 

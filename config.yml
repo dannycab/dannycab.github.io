@@ -25,6 +25,9 @@ menu:
     - name: research
       url: research/
       weight: 4
+    - name: pubs
+      url: pubs/
+      weight: 4.5
     - name: teaching
       url: teaching/
       weight: 5
@@ -75,6 +78,8 @@ params:
         url: cv/
       - name: research
         url: research/
+      - name: pubs
+        url: pubs/
       - name: teaching
         url: teaching/  
 
