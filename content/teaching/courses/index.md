@@ -9,11 +9,15 @@ I publish course materials as open educational resources whenever possible, supp
 
 ## Present and Future Courses
 
-- **Spring 2026** – [PHY 321 (Classical Mechanics)](/phy321msu)
-- **Fall 2025** – [PHY 321 (Classical Mechanics)](/phy321msu)
+- **Spring 2027** – [PHY 321 (Classical Mechanics)](/phy321msu)
+- **Fall 2026** – CMSE 492 (Special Topics in Computational Science: AI and Society)
+- **Summer 2026** – [Machine Learning Short Course](/MSU_REU_ML_course)
 
 ## Past Courses
 
+
+- **Spring 2026** – [PHY 321 (Classical Mechanics)](/phy321msu)
+- **Fall 2025** – [PHY 321 (Classical Mechanics)](/phy321msu)
 - **Summer 2025** – [Machine Learning Short Course](/MSU_REU_ML_course)
 - **Spring 2025** – [PHY 321 (Classical Mechanics)](/phy321msu)
 - **Fall 2024** – [CMSE 201 (Introduction to Computational Modeling)](https://www.egr.msu.edu/classes/cmse201/)
