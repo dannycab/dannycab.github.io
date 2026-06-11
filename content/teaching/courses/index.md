@@ -10,7 +10,7 @@ I publish course materials as open educational resources whenever possible, supp
 ## Present and Future Courses
 
 - **Spring 2027** – [PHY 321 (Classical Mechanics)](/phy321msu)
-- **Fall 2026** – CMSE 492 (Special Topics in Computational Science: AI and Society)
+- **Fall 2026** – [CMSE 492 (Special Topics in Computational Science: AI and Society)](https://msucerl.org/cmse101)
 - **Summer 2026** – [Machine Learning Short Course](/MSU_REU_ML_course)
 
 ## Past Courses

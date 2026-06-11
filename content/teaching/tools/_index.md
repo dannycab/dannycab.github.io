@@ -5,7 +5,6 @@ hidemeta: true
 description: "Open source tools for teaching and learning."
 outputs:
   - html
-  - json
 ---
 
 ## Teaching Tools
