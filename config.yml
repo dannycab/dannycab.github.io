@@ -63,8 +63,8 @@ params:
       <b>Hi! I'm Danny.</b>
       <ul>
       <li>I work in the <a href="https://pa.msu.edu" target="_blank" rel="noopener" aria-label="Department of Physics and Astronomy at Michigan State University (opens in new tab)"><u>Department of Physics and Astronomy</u></a>, the <a href="http://cmse.msu.edu" target="_blank" rel="noopener" aria-label="Department of Computational Mathematics, Science and Engineering at Michigan State University (opens in new tab)"><u>Department of Computational Mathematics, Science and Engineering</u></a>, and the <a href="https://create4stem.msu.edu" target="_blank" rel="noopener" aria-label="CREATE for STEM Institute(opens in new tab)"><u>CREATE for STEM Institute</u></a> at <a href="https://msu.edu" target="_blank" rel="noopener" aria-label="Michigan State University (opens in new tab)"><u>Michigan State University</u></a>.</li>
-      <li>I maintain the <a href="https://github.com/OER-Forge" target="_blank" rel="noopener" aria-label="OER-Forge GitHub organization (opens in new tab)"><u>OER-Forge</u></a> publishing platform and the <a href="https://github.com/open-physics-ed-org" target="_blank" rel="noopener" aria-label="Open Physics Education Network GitHub organization (opens in new tab)"><u>Open Physics Education Network</u></a>.</li>
-      <li>I'm also a labor organizer for the <a href="https://utsfmsu.org" target="_blank" rel="noopener" aria-label="Union of Tenure System Faculty at Michigan State University (opens in new tab)"><u>Union of Tenure System Faculty</u></a> at MSU.</li>
+      <li>I've worked as a research professor in the <a href="https://www.mn.uio.no/ccse/english/" target="_blank" rel="noopener" aria-label="Centre for Computing in Science Education (opens in new tab)"><u>Centre for Computing in Science Education</u></a> at the <a href="https://www.uio.no/" target="_blank" rel="noopener" aria-label="University of Oslo (opens in new tab)"><u>University of Oslo</u></a> for the last ten years.
+      <li>I was previously a labor organizer for the <a href="https://utsfmsu.org" target="_blank" rel="noopener" aria-label="Union of Tenure System Faculty at Michigan State University (opens in new tab)"><u>Union of Tenure System Faculty</u></a> at MSU. Now I'm just a member. 😊</li>
       </ul>
     imageUrl: "/img/dc_outside_square.png"
     imageWidth: 160
@@ -98,8 +98,6 @@ params:
       url: https://www.semanticscholar.org/author/Marcos-D.-Caballero/144979459
     - name: ORCID
       url: https://orcid.org/0000-0003-0717-4583
-    - name: LinkedIn
-      url: https://www.linkedin.com/in/danny-caballero-0a7a98367
     - name: GitHub
       url: https://github.com/dannycab
     - name: Bluesky
