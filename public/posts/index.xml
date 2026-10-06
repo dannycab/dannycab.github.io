@@ -4,10 +4,17 @@
     <title>News on danny caballero</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in News on danny caballero</description>
-    <generator>Hugo -- 0.166.0</generator>
+    <generator>Hugo -- 0.167.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presenting at Michigan AAPT, Fall 2026</title>
+      <link>http://localhost:1313/posts/presenting-at-mi-aapt-f2026/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/presenting-at-mi-aapt-f2026/</guid>
+      <description>Slides from my Michigan AAPT talk on Exercise 0, a sequence of assignments on the labor, credit, and politics of physics.</description>
+    </item>
     <item>
       <title>Computing in Physics Education book published</title>
       <link>http://localhost:1313/posts/iop-book-published/</link>

@@ -464,202 +464,227 @@ scholar**](https://scholar.google.com/citations?hl=en&authuser=1&user=RyAEDZI1S2
     Symposium on Computer Science Education v. 2*, 1391–1392.
     <https://doi.org/10.1145/3641555.3705184>
 
-8.  Bolger, E., & Caballero, M. (2024). Using natural language
+8.  Frisbie, R. L.-S., Silvia, D., Caballero, M. D., Roca, R., Bowerman,
+    A., & Sachithanand, K. (2024). Exploring the scurry of squirrels in
+    Central Park. *Proceedings of the 55th ACM Technical Symposium on
+    Computer Science Education v. 2*, 1914–1914.
+    <https://doi.org/10.1145/3626253.3635334>
+
+9.  Bolger, E., & Caballero, M. (2024). Using natural language
     processing to explore instructional change strategies in
     undergraduate science education literature. *Proceedings of the 55th
     ACM Technical Symposium on Computer Science Education v. 2*,
     1930–1930. <https://doi.org/10.1145/3626253.3635341>
 
-9.  Silvia, D. W., Caballero, M. D., Finzell, T., Frisbie, R., Hamerski,
+10. Silvia, D. W., Caballero, M. D., Finzell, T., Frisbie, R., Hamerski,
     P., Bolger, E., Castle, S., Roca, R., & Tourangeau, P. (2023).
     Computing in support of disciplinary learning. *Proceedings of the
     54th ACM Technical Symposium on Computer Science Education v. 2*,
     1247–1247. <https://doi.org/10.1145/3545947.3573341>
 
-10. Hamerski, P. C., Silvia, D., & Caballero, M. D. (2022). Exploring
+11. Frisbie, R. L.-S., & Caballero, M. D. (2023). Exploring students'
+    computational problem-solving approaches: Two comparative case
+    studies. *Proceedings of the 54th ACM Technical Symposium on
+    Computer Science Education v. 1*.
+
+12. Finzell, T., Caballero, M. D., & Silvia, D. W. (2023). Using resource
+    theory to understand how students think about indexing. *Proceedings
+    of the 54th ACM Technical Symposium on Computer Science Education
+    v. 1*.
+
+13. Hamerski, P. C., Silvia, D., & Caballero, M. D. (2022). Exploring
     self-efficacy in data science. *Proceedings of the 27th ACM
     Conference on on Innovation and Technology in Computer Science
     Education Vol. 2*, 633–634.
     <https://doi.org/10.1145/3502717.3532131>
 
-11. Willison, J., Christensen, J., Byun, S., Stroupe, D., &
+14. Willison, J., Christensen, J., Byun, S., Stroupe, D., &
     Caballero, M. D. (2022). How do you eat an elephant? How problem
     solving informs computational instruction in high school physics.
     *Physics Education Research Conference 2022*, 494–499.
 
-12. Stroupe, D., Byun, S., Willson, J., Christensen, J., Caballero, M.
+15. Bott, T. E., Stump, T., Caballero, M. D., McPadden, D. R., & Irving,
+    P. W. (2022). Examining how problem design relates to computational
+    thinking practices. *Physics Education Research Conference 2022*.
+
+16. Vignal, M., Rainey, K. D., Wilcox, B. R., Caballero, M. D., &
+    Lewandowski, H. J. (2022). Affordances of articulating assessment
+    objectives in research-based assessment development. *Physics
+    Education Research Conference 2022*.
+
+17. Stroupe, D., Byun, S., Willson, J., Christensen, J., Caballero, M.
     D., & Reinholz, D. L. (2022). Teachers’ use of resources for
     equitable integration of computation in science classrooms. In C.
     Chinn, E. Tan, C. Chan, & Y. Kali (Eds.), *Proceedings of the 16th
     international conference of the learning sciences-ICLS2022* (pp.
     905–909). International Society of the Learning Sciences.
 
-13. Mackessy, G., Irving, P. W., Caballero, M. D., & Doughty, L. (2021).
+18. Mackessy, G., Irving, P. W., Caballero, M. D., & Doughty, L. (2021).
     Comparing student conceptions and construction of while loops in
     modeling motion. In M. B. Bennett, B. W. Frank, & R. E. Vieyra
     (Eds.), *2021 Physics Education Research Conference Proceedings*
     (pp. 245–250). <https://doi.org/10.1119/perc.2021.pr.Mackessy>
 
-14. Waterson, A. C., Henderson, R., & Caballero, M. D. (2021).
+19. Waterson, A. C., Henderson, R., & Caballero, M. D. (2021).
     <span class="nocase">Analyzing time-to-degree for transfer students
     at a Large Midwestern University</span>. In M. B. Bennett, B. W.
     Frank, & R. E. Vieyra (Eds.), *2021 Physics Education Research
     Conference Proceedings* (pp. 438–443).
     <https://doi.org/10.1119/perc.2021.pr.Waterson>
 
-15. Henderson, R., Funkhouser, K., & Caballero, M. D. (2019).
+20. Henderson, R., Funkhouser, K., & Caballero, M. D. (2019).
     <span class="nocase">A Longitudinal Exploration of Students’ Beliefs
     about Experimental Physics</span>. In Y. Cao, S. Wolf, & M. B.
     Bennett (Eds.), *2019 Physics Education Research Conference
     Proceedings* (pp. 214–219).
     <https://doi.org/10.1119/perc.2019.pr.Henderson>
 
-16. Young, N. T., & Caballero, M. D. (2019). Using machine learning to
+21. Young, N. T., & Caballero, M. D. (2019). Using machine learning to
     understand physics graduate school admissions. In Y. Cao, S. Wolf,
     & M. B. Bennett (Eds.), *2019 Physics Education Research Conference
     Proceedings* (pp. 669–674).
     <https://doi.org/10.1119/perc.2019.pr.Young>
 
-17. Odden, T. O. B., & Caballero, M. D. (2019).
+22. Odden, T. O. B., & Caballero, M. D. (2019).
     <span class="nocase">Computational Essays and Computational Literacy
     at the University of Oslo</span>. In Y. Cao, S. Wolf, & M. B.
     Bennett (Eds.), *2019 Physics Education Research Conference
     Proceedings* (pp. 429–434).
     <https://doi.org/10.1119/perc.2019.pr.Odden>
 
-18. Weller, D., Caballero, M. D., & Irving, P. W. (2019).
+23. Weller, D., Caballero, M. D., & Irving, P. W. (2019).
     <span class="nocase">Investigating Teacher Learning Goals Involving
     Computation in High School Physics</span>. In Y. Cao, S. Wolf,
     & M. B. Bennett (Eds.), *2019 Physics Education Research Conference
     Proceedings* (pp. 627–632).
     <https://doi.org/10.1119/perc.2019.pr.Weller>
 
-19. Bott, T., Weller, D., Caballero, M. D., & Irving, P. W. (2019).
+24. Bott, T., Weller, D., Caballero, M. D., & Irving, P. W. (2019).
     <span class="nocase">Preliminary Analysis of Student-Identified
     Themes around Computation in High School Physics</span>. In Y.
     Cao, S. Wolf, & M. B. Bennett (Eds.), *2019 Physics Education
     Research Conference Proceedings* (pp. 57–62).
     <https://doi.org/10.1119/perc.2019.pr.Bott>
 
-20. Bumler, J., Hamerski, P. C., Caballero, M. D., & Irving, P. W.
+25. Bumler, J., Hamerski, P. C., Caballero, M. D., & Irving, P. W.
     (2019). <span class="nocase">How do previous coding experiences
     influence undergraduate physics students?</span> In Y. Cao, S. Wolf,
     & M. B. Bennett (Eds.), *2019 Physics Education Research Conference
     Proceedings* (pp. 69–74).
     <https://doi.org/10.1119/perc.2019.pr.Bumler>
 
-21. McPadden, D., Hamerski, P. C., Caballero, M. D., & Irving, P. W.
+26. McPadden, D., Hamerski, P. C., Caballero, M. D., & Irving, P. W.
     (2018). Feedback as a mechanism for improving students scientific
     communication skills. In A. Traxler, Y. Cao, & S. Wolf (Eds.), *2018
     Physics Education Research Conference Proceedings*.
     <https://doi.org/10.1119/perc.2018.pr.McPadden>
 
-22. Sand, O. P., Odden, T. O. B., Lindstrøm, C., & Caballero, M. D.
+27. Sand, O. P., Odden, T. O. B., Lindstrøm, C., & Caballero, M. D.
     (2018). How computation can facilitate sensemaking about physics: A
     case study. In A. Traxler, Y. Cao, & S. Wolf (Eds.), *2018 Physics
     Education Research Conference Proceedings*.
     <https://doi.org/10.1119/perc.2018.pr.Sand>
 
-23. Funkhouser, K., Caballero, M. D., Irving, P. W., & Sawtelle, V.
+28. Funkhouser, K., Caballero, M. D., Irving, P. W., & Sawtelle, V.
     (2018). What counts in laboratories: Toward a practice-based
     identity survey. In A. Traxler, Y. Cao, & S. Wolf (Eds.), *2018
     Physics Education Research Conference Proceedings*.
     <https://doi.org/10.1119/perc.2018.pr.Funkhouser>
 
-24. Leary, A., Irving, P. W., & Caballero, M. D. (2018). The
+29. Leary, A., Irving, P. W., & Caballero, M. D. (2018). The
     difficulties associated with integrating computation into
     undergraduate physics. In A. Traxler, Y. Cao, & S. Wolf (Eds.),
     *2018 Physics Education Research Conference Proceedings*.
     <https://doi.org/10.1119/perc.2018.pr.Leary>
 
-25. Griswold, K., McPadden, D., Caballero, M. D., & Irving, P. W.
+30. Griswold, K., McPadden, D., Caballero, M. D., & Irving, P. W.
     (2018). <span class="nocase">Denoting and Comparing Leadership
     Attributes and Behaviors in Group Work</span>. In A. Traxler, Y.
     Cao, & S. Wolf (Eds.), *2018 Physics Education Research Conference
     Proceedings*. <https://doi.org/10.1119/perc.2018.pr.Griswold>
 
-26. Solli, R., Aiken, J. M., Henderson, R., & Caballero, M. D. (2018).
+31. Solli, R., Aiken, J. M., Henderson, R., & Caballero, M. D. (2018).
     Examining the relationship between student performance and video
     interactions. In A. Traxler, Y. Cao, & S. Wolf (Eds.), *2018 Physics
     Education Research Conference Proceedings*.
     <https://doi.org/10.1119/perc.2018.pr.Solli>
 
-27. Irving, P. W., & Caballero, M. D. (2017). Expanding the PICUP
+32. Irving, P. W., & Caballero, M. D. (2017). Expanding the PICUP
     community of practice. In L. Ding, A. Traxler, & Y. Cao (Eds.),
     *2017 Physics Education Research Conference Proceedings* (pp.
     188–191). <https://doi.org/10.1119/perc.2017.pr.042>
 
-28. Hawkins, N., Obsniuk, M. J., Irving, P. W., & Caballero, M. D.
+33. Hawkins, N., Obsniuk, M. J., Irving, P. W., & Caballero, M. D.
     (2017). <span class="nocase">Examining Thematic Variation in a
     Phenomenographical Study on Computational Physics</span>. In L.
     Ding, A. Traxler, & Y. Cao (Eds.), *2017 Physics Education Research
     Conference Proceedings* (pp. 168–171).
     <https://doi.org/10.1119/perc.2017.pr.037>
 
-29. Aiken, J. M., & Caballero, M. D. (2016). Methods for analyzing
+34. Aiken, J. M., & Caballero, M. D. (2016). Methods for analyzing
     pathways through a physics major. In D. L. Jones, L. Ding, & A.
     Traxler (Eds.), *2016 Physics Education Research Conference
     Proceedings* (pp. 28–31). <https://doi.org/10.1119/perc.2016.pr.002>
 
-30. Caballero, M. D. (2015). <span class="nocase">Computation across the
+35. Caballero, M. D. (2015). <span class="nocase">Computation across the
     curriculum: What skills are needed?</span> In A. D. Churukian, D. L.
     Jones, & L. Ding (Eds.), *2015 Physics Education Research Conference
     Proceedings* (pp. 79–82). <https://doi.org/10.1119/perc.2015.pr.015>
 
-31. Irving, P. W., Sawtelle, V., & Caballero, M. D. (2015).
+36. Irving, P. W., Sawtelle, V., & Caballero, M. D. (2015).
     <span class="nocase">Troubleshooting Formative Feedback in P$`^3`$
     (A group-based learning environment)</span>. In A. D.
     Churukian, D. L. Jones, & L. Ding (Eds.), *2015 Physics Education
     Research Conference Proceedings* (pp. 155–158).
     <https://doi.org/10.1119/perc.2015.pr.034>
 
-32. Laverty, J. T., Cooper, M. M., & Caballero, M. D. (2015).
+37. Laverty, J. T., Cooper, M. M., & Caballero, M. D. (2015).
     <span class="nocase">Developing the Next Generation of Physics
     Assessments</span>. In A. D. Churukian, D. L. Jones, & L. Ding
     (Eds.), *2015 Physics Education Research Conference Proceedings*
     (pp. 187–190). <https://doi.org/10.1119/perc.2015.pr.042>
 
-33. Pawlak, A., Irving, P. W., & Caballero, M. D. (2015). Identification
+38. Pawlak, A., Irving, P. W., & Caballero, M. D. (2015). Identification
     of a shared answer-making game in group context. In A. D.
     Churukian, D. L. Jones, & L. Ding (Eds.), *2015 Physics Education
     Research Conference Proceedings* (pp. 255–258).
     <https://doi.org/10.1119/perc.2015.pr.059>
 
-34. Obsniuk, M. J., Irving, P. W., & Caballero, M. D. (2015).
+39. Obsniuk, M. J., Irving, P. W., & Caballero, M. D. (2015).
     <span class="nocase">A Case Study: Novel Group Interactions through
     Computational Physics</span>. In A. D. Churukian, D. L. Jones, & L.
     Ding (Eds.), *2015 Physics Education Research Conference
     Proceedings* (pp. 239–242).
     <https://doi.org/10.1119/perc.2015.pr.055>
 
-35. Turnbull, A., Doughty, L., Sawtelle, V., & Caballero, M. D. (2015).
+40. Turnbull, A., Doughty, L., Sawtelle, V., & Caballero, M. D. (2015).
     <span class="nocase">Student Ideas around Vector Decomposition in
     the Upper-Division</span>. In A. D. Churukian, D. L. Jones, & L.
     Ding (Eds.), *2015 Physics Education Research Conference
     Proceedings* (pp. 239–242).
     <https://doi.org/10.1119/perc.2015.pr.079>
 
-36. Doughty, L., & Caballero, M. D. (2014). <span class="nocase">Rubric
+41. Doughty, L., & Caballero, M. D. (2014). <span class="nocase">Rubric
     Design for Separating the Roles of Open-Ended Assessments</span>.
     In P. V. Engelhardt, A. D. Churukian, & D. L. Jones (Eds.), *2014
     Physics Education Research Conference Proceedings* (pp. 71–74).
     <https://doi.org/10.1119/perc.2014.pr.014>
 
-37. Laverty, J. T., Tessmer, S. H., Cooper, M. M., & Caballero, M. D.
+42. Laverty, J. T., Tessmer, S. H., Cooper, M. M., & Caballero, M. D.
     (2014). <span class="nocase">Engaging Physics Faculty in Course
     Transformation</span>. In P. V. Engelhardt, A. D. Churukian, & D. L.
     Jones (Eds.), *2014 Physics Education Research Conference
     Proceedings* (pp. 147–150).
     <https://doi.org/10.1119/perc.2014.pr.033>
 
-38. F., Wolf. S., Doughty, L., Irving, P. W., Sayre, E. C., &
+43. F., Wolf. S., Doughty, L., Irving, P. W., Sayre, E. C., &
     Caballero, M. D. (2014). <span class="nocase">Just Math: A new
     epistemic frame</span>. In P. V. Engelhardt, A. D. Churukian,
     & D. L. Jones (Eds.), *2014 Physics Education Research Conference
     Proceedings* (pp. 275–278).
     <https://doi.org/10.1119/perc.2014.pr.065>
 
-39. Aiken, J. M., Lin, S.-Y., Douglas, S. S., Greco, E. F., Thoms, B.
+44. Aiken, J. M., Lin, S.-Y., Douglas, S. S., Greco, E. F., Thoms, B.
     D., Caballero, M. D., & Schatz, M. F. (2014).
     <span class="nocase">Student Use of a Single Lecture Video in a
     Flipped Introductory Mechanics Course</span>. In P. V.
@@ -667,7 +692,7 @@ scholar**](https://scholar.google.com/citations?hl=en&authuser=1&user=RyAEDZI1S2
     Education Research Conference Proceedings* (pp. 19–22).
     <https://doi.org/10.1119/perc.2014.pr.001>
 
-40. Douglas, S. S., Lin, S.-Y., Aiken, J. M., Greco, E. F., Thoms, B.
+45. Douglas, S. S., Lin, S.-Y., Aiken, J. M., Greco, E. F., Thoms, B.
     D., Caballero, M. D., & Schatz, M. F. (2014).
     <span class="nocase">Peer Evaluation of Video Lab Reports in a
     Blended Introductory Physics Course</span>. In P. V.
@@ -675,7 +700,7 @@ scholar**](https://scholar.google.com/citations?hl=en&authuser=1&user=RyAEDZI1S2
     Education Research Conference Proceedings* (pp. 75–78).
     <https://doi.org/10.1119/perc.2014.pr.015>
 
-41. Lin, S.-Y., Douglas, S. S., Aiken, J. M., Greco, E. F., Thoms, B.
+46. Lin, S.-Y., Douglas, S. S., Aiken, J. M., Greco, E. F., Thoms, B.
     D., Caballero, M. D., & Schatz, M. F. (2014).
     <span class="nocase">Peer Evaluation of Video Lab Reports in an
     Introductory Physics MOOC</span>. In P. V. Engelhardt, A. D.
@@ -683,14 +708,14 @@ scholar**](https://scholar.google.com/citations?hl=en&authuser=1&user=RyAEDZI1S2
     Conference Proceedings* (pp. 163–166).
     <https://doi.org/10.1119/perc.2014.pr.037>
 
-42. Caballero, M. D., & Pollock, S. J. (2013).
+47. Caballero, M. D., & Pollock, S. J. (2013).
     <span class="nocase">Assessing Student Learning in Middle-Division
     Classical Mechanics/Math Methods</span>. In P. V. Engelhardt, A. D.
     Churukian, & D. L. Jones (Eds.), *2013 Physics Education Research
     Conference Proceedings* (pp. 81–84).
     <https://doi.org/10.1119/perc.2013.pr.008>
 
-43. Aiken, J. M., Lin, S.-Y., Douglas, S. S., Greco, E. F., Thoms, B.
+48. Aiken, J. M., Lin, S.-Y., Douglas, S. S., Greco, E. F., Thoms, B.
     D., Caballero, M. D., & Schatz, M. F. (2013).
     <span class="nocase">The Initial State of Students Taking an
     Introductory Physics MOOC</span>. In P. V. Engelhardt, A. D.
@@ -698,21 +723,21 @@ scholar**](https://scholar.google.com/citations?hl=en&authuser=1&user=RyAEDZI1S2
     Conference Proceedings* (pp. 53–56).
     <https://doi.org/10.1119/perc.2013.pr.001>
 
-44. Caballero, M. D., Wilcox, B. R., Pepper, R. E., & Pollock, S. J.
+49. Caballero, M. D., Wilcox, B. R., Pepper, R. E., & Pollock, S. J.
     (2012). <span class="nocase">ACER: A Framework on the Use of
     Mathematics in Upper-division Physics</span>. In P. V.
     Engelhardt, A. D. Churukian, & N. S. Rebello (Eds.), *2012 Physics
     Education Research Conference Proceedings* (pp. 90–93).
     <https://doi.org/10.1063/1.4789659>
 
-45. Wilcox, B. R., Caballero, M. D., Pepper, R. E., & Pollock, S. J.
+50. Wilcox, B. R., Caballero, M. D., Pepper, R. E., & Pollock, S. J.
     (2012). <span class="nocase">Upper-division Student Understanding of
     Coulomb’s Law: Difficulties with Continuous Charge
     Distributions</span>. In P. V. Engelhardt, A. D. Churukian, & N. S.
     Rebello (Eds.), *2012 Physics Education Research Conference
     Proceedings* (pp. 418–421). <https://doi.org/10.1063/1.4789741>
 
-46. Aiken, J. M., Caballero, M. D., Douglas, S. S., Burk, J. B.,
+51. Aiken, J. M., Caballero, M. D., Douglas, S. S., Burk, J. B.,
     Scanlon, E. M., Thoms, B. D., & Schatz, M. F. (2012).
     <span class="nocase">Understanding Student Computational Thinking
     with Computational Modeling</span>. In P. V. Engelhardt, A. D.
