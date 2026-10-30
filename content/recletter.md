@@ -148,4 +148,4 @@ project description.
 The second one gives me something I can actually write about.
 
 *Shamelessly stolen from [Brian
-O'Shea](http://www.pa.msu.edu/~osheabr), then modified.*
+O'Shea](https://web.pa.msu.edu/people/osheabr/), then modified.*
